@@ -138,7 +138,12 @@ async function initPicker() {
     async function show(game){
         resultBox.style.display='block';
         const wikiTitle=encodeURIComponent(game['wiki-title']||game.title||'');
+        const forumThread=encodeURIComponent(game['thread']||game.title||'');
+        const serialId = game.id.slice(0,4);
+        const serialCode = game.id.slice(4);
         const wikiUrl=`https://wiki.rpcs3.net/index.php?title=${wikiTitle}`;
+        const forumUrl=`https://forums.rpcs3.net/thread-${forumThread}.html`;
+        const serialUrl = `https://www.serialstation.com/titles/${serialId}/${serialCode}`;
 
         let iconUrl = await getIconFromXML(game.id);
         if (!iconUrl) {
@@ -162,7 +167,9 @@ async function initPicker() {
                 </div>
             </div>
             <br>
-            <a target="_blank" href="${wikiUrl}"><button>RPCS3 Wiki Page</button></a>
+            <a target="_blank" href="${wikiUrl}"><button>Wiki</button></a>
+            <a target="_blank" href="${forumUrl}"><button>Forum</button></a>
+            <a target="_blank" href="${serialUrl}"><button>SerialStation</button></a>
         `;
         resultBox.scrollIntoView({behavior:'smooth'});
     }
