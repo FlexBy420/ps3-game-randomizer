@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>PS3 (RPCS3) Game Randomizer</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css">
+  <style>
+    body { font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; margin: 18px; background:#f6f7fb; color:#111; }
+    .container { max-width:700px; margin:0 auto; background:white; padding:26px; border-radius:16px; box-shadow:0 6px 20px rgba(20,20,40,0.08); text-align:center; }
+    h1 { margin:0 0 12px 0; font-size:26px; font-weight:800; }
+    .statuses { display:flex; gap:8px; flex-wrap:wrap; justify-content:center; margin:16px 0; }
+    .status-item { display:flex; align-items:center; gap:6px; padding:6px 10px; border-radius:8px; background:#fff; border:1px solid #e6e9f8; cursor:pointer; }
+    button { padding:12px 18px; border-radius:10px; border:0; cursor:pointer; background:#4f46e5; color:white; font-weight:700; font-size:16px; margin-top:12px; }
+    button.secondary { background:#efefef; color:#111; border:1px solid #ddd; }
+    .result { margin-top:22px; padding:18px; border-radius:14px; background:linear-gradient(180deg,#fff,#fbfdff); border:1px solid #eaeefb; }
+    .picked-game { font-size:20px; font-weight:800; margin-bottom:6px; }
+    .meta { font-size:13px; color:#666; }
+    footer { margin-top:16px; font-size:13px; color:#888; }
+    [data-bs-theme="dark"] body { background:#111; color:#eee; }
+    [data-bs-theme="dark"] .container { background:#222; box-shadow:none; }
+    [data-bs-theme="dark"] .status-item { background:#333; border:1px solid #555; color:#eee; }
+    [data-bs-theme="dark"] .result { background:#222; border:1px solid #555; color:#eee; }
+    [data-bs-theme="dark"] .meta { font-size:13px; color:#ffffff; }
+    [data-bs-theme="dark"] button.secondary { background:#444; color:#eee; border:1px solid #666; }
+    [data-bs-theme="dark"] footer { color:#aaa; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>PS Triple (RPCS3) Game Randomizer</h1>
+    <div class="small">Let javascript choose what to play!</div>
+
+    <div id="statuses" class="statuses"></div>
+    <div id="entryCount" class="small mb-2"></div>
+
+    <button id="randomBtn">Randomize Game</button>
+    <button id="resetBtn" class="secondary">Reset Filters</button>
+    <button id="darkModeToggle" class="btn btn-outline-secondary ms-2" type="button" title="Toggle dark mode"><i class="bi bi-moon"></i></button>
+
+    <div id="result" class="result" style="display:none;">
+      <div id="picked"></div>
+    </div>
+
+    <footer>
+      Source: RPCS3 Compatibility - September 2025<br>Website made by FlexBy
+    </footer>
+  </div>
+
+<script src="app.js"></script>
+</body>
+</html>
