@@ -153,7 +153,7 @@ async function initPicker() {
 
         pickedEl.innerHTML=`
             <div style="display:flex; gap:20px; align-items:center;">
-                <img src="${iconUrl}" style="width:320px; height:176px; border-radius:10px; object-fit:contain; box-shadow:0 0 8px #0003;">
+                <img src="${iconUrl}" class="game-icon">
                 <div>
                     <div class="picked-game">${game.title||'No title'}</div>
                     <div class="meta">
