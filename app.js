@@ -224,6 +224,16 @@ async function initPicker() {
                 'https://media1.tenor.com/m/6YrZxxOsPcwAAAAd/rpcs3-clienthax.gif',
                 'https://media1.tenor.com/m/of_mwJmMNbsAAAAd/azumanga-azumanga-daioh.gif',
                 'https://media1.tenor.com/m/ck2dxqKEeckAAAAC/azumanga-daioh-osaka.gif',
+                'https://media1.tenor.com/m/FWwIsM-hUwIAAAAd/little-big-planet-sackboy.gif',
+                'https://media1.tenor.com/m/qKsZaergs0wAAAAd/ps3-yakuza-yakuza-3.gif',
+                'https://media1.tenor.com/m/RegCRtgEfvoAAAAd/ferret-cute.gif',
+                'https://media1.tenor.com/m/eY_GvogaeE0AAAAd/ps3-lbp.gif',
+                'https://media1.tenor.com/m/BIMByBFjb6EAAAAd/skate-ps3.gif',
+                'https://media1.tenor.com/m/QGCqtkozTSgAAAAd/saving-private-ryan-playstation.gif',
+                'https://media1.tenor.com/m/niMeDNG9X_MAAAAd/ps3-firmware.gif',
+                'https://media1.tenor.com/m/xA5J2XODxF0AAAAd/together-we-are-the.gif',
+                'https://media1.tenor.com/m/Rm9lk5-7UTgAAAAd/kazuma-kiryu.gif',
+                'https://media1.tenor.com/m/3kN9WkUrZBoAAAAd/yakuza-ishin-yakuza.gif',
             ];
             iconUrl = placeholders[Math.floor(Math.random() * placeholders.length)];
         }
