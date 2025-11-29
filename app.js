@@ -253,6 +253,7 @@ async function initPicker() {
         [...statusesEl.querySelectorAll('input[type=checkbox]')].forEach(c=>c.checked=true);
         [...regionsEl.querySelectorAll('input[type=checkbox]')].forEach(c=>c.checked=true);
         [...typesEl.querySelectorAll('input[type=checkbox]')].forEach(c=>c.checked=true);
+        document.getElementById('onlineOnly').checked = false;
         updateTypeFilter();
         updateEntryCount();
     });
