@@ -3,10 +3,41 @@
 async function initPicker() {
     const API_URL = 'compatibility.json';
     const statusesEl = document.getElementById('statuses');
+    const regionsEl = document.getElementById('regions');
+    const typesEl = document.getElementById('types');
     const randomBtn = document.getElementById('randomBtn');
     const resetBtn = document.getElementById('resetBtn');
     const pickedEl = document.getElementById('picked');
     const resultBox = document.getElementById('result');
+    const ICON_ALIAS = {
+    // star ocean 4
+    "BLES00767": "MRTC00001",
+    "BLUS30462": "MRTC00001",
+    "BCKS10106": "MRTC00001",
+    "BLJM60189": "MRTC00001",
+    "BLJM60338": "MRTC00001",
+    // lost planet 2
+    "BLES00710": "MRTC00002",
+    "BLUS30434": "MRTC00002",
+    "BLAS50173": "MRTC00002",
+    "BLJM60177": "MRTC00002",
+    // ff13
+    "BLES00783": "MRTC00003",
+    "BLUS30416": "MRTC00003",
+    // sengoku basara
+    "BLES00832": "MRTC00005",
+    "BLUS30492": "MRTC00005",
+    "BLAS50250": "MRTC00005",
+    // blood drive
+    "BLUS30602": "MRTC00011",
+    "BLES01046": "MRTC00011",
+    // mindjack
+    "BLES01009": "MRTC00014",
+    "BLUS30547": "MRTC00014",
+    "BLJM60272": "MRTC00014",
+    // cabela
+    "BLES01112": "MRTC00016",
+    };
 
     let items = [];
 
@@ -23,29 +54,47 @@ async function initPicker() {
     const regionFullNames = {EU:'Europe',US:'USA',AS:'Asia',JP:'Japan',HK:'Hong Kong',KR:'Korea',IN:'International'};
 
     statusesEl.innerHTML='';
+    regionsEl.innerHTML='';
+    typesEl.innerHTML='';
     order.forEach(status=>{
         if(foundStatuses.has(status)){
             const label=document.createElement('label');
             label.className='status-item';
-            label.innerHTML=`<input type="checkbox" data-status="${status}" checked /> ${status}`;
+            label.innerHTML=`<input type="checkbox" data-status="${status}" checked/> ${status}`;
             statusesEl.appendChild(label);
         }
     });
-    const onlineLabel=document.createElement('label');
-    onlineLabel.className='status-item';
-    onlineLabel.innerHTML=`<input type="checkbox" id="onlineOnly" /> Online Only`;
-    statusesEl.appendChild(onlineLabel);
-    document.getElementById('onlineOnly').checked = false;
 
-    regions.forEach(region=>{
-        const label=document.createElement('label');
-        label.className='status-item';
-        label.innerHTML=`<input type="checkbox" data-region="${region}" checked /> ${regionFullNames[region]}`;
-        statusesEl.appendChild(label);
+    // disc or digital check
+    const discLabel = document.createElement('label');
+    discLabel.className='status-item';
+    discLabel.innerHTML=`<input type="checkbox" id="typeDisc" checked/> Disc`;
+
+    const digitalLabel = document.createElement('label');
+    digitalLabel.className='status-item';
+    digitalLabel.innerHTML=`<input type="checkbox" id="typeDigital" checked/> Digital`;
+
+    const onlineLabel = document.createElement('label');
+    onlineLabel.className='status-item';
+    onlineLabel.innerHTML=`<input type="checkbox" id="onlineOnly"/> Online Only`;
+
+    typesEl.appendChild(discLabel);
+    typesEl.appendChild(digitalLabel);
+    typesEl.appendChild(onlineLabel);
+
+    regions.forEach(region => {
+        const label = document.createElement('label');
+        label.className = 'status-item';
+        label.innerHTML = `
+            <input type="checkbox" data-region="${region}" checked/>
+            <img src="https://rpcs3.net/img/icons/compat/${region}.png" class="region-flag"/>
+            ${regionFullNames[region]}
+        `;
+        regionsEl.appendChild(label);
     });
 
     function getSelectedStatuses(){ return [...statusesEl.querySelectorAll('input[data-status]')].filter(c=>c.checked).map(c=>c.dataset.status);}
-    function getSelectedRegions(){ return [...statusesEl.querySelectorAll('input[data-region]')].filter(c=>c.checked).map(c=>c.dataset.region);}
+    function getSelectedRegions(){ return [...regionsEl.querySelectorAll('input[data-region]')].filter(c=>c.checked).map(c=>c.dataset.region);}
 
     function getRegionFromId(id){
       const c=(id[2]||'').toUpperCase();
@@ -58,6 +107,19 @@ async function initPicker() {
         case 'K':return 'KR';
         case 'I':case 'T':return 'IN';
         default:return 'unknown';}}
+
+    function getTypeFromId(id) {
+        if (id.startsWith("NP")) return "Digital";
+        return "Disc";
+    }
+
+    let selectedTypes = { Disc: true, Digital: true };
+
+    function updateTypeFilter() {
+        selectedTypes.Disc = document.getElementById("typeDisc")?.checked ?? true;
+        selectedTypes.Digital = document.getElementById("typeDigital")?.checked ?? true;
+    }
+    updateTypeFilter();
 
     function colorStatus(s){
       const colors={
@@ -73,23 +135,32 @@ async function initPicker() {
         const selectedStatuses = getSelectedStatuses();
         const selectedRegions = getSelectedRegions();
         const onlineOnly = document.getElementById('onlineOnly').checked;
-    
+
+        const selectedTypesLocal = {
+            Disc: document.getElementById('typeDisc').checked,
+            Digital: document.getElementById('typeDigital').checked
+        };
         const pool = items.filter(it =>
             selectedStatuses.includes(it.status) &&
             selectedRegions.includes(getRegionFromId(it.id)) &&
-            (onlineOnly ? true : it.network !== 1)
+            (onlineOnly ? true : it.network !== 1) &&
+            selectedTypesLocal[getTypeFromId(it.id)]
         );
       
         document.getElementById('entryCount').textContent = `Available entries: ${pool.length}`;
     }
 
-    [...statusesEl.querySelectorAll('input[type=checkbox]')].forEach(c =>{c.addEventListener('change', updateEntryCount);});
+    [...statusesEl.querySelectorAll('input[type=checkbox]'),...regionsEl.querySelectorAll('input[type=checkbox]'),...typesEl.querySelectorAll('input[type=checkbox]')].forEach(c => c.addEventListener('change', () => {
+        updateTypeFilter();
+        updateEntryCount();
+    }));
     updateEntryCount();
 
     // fetch game icon
     async function getIconFromXML(gameId){
         try{
-            const url=`https://raw.githubusercontent.com/FlexBy420/sce-tmdb-scraper/main/xml/${gameId}.xml`;
+            const realId = ICON_ALIAS[gameId] || gameId;
+            const url = `https://raw.githubusercontent.com/FlexBy420/sce-tmdb-scraper/main/xml/${realId}.xml`;
             const res=await fetch(url);
             if(!res.ok) return null;
             const text=await res.text();
@@ -112,10 +183,11 @@ async function initPicker() {
         const pool = items.filter(it =>
             selectedStatuses.includes(it.status) &&
             selectedRegions.includes(getRegionFromId(it.id)) &&
-            (onlineOnly ? true : it.network !== 1)
+            (onlineOnly ? true : it.network !== 1) &&
+            selectedTypes[getTypeFromId(it.id)]
         );
-        if (pool.length === 0) { alert('No games to randomize from.'); return; }
 
+        if (pool.length === 0) { alert('No games to randomize from.'); return; }
         resultBox.style.display = 'block';
 
         // animation: show random titles
@@ -162,7 +234,10 @@ async function initPicker() {
                 <div>
                     <div class="picked-game">${game.title||'No title'}</div>
                     <div class="meta">
-                        ID: ${game.id} · Status: ${colorStatus(game.status)} · Region: ${regionFullNames[getRegionFromId(game.id)]||getRegionFromId(game.id)} · Date: ${game.date||'—'}
+                        ID: ${game.id} · Status: ${colorStatus(game.status)}
+                         · Region: <img src="https://rpcs3.net/img/icons/compat/${getRegionFromId(game.id)}.png" alt="${getRegionFromId(game.id)}" class="region-flag">
+                         · Type: ${getTypeFromId(game.id)}
+                         · Date: ${game.date||'—'}
                     </div>
                 </div>
             </div>
@@ -174,9 +249,12 @@ async function initPicker() {
         resultBox.scrollIntoView({behavior:'smooth'});
     }
 
-    resetBtn.addEventListener('click', ()=>{[...statusesEl.querySelectorAll('input[type=checkbox]')].forEach(c=>c.checked=true);
-      document.getElementById('onlineOnly').checked = false;
-      updateEntryCount();
+    resetBtn.addEventListener('click', ()=>{
+        [...statusesEl.querySelectorAll('input[type=checkbox]')].forEach(c=>c.checked=true);
+        [...regionsEl.querySelectorAll('input[type=checkbox]')].forEach(c=>c.checked=true);
+        [...typesEl.querySelectorAll('input[type=checkbox]')].forEach(c=>c.checked=true);
+        updateTypeFilter();
+        updateEntryCount();
     });
     randomBtn.addEventListener('click',pick);
 
