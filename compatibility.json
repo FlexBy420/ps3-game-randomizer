@@ -10198,6 +10198,28 @@
             "pr": 8433,
             "network": 0
         },
+        "BLES01548": {
+            "title": "DiRT 3: Complete Edition",
+            "alternative-title": null,
+            "wiki-title": "DiRT_3",
+            "status": "Playable",
+            "date": "2025-08-09",
+            "thread": 199202,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
+            "network": 0
+        },
+        "BLUS30975": {
+            "title": "DiRT 3: Complete Edition",
+            "alternative-title": null,
+            "wiki-title": "DiRT_3",
+            "status": "Playable",
+            "date": "2025-08-09",
+            "thread": 204417,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
+            "network": 0
+        },
         "BLES01578": {
             "title": "DiRT Showdown",
             "alternative-title": null,
@@ -10207,6 +10229,17 @@
             "thread": 178971,
             "commit": "6a7324ab3ef234626112a93a1164e50e3444de27",
             "pr": 10521,
+            "network": 0
+        },
+        "NPUB30770": {
+            "title": "DiRT Showdown",
+            "alternative-title": null,
+            "wiki-title": "DiRT_Showdown",
+            "status": "Playable",
+            "date": "2025-08-09",
+            "thread": 206389,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
             "network": 0
         },
         "NPEB90408": {
@@ -16798,6 +16831,94 @@
             "pr": 15618,
             "network": 0
         },
+        "NPEB01222": {
+            "title": "GRID 2",
+            "alternative-title": "Race Driver: GRID 2",
+            "wiki-title": "GRID_2",
+            "status": "Playable",
+            "date": "2025-08-09",
+            "thread": 199059,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
+            "network": 0
+        },
+        "NPEB01342": {
+            "title": "GRID 2",
+            "alternative-title": "Race Driver: GRID 2",
+            "wiki-title": "GRID_2",
+            "status": "Playable",
+            "date": "2025-08-09",
+            "thread": 206384,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
+            "network": 0
+        },
+        "NPUB31075": {
+            "title": "GRID 2",
+            "alternative-title": "Race Driver: GRID 2",
+            "wiki-title": "GRID_2",
+            "status": "Playable",
+            "date": "2025-08-09",
+            "thread": 198446,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
+            "network": 0
+        },
+        "NPEB90520": {
+            "title": "GRID 2 Demo",
+            "alternative-title": "Race Driver: GRID 2 Demo",
+            "wiki-title": "GRID_2",
+            "status": "Playable",
+            "date": "2025-08-09",
+            "thread": 172584,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
+            "network": 0
+        },
+        "NPJB90634": {
+            "title": "GRID 2 Demo",
+            "alternative-title": "Race Driver: GRID 2 Demo",
+            "wiki-title": "GRID_2",
+            "status": "Playable",
+            "date": "2025-08-09",
+            "thread": 205831,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
+            "network": 0
+        },
+        "NPUB90988": {
+            "title": "GRID 2 Demo",
+            "alternative-title": "Race Driver: GRID 2 Demo",
+            "wiki-title": "GRID_2",
+            "status": "Playable",
+            "date": "2025-08-09",
+            "thread": 205835,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
+            "network": 0
+        },
+        "BLES02038": {
+            "title": "GRID: Autosport",
+            "alternative-title": null,
+            "wiki-title": "GRID:_Autosport",
+            "status": "Playable",
+            "date": "2025-08-09",
+            "thread": 188815,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
+            "network": 0
+        },
+        "BLUS31452": {
+            "title": "GRID: Autosport",
+            "alternative-title": null,
+            "wiki-title": "GRID:_Autosport",
+            "status": "Playable",
+            "date": "2025-08-09",
+            "thread": 181214,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
+            "network": 0
+        },
         "NPEB00001": {
             "title": "GripShift",
             "alternative-title": null,
@@ -21495,6 +21616,17 @@
             "pr": 13226,
             "network": 0
         },
+        "NPUB90622": {
+            "title": "LEGO Harry Potter: Years 5-7 Demo 2",
+            "alternative-title": null,
+            "wiki-title": null,
+            "status": "Playable",
+            "date": "2025-09-25",
+            "thread": 209182,
+            "commit": "6451c4d49fdf87380df65bd834d6582a1b6acde6",
+            "pr": 17528,
+            "network": 0
+        },
         "BLES00763": {
             "title": "LEGO Indiana Jones 2: The Adventure Continues",
             "alternative-title": null,
@@ -24815,17 +24947,6 @@
             "thread": 201036,
             "commit": "6a4ba9d562193228fc90e0d73252775cfafb20b2",
             "pr": 7074,
-            "network": 0
-        },
-        "BCUS99195": {
-            "title": "MLB 14: The Show",
-            "alternative-title": null,
-            "wiki-title": "MLB_14:_The_Show",
-            "status": "Playable",
-            "date": "2022-05-21",
-            "thread": 183217,
-            "commit": "ec2d529832a598334cf2f53420677fe66c8a6049",
-            "pr": 12020,
             "network": 0
         },
         "BLJM60998": {
@@ -32011,6 +32132,17 @@
             "pr": 6228,
             "network": 0
         },
+        "NPJA90260": {
+            "title": "Rain TGS 2013 Demo",
+            "alternative-title": null,
+            "wiki-title": null,
+            "status": "Playable",
+            "date": "2025-09-19",
+            "thread": 209167,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
+            "network": 0
+        },
         "NPJA90276": {
             "title": "Rain Trial Version",
             "alternative-title": null,
@@ -33078,15 +33210,59 @@
             "pr": 8384,
             "network": 0
         },
+        "NPEA90102": {
+            "title": "Resistance 3 - Haven Demo",
+            "alternative-title": null,
+            "wiki-title": "Resistance_3",
+            "status": "Playable",
+            "date": "2025-08-09",
+            "thread": 184365,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
+            "network": 0
+        },
         "NPHA80167": {
             "title": "Resistance 3 - Haven Demo",
             "alternative-title": null,
             "wiki-title": "Resistance_3",
             "status": "Playable",
-            "date": "2023-06-21",
+            "date": "2025-08-09",
             "thread": 206397,
-            "commit": "441fbd63bb8796bdd2986bed0caa94a178b9a3f2",
-            "pr": 14050,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
+            "network": 0
+        },
+        "NPUA70175": {
+            "title": "Resistance 3 - Haven Demo",
+            "alternative-title": null,
+            "wiki-title": "Resistance_3",
+            "status": "Playable",
+            "date": "2025-08-09",
+            "thread": 198353,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
+            "network": 0
+        },
+        "NPEA90094": {
+            "title": "Resistance 3 Demo",
+            "alternative-title": null,
+            "wiki-title": null,
+            "status": "Playable",
+            "date": "2025-09-25",
+            "thread": 209180,
+            "commit": "8163c6c041ab77d40f69946285c323ed9db7ea67",
+            "pr": 17495,
+            "network": 0
+        },
+        "NPUA70149": {
+            "title": "Resistance 3 Demo",
+            "alternative-title": null,
+            "wiki-title": null,
+            "status": "Playable",
+            "date": "2025-09-25",
+            "thread": 209181,
+            "commit": "8163c6c041ab77d40f69946285c323ed9db7ea67",
+            "pr": 17495,
             "network": 0
         },
         "NPEA00430": {
@@ -34407,17 +34583,6 @@
             "thread": 180687,
             "commit": "a346767a72d22613e61132ab3da1144802a42ba4",
             "pr": 10706,
-            "network": 0
-        },
-        "BLUS30666": {
-            "title": "Saints Row: The Third",
-            "alternative-title": null,
-            "wiki-title": "Saints_Row:_The_Third",
-            "status": "Playable",
-            "date": "2020-06-16",
-            "thread": 202002,
-            "commit": "c764925b4d976cc62b60257e56348cc0e51d8e79",
-            "pr": 8451,
             "network": 0
         },
         "NPEB90361": {
@@ -51833,39 +51998,6 @@
             "pr": 16166,
             "network": 0
         },
-        "BLES01548": {
-            "title": "DiRT 3: Complete Edition",
-            "alternative-title": null,
-            "wiki-title": "DiRT_3",
-            "status": "Ingame",
-            "date": "2022-06-01",
-            "thread": 199202,
-            "commit": "03df3c5293cf437d4e0b621e1a6c6253e565241a",
-            "pr": 12121,
-            "network": 0
-        },
-        "BLUS30975": {
-            "title": "DiRT 3: Complete Edition",
-            "alternative-title": null,
-            "wiki-title": "DiRT_3",
-            "status": "Ingame",
-            "date": "2022-06-01",
-            "thread": 204417,
-            "commit": "03df3c5293cf437d4e0b621e1a6c6253e565241a",
-            "pr": 12121,
-            "network": 0
-        },
-        "NPUB30770": {
-            "title": "DiRT Showdown",
-            "alternative-title": null,
-            "wiki-title": "DiRT_Showdown",
-            "status": "Ingame",
-            "date": "2023-06-19",
-            "thread": 206389,
-            "commit": "073b723c09375caa538613df91f7716fcc7f5718",
-            "pr": 14034,
-            "network": 0
-        },
         "BLES01674": {
             "title": "Dishonored",
             "alternative-title": null,
@@ -54913,72 +55045,6 @@
             "pr": 4831,
             "network": 0
         },
-        "NPEB01222": {
-            "title": "GRID 2",
-            "alternative-title": "Race Driver: GRID 2",
-            "wiki-title": "GRID_2",
-            "status": "Ingame",
-            "date": "2023-06-18",
-            "thread": 199059,
-            "commit": "a6d8c4343ff8afad8f72d9a5f0716bab53024706",
-            "pr": 14035,
-            "network": 0
-        },
-        "NPEB01342": {
-            "title": "GRID 2",
-            "alternative-title": "Race Driver: GRID 2",
-            "wiki-title": "GRID_2",
-            "status": "Ingame",
-            "date": "2023-06-18",
-            "thread": 206384,
-            "commit": "a6d8c4343ff8afad8f72d9a5f0716bab53024706",
-            "pr": 14035,
-            "network": 0
-        },
-        "NPUB31075": {
-            "title": "GRID 2",
-            "alternative-title": "Race Driver: GRID 2",
-            "wiki-title": "GRID_2",
-            "status": "Ingame",
-            "date": "2023-06-18",
-            "thread": 198446,
-            "commit": "a6d8c4343ff8afad8f72d9a5f0716bab53024706",
-            "pr": 14035,
-            "network": 0
-        },
-        "NPEB90520": {
-            "title": "GRID 2 Demo",
-            "alternative-title": "Race Driver: GRID 2 Demo",
-            "wiki-title": "GRID_2",
-            "status": "Ingame",
-            "date": "2023-02-02",
-            "thread": 172584,
-            "commit": "c471120a80ec6f12cd4489e1a9be073d7d9c96f2",
-            "pr": 13311,
-            "network": 0
-        },
-        "NPJB90634": {
-            "title": "GRID 2 Demo",
-            "alternative-title": "Race Driver: GRID 2 Demo",
-            "wiki-title": "GRID_2",
-            "status": "Ingame",
-            "date": "2023-02-02",
-            "thread": 205831,
-            "commit": "c471120a80ec6f12cd4489e1a9be073d7d9c96f2",
-            "pr": 13311,
-            "network": 0
-        },
-        "NPUB90988": {
-            "title": "GRID 2 Demo",
-            "alternative-title": "Race Driver: GRID 2 Demo",
-            "wiki-title": "GRID_2",
-            "status": "Ingame",
-            "date": "2023-02-02",
-            "thread": 205835,
-            "commit": "c471120a80ec6f12cd4489e1a9be073d7d9c96f2",
-            "pr": 13311,
-            "network": 0
-        },
         "NPEB90070": {
             "title": "GRID Demo",
             "alternative-title": "Race Driver: GRID Demo",
@@ -54999,28 +55065,6 @@
             "thread": 187231,
             "commit": "b3a9c8d83f82a4add89b58fe70bdf439fc429dbe",
             "pr": 13243,
-            "network": 0
-        },
-        "BLES02038": {
-            "title": "GRID: Autosport",
-            "alternative-title": null,
-            "wiki-title": "GRID:_Autosport",
-            "status": "Ingame",
-            "date": "2017-09-03",
-            "thread": 188815,
-            "commit": "9440e65452403b5c6f81a1f8069e37d0ec7b0668",
-            "pr": 3369,
-            "network": 0
-        },
-        "BLUS31452": {
-            "title": "GRID: Autosport",
-            "alternative-title": null,
-            "wiki-title": "GRID:_Autosport",
-            "status": "Ingame",
-            "date": "2017-09-03",
-            "thread": 181214,
-            "commit": "9440e65452403b5c6f81a1f8069e37d0ec7b0668",
-            "pr": 3369,
             "network": 0
         },
         "NPEB00060": {
@@ -58587,6 +58631,17 @@
             "pr": 5338,
             "network": 0
         },
+        "BCUS99195": {
+            "title": "MLB 14: The Show",
+            "alternative-title": null,
+            "wiki-title": "MLB_14:_The_Show",
+            "status": "Ingame",
+            "date": "2025-09-28",
+            "thread": 183217,
+            "commit": "359163c44298ef9baac835936fce192337ac560a",
+            "pr": 17458,
+            "network": 0
+        },
         "NPUA80969": {
             "title": "MLB 14: The Show",
             "alternative-title": null,
@@ -58955,10 +59010,10 @@
             "alternative-title": null,
             "wiki-title": "MotorStorm:_Apocalypse",
             "status": "Ingame",
-            "date": "2023-12-04",
+            "date": "2025-08-09",
             "thread": 180821,
-            "commit": "69ef9c8a6a4dffa9dfe21e57461befa06b5e6b7d",
-            "pr": 14865,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
             "network": 0
         },
         "NPHA80148": {
@@ -58966,10 +59021,10 @@
             "alternative-title": null,
             "wiki-title": "MotorStorm:_Apocalypse",
             "status": "Ingame",
-            "date": "2023-12-04",
+            "date": "2025-08-09",
             "thread": 206882,
-            "commit": "69ef9c8a6a4dffa9dfe21e57461befa06b5e6b7d",
-            "pr": 14865,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
             "network": 0
         },
         "NPUA70139": {
@@ -58977,10 +59032,10 @@
             "alternative-title": null,
             "wiki-title": "MotorStorm:_Apocalypse",
             "status": "Ingame",
-            "date": "2023-12-04",
+            "date": "2025-08-09",
             "thread": 206445,
-            "commit": "69ef9c8a6a4dffa9dfe21e57461befa06b5e6b7d",
-            "pr": 14865,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
             "network": 0
         },
         "NPUA70140": {
@@ -58988,10 +59043,10 @@
             "alternative-title": null,
             "wiki-title": "MotorStorm:_Apocalypse",
             "status": "Ingame",
-            "date": "2023-12-04",
+            "date": "2025-08-09",
             "thread": 197785,
-            "commit": "69ef9c8a6a4dffa9dfe21e57461befa06b5e6b7d",
-            "pr": 14865,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
             "network": 0
         },
         "BCES01334": {
@@ -60279,6 +60334,28 @@
             "thread": 200442,
             "commit": "9dc06cef7fb8482d15483904157fec99a574f786",
             "pr": 6467,
+            "network": 0
+        },
+        "BCED00060": {
+            "title": "Official PlayStation Magazine Issue 07: July 2007",
+            "alternative-title": null,
+            "wiki-title": null,
+            "status": "Ingame",
+            "date": "2025-09-30",
+            "thread": 209190,
+            "commit": "5b3c70fb18028007cd58433339039033de50b2ac",
+            "pr": 17537,
+            "network": 0
+        },
+        "BCED00084": {
+            "title": "Official PlayStation Magazine Issue 08: August 2007",
+            "alternative-title": null,
+            "wiki-title": null,
+            "status": "Ingame",
+            "date": "2025-09-30",
+            "thread": 209191,
+            "commit": "5b3c70fb18028007cd58433339039033de50b2ac",
+            "pr": 17537,
             "network": 0
         },
         "NPEA00007": {
@@ -61579,6 +61656,17 @@
             "pr": 8378,
             "network": 0
         },
+        "NPUA70171": {
+            "title": "Ratchet & Clank: All 4 One - Movie Demo",
+            "alternative-title": null,
+            "wiki-title": null,
+            "status": "Ingame",
+            "date": "2025-09-25",
+            "thread": 209183,
+            "commit": "6451c4d49fdf87380df65bd834d6582a1b6acde6",
+            "pr": 17528,
+            "network": 0
+        },
         "BCED01448": {
             "title": "Ratchet & Clank: All 4 One - Movie Demo",
             "alternative-title": null,
@@ -62360,28 +62448,6 @@
             "pr": 17320,
             "network": 0
         },
-        "NPEA90102": {
-            "title": "Resistance 3 - Haven Demo",
-            "alternative-title": null,
-            "wiki-title": "Resistance_3",
-            "status": "Ingame",
-            "date": "2020-01-31",
-            "thread": 184365,
-            "commit": "92466165f60ea894253d9d6b7be834d84f496c78",
-            "pr": 7331,
-            "network": 0
-        },
-        "NPUA70175": {
-            "title": "Resistance 3 - Haven Demo",
-            "alternative-title": null,
-            "wiki-title": "Resistance_3",
-            "status": "Ingame",
-            "date": "2020-01-31",
-            "thread": 198353,
-            "commit": "92466165f60ea894253d9d6b7be834d84f496c78",
-            "pr": 7331,
-            "network": 0
-        },
         "NPEA90001": {
             "title": "Resistance: Fall of Man Demo",
             "alternative-title": null,
@@ -62761,10 +62827,21 @@
             "alternative-title": null,
             "wiki-title": "Saints_Row_2",
             "status": "Ingame",
-            "date": "2023-09-13",
+            "date": "2025-09-13",
             "thread": 199205,
-            "commit": "f398f1113de8e1e316e95d345dcae0b7523cd132",
-            "pr": 14642,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
+            "network": 0
+        },
+        "BLES00375": {
+            "title": "Saints Row 2",
+            "alternative-title": null,
+            "wiki-title": "Saints_Row_2",
+            "status": "Ingame",
+            "date": "2025-09-13",
+            "thread": 209164,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
             "network": 0
         },
         "BLJM60089": {
@@ -62772,10 +62849,10 @@
             "alternative-title": null,
             "wiki-title": "Saints_Row_2",
             "status": "Ingame",
-            "date": "2023-09-13",
+            "date": "2025-09-13",
             "thread": 206726,
-            "commit": "f398f1113de8e1e316e95d345dcae0b7523cd132",
-            "pr": 14642,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
             "network": 0
         },
         "BLUS30201": {
@@ -62783,10 +62860,10 @@
             "alternative-title": null,
             "wiki-title": "Saints_Row_2",
             "status": "Ingame",
-            "date": "2023-09-13",
+            "date": "2025-09-13",
             "thread": 203408,
-            "commit": "f398f1113de8e1e316e95d345dcae0b7523cd132",
-            "pr": 14642,
+            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
+            "pr": 17320,
             "network": 0
         },
         "NPEB00637": {
@@ -62959,10 +63036,21 @@
             "alternative-title": null,
             "wiki-title": "Saints_Row:_The_Third",
             "status": "Ingame",
-            "date": "2020-02-02",
+            "date": "2020-06-16",
             "thread": 201298,
-            "commit": "32df80962632c9158eac3acba2fe63b54de9f296",
-            "pr": 7364,
+            "commit": "c764925b4d976cc62b60257e56348cc0e51d8e79",
+            "pr": 8451,
+            "network": 0
+        },
+        "BLUS30666": {
+            "title": "Saints Row: The Third",
+            "alternative-title": null,
+            "wiki-title": "Saints_Row:_The_Third",
+            "status": "Ingame",
+            "date": "2020-06-16",
+            "thread": 202002,
+            "commit": "c764925b4d976cc62b60257e56348cc0e51d8e79",
+            "pr": 8451,
             "network": 0
         },
         "BLES01747": {
@@ -67112,6 +67200,17 @@
             "pr": 5611,
             "network": 0
         },
+        "BLJM60492": {
+            "title": "Ultra Dimension NeptuneV",
+            "alternative-title": null,
+            "wiki-title": "Hyperdimension_Neptunia_Victory",
+            "status": "Ingame",
+            "date": "2025-09-22",
+            "thread": 209176,
+            "commit": "6bc690491fbe3f0c9e8431d6eddc628d2df96a9c",
+            "pr": 17525,
+            "network": 0
+        },
         "BCAS20097": {
             "title": "Uncharted 2: Among Thieves",
             "alternative-title": null,
@@ -70329,10 +70428,10 @@
             "alternative-title": null,
             "wiki-title": "Oddworld:_Stranger's_Wrath_HD",
             "status": "Intro",
-            "date": "2021-06-29",
+            "date": "2025-09-21",
             "thread": 178344,
-            "commit": "9b050a33e40cffa87e9385d73d5352c981e95982",
-            "pr": 10498,
+            "commit": "9524211b9adc7459fa3d770623615bb3503bbff9",
+            "pr": 17522,
             "network": 0
         },
         "NPUB90941": {
@@ -70340,10 +70439,10 @@
             "alternative-title": null,
             "wiki-title": "Oddworld:_Stranger's_Wrath_HD",
             "status": "Intro",
-            "date": "2021-06-29",
+            "date": "2025-09-21",
             "thread": 198513,
-            "commit": "9b050a33e40cffa87e9385d73d5352c981e95982",
-            "pr": 10498,
+            "commit": "9524211b9adc7459fa3d770623615bb3503bbff9",
+            "pr": 17522,
             "network": 0
         },
         "NPJB00681": {
