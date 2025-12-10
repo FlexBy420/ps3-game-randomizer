@@ -209,11 +209,11 @@ async function initPicker() {
     // display result
     async function show(game){
         resultBox.style.display='block';
-        const wikiTitle=encodeURIComponent(game['wiki-title']||game.title||'');
-        const forumThread=encodeURIComponent(game['thread']||game.title||'');
+        const wikiId=encodeURIComponent(game['wiki-id']||'');
+        const forumThread=encodeURIComponent(game['thread']||'');
         const serialId = game.id.slice(0,4);
         const serialCode = game.id.slice(4);
-        const wikiUrl=`https://wiki.rpcs3.net/index.php?title=${wikiTitle}`;
+        const wikiUrl=`https://wiki.rpcs3.net/index.php?curid=${wikiId}`;
         const forumUrl=`https://forums.rpcs3.net/thread-${forumThread}.html`;
         const serialUrl = `https://www.serialstation.com/titles/${serialId}/${serialCode}`;
 
@@ -252,7 +252,7 @@ async function initPicker() {
                 </div>
             </div>
             <br>
-            <a target="_blank" href="${wikiUrl}"><button>Wiki</button></a>
+            ${wikiId ? `<a target="_blank" href="${wikiUrl}"><button>Wiki</button></a>` : ''}
             <a target="_blank" href="${forumUrl}"><button>Forum</button></a>
             <a target="_blank" href="${serialUrl}"><button>SerialStation</button></a>
         `;
