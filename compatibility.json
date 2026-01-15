@@ -4500,31 +4500,42 @@
             "pr": 6299,
             "network": 0
         },
-        "BLES01315": {
+        "BCAS20186": {
             "title": "Bleach: Soul Resurreccion",
-            "alternative-title": null,
+            "alternative-title": "Bleach: Soul Ignition",
             "wiki-id": 1330,
             "status": "Playable",
-            "date": "2020-05-10",
+            "date": "2023-12-07",
+            "thread": 206887,
+            "commit": "ab8a12e211efdbe6f910af107eb86d763bbaef84",
+            "pr": 14820,
+            "network": 0
+        },
+        "BLES01315": {
+            "title": "Bleach: Soul Resurreccion",
+            "alternative-title": "Bleach: Soul Ignition",
+            "wiki-id": 1330,
+            "status": "Playable",
+            "date": "2023-12-07",
             "thread": 173843,
-            "commit": "a1b6415c5af951475e09848131ec49f8babde226",
-            "pr": 8166,
+            "commit": "ab8a12e211efdbe6f910af107eb86d763bbaef84",
+            "pr": 14820,
             "network": 0
         },
         "BLUS30769": {
             "title": "Bleach: Soul Resurreccion",
-            "alternative-title": null,
+            "alternative-title": "Bleach: Soul Ignition",
             "wiki-id": 1330,
             "status": "Playable",
-            "date": "2020-05-10",
+            "date": "2023-12-07",
             "thread": 187670,
-            "commit": "a1b6415c5af951475e09848131ec49f8babde226",
-            "pr": 8166,
+            "commit": "ab8a12e211efdbe6f910af107eb86d763bbaef84",
+            "pr": 14820,
             "network": 0
         },
         "NPJA90172": {
             "title": "Bleach: Soul Resurreccion Demo",
-            "alternative-title": null,
+            "alternative-title": "Bleach: Soul Ignition Demo",
             "wiki-id": 1330,
             "status": "Playable",
             "date": "2021-03-26",
@@ -6106,24 +6117,24 @@
             "pr": 11539,
             "network": 0
         },
-        "NPUA80088": {
-            "title": "Calling All Cars",
-            "alternative-title": null,
-            "wiki-id": 1378,
-            "status": "Playable",
-            "date": "2019-08-11",
-            "thread": 177641,
-            "commit": "94d33003a3c3a8e0d7bb43237a5059648a43ba56",
-            "pr": 6319,
-            "network": 0
-        },
         "NPEA00029": {
-            "title": "Calling All Cars!",
+            "title": "Calling All Cars",
             "alternative-title": null,
             "wiki-id": 1378,
             "status": "Playable",
             "date": "2025-12-11",
             "thread": 209321,
+            "commit": "0f1eadcab038fa6f2d20cb639fe16d72b97f9b4a",
+            "pr": 17837,
+            "network": 0
+        },
+        "NPUA80088": {
+            "title": "Calling All Cars",
+            "alternative-title": null,
+            "wiki-id": 1378,
+            "status": "Playable",
+            "date": "2025-12-11",
+            "thread": 177641,
             "commit": "0f1eadcab038fa6f2d20cb639fe16d72b97f9b4a",
             "pr": 17837,
             "network": 0
@@ -12312,7 +12323,7 @@
         },
         "BLES00825": {
             "title": "Dynasty Warriors: Strikeforce",
-            "alternative-title": null,
+            "alternative-title": "Shin Sangoku Musou MULTI RAID Special",
             "wiki-id": 1513,
             "status": "Playable",
             "date": "2022-03-08",
@@ -12321,9 +12332,20 @@
             "pr": 11605,
             "network": 0
         },
+        "BLJM60172": {
+            "title": "Dynasty Warriors: Strikeforce",
+            "alternative-title": "Shin Sangoku Musou MULTI RAID Special",
+            "wiki-id": 1513,
+            "status": "Playable",
+            "date": "2022-03-08",
+            "thread": 201922,
+            "commit": "00f6763228b912a0e38374fc6ee4f6f62d5dccd2",
+            "pr": 11605,
+            "network": 0
+        },
         "BLUS30471": {
             "title": "Dynasty Warriors: Strikeforce",
-            "alternative-title": null,
+            "alternative-title": "Shin Sangoku Musou MULTI RAID Special",
             "wiki-id": 1513,
             "status": "Playable",
             "date": "2022-03-08",
@@ -12332,15 +12354,26 @@
             "pr": 11605,
             "network": 0
         },
-        "NPUB90361": {
+        "NPJB90220": {
             "title": "Dynasty Warriors: Strikeforce Demo",
-            "alternative-title": null,
+            "alternative-title": "Shin Sangoku Musou MULTI RAID Special Demo",
             "wiki-id": 1513,
             "status": "Playable",
-            "date": "2019-05-30",
+            "date": "2023-06-22",
+            "thread": 206411,
+            "commit": "00cca7be698432c2f380c1cf74edbed5533d8123",
+            "pr": 14051,
+            "network": 0
+        },
+        "NPUB90361": {
+            "title": "Dynasty Warriors: Strikeforce Demo",
+            "alternative-title": "Shin Sangoku Musou MULTI RAID Special Demo",
+            "wiki-id": 1513,
+            "status": "Playable",
+            "date": "2023-06-22",
             "thread": 198987,
-            "commit": "e118c9e5dacff324a16db1bba6f639909f588951",
-            "pr": 6030,
+            "commit": "00cca7be698432c2f380c1cf74edbed5533d8123",
+            "pr": 14051,
             "network": 0
         },
         "BLJM60528": {
@@ -13045,6 +13078,17 @@
             "thread": 198795,
             "commit": "6e89e4ebbf158473904e768815935895228a9543",
             "pr": 6299,
+            "network": 0
+        },
+        "BLJS10017": {
+            "title": "Eternal Sonata",
+            "alternative-title": "Trusty Bell Chopin no Yume Reprise",
+            "wiki-id": 1528,
+            "status": "Playable",
+            "date": "2017-02-06",
+            "thread": 177841,
+            "commit": "9b122e544985fea6bb1228395144a241b013319c",
+            "pr": 2343,
             "network": 0
         },
         "NPUB31385": {
@@ -14787,7 +14831,7 @@
         },
         "NPEB90285": {
             "title": "Fist of the North Star: Ken's Rage Demo",
-            "alternative-title": null,
+            "alternative-title": "Shin Hokuto Musou Trial Version",
             "wiki-id": 1579,
             "status": "Playable",
             "date": "2023-04-19",
@@ -14796,9 +14840,20 @@
             "pr": 13701,
             "network": 0
         },
+        "NPJB90575": {
+            "title": "Fist of the North Star: Ken's Rage Demo",
+            "alternative-title": "Shin Hokuto Musou Trial Version",
+            "wiki-id": 1579,
+            "status": "Playable",
+            "date": "2023-04-19",
+            "thread": 205817,
+            "commit": "6981cbb9856ea5810f422408f1487cb7a41e55c0",
+            "pr": 13701,
+            "network": 0
+        },
         "NPUB90456": {
             "title": "Fist of the North Star: Ken's Rage Demo",
-            "alternative-title": null,
+            "alternative-title": "Shin Hokuto Musou Trial Version",
             "wiki-id": 1579,
             "status": "Playable",
             "date": "2023-04-19",
@@ -16479,15 +16534,26 @@
             "pr": 14535,
             "network": 0
         },
+        "NPEA00050": {
+            "title": "Gran Turismo 5 Prologue",
+            "alternative-title": null,
+            "wiki-id": 911,
+            "status": "Playable",
+            "date": "2026-01-09",
+            "thread": 209363,
+            "commit": "49bcc930727ced0ea935155f8ef8bf4a4ce4e6e1",
+            "pr": 17855,
+            "network": 0
+        },
         "NPUA80075": {
             "title": "Gran Turismo 5 Prologue",
             "alternative-title": null,
             "wiki-id": 911,
             "status": "Playable",
-            "date": "2025-10-08",
+            "date": "2026-01-09",
             "thread": 197608,
-            "commit": "b18a0830f3be7b9a7368344c5e212b00dcf8a0a0",
-            "pr": 16611,
+            "commit": "49bcc930727ced0ea935155f8ef8bf4a4ce4e6e1",
+            "pr": 17855,
             "network": 0
         },
         "BCES00104": {
@@ -16939,6 +17005,17 @@
             "thread": 205835,
             "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
             "pr": 17320,
+            "network": 0
+        },
+        "NPUB31527": {
+            "title": "GRID: Autosport",
+            "alternative-title": null,
+            "wiki-id": 1620,
+            "status": "Playable",
+            "date": "2026-01-10",
+            "thread": 209365,
+            "commit": "49bcc930727ced0ea935155f8ef8bf4a4ce4e6e1",
+            "pr": 17855,
             "network": 0
         },
         "BLES02038": {
@@ -25862,6 +25939,17 @@
             "pr": 17708,
             "network": 0
         },
+        "NPUA80499": {
+            "title": "MotorStorm 3D Rift",
+            "alternative-title": null,
+            "wiki-id": 1057,
+            "status": "Playable",
+            "date": "2026-01-04",
+            "thread": 198453,
+            "commit": "cc37a40f400edc048b72cb74726f5a8154dfbc04",
+            "pr": 17959,
+            "network": 0
+        },
         "NPEA80017": {
             "title": "MotorStorm Demo",
             "alternative-title": null,
@@ -28711,6 +28799,17 @@
             "pr": 4364,
             "network": 0
         },
+        "NPEB90187": {
+            "title": "Ninja Gaiden Sigma 2 Demo",
+            "alternative-title": null,
+            "wiki-id": 2060,
+            "status": "Playable",
+            "date": "2023-06-22",
+            "thread": 203783,
+            "commit": "00cca7be698432c2f380c1cf74edbed5533d8123",
+            "pr": 14051,
+            "network": 0
+        },
         "NPHB00159": {
             "title": "Ninja Gaiden Sigma 2 Demo",
             "alternative-title": null,
@@ -28718,6 +28817,28 @@
             "status": "Playable",
             "date": "2023-06-22",
             "thread": 206406,
+            "commit": "00cca7be698432c2f380c1cf74edbed5533d8123",
+            "pr": 14051,
+            "network": 0
+        },
+        "NPJB90207": {
+            "title": "Ninja Gaiden Sigma 2 Demo",
+            "alternative-title": null,
+            "wiki-id": 2060,
+            "status": "Playable",
+            "date": "2023-06-22",
+            "thread": 205765,
+            "commit": "00cca7be698432c2f380c1cf74edbed5533d8123",
+            "pr": 14051,
+            "network": 0
+        },
+        "NPUB90274": {
+            "title": "Ninja Gaiden Sigma 2 Demo",
+            "alternative-title": null,
+            "wiki-id": 2060,
+            "status": "Playable",
+            "date": "2023-06-22",
+            "thread": 184207,
             "commit": "00cca7be698432c2f380c1cf74edbed5533d8123",
             "pr": 14051,
             "network": 0
@@ -31133,7 +31254,7 @@
         },
         "BLES00110": {
             "title": "Pro Evolution Soccer 2008",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2008",
             "wiki-id": 402,
             "status": "Playable",
             "date": "2021-05-19",
@@ -31144,7 +31265,7 @@
         },
         "BLUS30111": {
             "title": "Pro Evolution Soccer 2008",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2008",
             "wiki-id": 402,
             "status": "Playable",
             "date": "2021-05-19",
@@ -31155,7 +31276,7 @@
         },
         "NPEB90025": {
             "title": "Pro Evolution Soccer 2008 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2008 Demo",
             "wiki-id": 402,
             "status": "Playable",
             "date": "2023-01-30",
@@ -31166,7 +31287,7 @@
         },
         "NPJB90061": {
             "title": "Pro Evolution Soccer 2008 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2008 Demo",
             "wiki-id": 402,
             "status": "Playable",
             "date": "2023-01-30",
@@ -31177,7 +31298,7 @@
         },
         "BLES00338": {
             "title": "Pro Evolution Soccer 2009",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2009",
             "wiki-id": 403,
             "status": "Playable",
             "date": "2018-06-10",
@@ -31188,7 +31309,7 @@
         },
         "NPEB90111": {
             "title": "Pro Evolution Soccer 2009 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2009 Demo",
             "wiki-id": 403,
             "status": "Playable",
             "date": "2023-01-30",
@@ -31199,7 +31320,7 @@
         },
         "NPJB90144": {
             "title": "Pro Evolution Soccer 2009 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2009 Demo",
             "wiki-id": 403,
             "status": "Playable",
             "date": "2023-01-30",
@@ -31210,29 +31331,40 @@
         },
         "BLES00689": {
             "title": "Pro Evolution Soccer 2010",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2010 - Aoki Samurai no Chousen",
             "wiki-id": 2128,
             "status": "Playable",
-            "date": "2019-03-17",
+            "date": "2023-09-03",
             "thread": 200195,
-            "commit": "3ef16bee475160f6d09ba66191438e51eaf1c081",
-            "pr": 5726,
+            "commit": "b5dac0c3337ef62803a58f8f51dce9acdf2f31f3",
+            "pr": 14610,
+            "network": 0
+        },
+        "BLJM60224": {
+            "title": "Pro Evolution Soccer 2010",
+            "alternative-title": "World Soccer: Winning Eleven 2010 - Aoki Samurai no Chousen",
+            "wiki-id": 2128,
+            "status": "Playable",
+            "date": "2023-09-03",
+            "thread": 206702,
+            "commit": "b5dac0c3337ef62803a58f8f51dce9acdf2f31f3",
+            "pr": 14610,
             "network": 0
         },
         "BLUS30404": {
             "title": "Pro Evolution Soccer 2010",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2010 - Aoki Samurai no Chousen",
             "wiki-id": 2128,
             "status": "Playable",
-            "date": "2019-03-17",
+            "date": "2023-09-03",
             "thread": 197267,
-            "commit": "3ef16bee475160f6d09ba66191438e51eaf1c081",
-            "pr": 5726,
+            "commit": "b5dac0c3337ef62803a58f8f51dce9acdf2f31f3",
+            "pr": 14610,
             "network": 0
         },
         "NPEB90190": {
             "title": "Pro Evolution Soccer 2010 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2010 - Aoki Samurai no Chousen Demo",
             "wiki-id": 2128,
             "status": "Playable",
             "date": "2023-12-15",
@@ -31241,9 +31373,20 @@
             "pr": 14895,
             "network": 0
         },
+        "NPHB00149": {
+            "title": "Pro Evolution Soccer 2010 Demo",
+            "alternative-title": "World Soccer: Winning Eleven 2010 - Aoki Samurai no Chousen Demo",
+            "wiki-id": 2128,
+            "status": "Playable",
+            "date": "2023-12-15",
+            "thread": 206405,
+            "commit": "cee6d03033fe43ee3875d6196d6d3697144d51b0",
+            "pr": 14895,
+            "network": 0
+        },
         "NPUB90324": {
             "title": "Pro Evolution Soccer 2010 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2010 - Aoki Samurai no Chousen Demo",
             "wiki-id": 2128,
             "status": "Playable",
             "date": "2023-12-15",
@@ -31254,7 +31397,7 @@
         },
         "BLES01022": {
             "title": "Pro Evolution Soccer 2011",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2011",
             "wiki-id": 2129,
             "status": "Playable",
             "date": "2019-03-18",
@@ -31265,7 +31408,7 @@
         },
         "NPEB90279": {
             "title": "Pro Evolution Soccer 2011 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2011 Demo",
             "wiki-id": 2129,
             "status": "Playable",
             "date": "2023-12-15",
@@ -31276,7 +31419,7 @@
         },
         "NPUB90440": {
             "title": "Pro Evolution Soccer 2011 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2011 Demo",
             "wiki-id": 2129,
             "status": "Playable",
             "date": "2023-12-15",
@@ -31287,7 +31430,7 @@
         },
         "BLES01407": {
             "title": "Pro Evolution Soccer 2012",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2012",
             "wiki-id": 2130,
             "status": "Playable",
             "date": "2019-03-18",
@@ -31298,7 +31441,7 @@
         },
         "BLES01408": {
             "title": "Pro Evolution Soccer 2012",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2012",
             "wiki-id": 2130,
             "status": "Playable",
             "date": "2019-03-18",
@@ -31309,7 +31452,7 @@
         },
         "BLUS30805": {
             "title": "Pro Evolution Soccer 2012",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2012",
             "wiki-id": 2130,
             "status": "Playable",
             "date": "2019-03-18",
@@ -31320,7 +31463,7 @@
         },
         "NPEB90360": {
             "title": "Pro Evolution Soccer 2012 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2012 Demo",
             "wiki-id": 2130,
             "status": "Playable",
             "date": "2023-01-29",
@@ -31331,7 +31474,7 @@
         },
         "NPEB90367": {
             "title": "Pro Evolution Soccer 2012 Demo 2",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2012 Demo 2",
             "wiki-id": 2130,
             "status": "Playable",
             "date": "2023-01-29",
@@ -31342,7 +31485,7 @@
         },
         "BLES01709": {
             "title": "Pro Evolution Soccer 2013",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2013",
             "wiki-id": 2131,
             "status": "Playable",
             "date": "2019-03-18",
@@ -31353,7 +31496,7 @@
         },
         "BLES01710": {
             "title": "Pro Evolution Soccer 2013",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2013",
             "wiki-id": 2131,
             "status": "Playable",
             "date": "2019-03-18",
@@ -31364,7 +31507,7 @@
         },
         "NPEB90443": {
             "title": "Pro Evolution Soccer 2013 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2013 Demo",
             "wiki-id": 2131,
             "status": "Playable",
             "date": "2023-12-15",
@@ -31375,7 +31518,7 @@
         },
         "NPJB90530": {
             "title": "Pro Evolution Soccer 2013 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2013 Demo",
             "wiki-id": 2131,
             "status": "Playable",
             "date": "2023-12-15",
@@ -31386,7 +31529,7 @@
         },
         "NPUB90831": {
             "title": "Pro Evolution Soccer 2013 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2013 Demo",
             "wiki-id": 2131,
             "status": "Playable",
             "date": "2023-12-15",
@@ -31397,7 +31540,7 @@
         },
         "NPEB90460": {
             "title": "Pro Evolution Soccer 2013 Demo 2",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2013 Demo 2",
             "wiki-id": 2131,
             "status": "Playable",
             "date": "2023-12-15",
@@ -31408,7 +31551,7 @@
         },
         "NPJB90539": {
             "title": "Pro Evolution Soccer 2013 Demo 2",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2013 Demo 2",
             "wiki-id": 2131,
             "status": "Playable",
             "date": "2023-12-15",
@@ -31419,7 +31562,7 @@
         },
         "NPUB90854": {
             "title": "Pro Evolution Soccer 2013 Demo 2",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2013 Demo 2",
             "wiki-id": 2131,
             "status": "Playable",
             "date": "2023-12-15",
@@ -31430,7 +31573,7 @@
         },
         "BLES01930": {
             "title": "Pro Evolution Soccer 2014",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2014 - Aoki Samurai no Chousen",
             "wiki-id": 2132,
             "status": "Playable",
             "date": "2020-02-03",
@@ -31441,7 +31584,7 @@
         },
         "BLJM61176": {
             "title": "Pro Evolution Soccer 2014",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2014 - Aoki Samurai no Chousen",
             "wiki-id": 2132,
             "status": "Playable",
             "date": "2020-02-03",
@@ -31452,7 +31595,7 @@
         },
         "BLUS31322": {
             "title": "Pro Evolution Soccer 2014",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2014 - Aoki Samurai no Chousen",
             "wiki-id": 2132,
             "status": "Playable",
             "date": "2020-02-03",
@@ -31463,7 +31606,7 @@
         },
         "NPJB90691": {
             "title": "Pro Evolution Soccer 2014 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2014 - Aoki Samurai no Chousen Demo",
             "wiki-id": 2132,
             "status": "Playable",
             "date": "2023-12-16",
@@ -31474,7 +31617,7 @@
         },
         "NPEB90522": {
             "title": "Pro Evolution Soccer 2014 Demo 2",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2014 - Aoki Samurai no Chousen Demo 2",
             "wiki-id": 2132,
             "status": "Playable",
             "date": "2023-12-16",
@@ -31485,7 +31628,7 @@
         },
         "NPHB00601": {
             "title": "Pro Evolution Soccer 2014 Demo 2",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2014 - Aoki Samurai no Chousen Demo 2",
             "wiki-id": 2132,
             "status": "Playable",
             "date": "2023-12-16",
@@ -31496,7 +31639,7 @@
         },
         "NPJB90632": {
             "title": "Pro Evolution Soccer 2014 Demo 2",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2014 - Aoki Samurai no Chousen Demo 2",
             "wiki-id": 2132,
             "status": "Playable",
             "date": "2023-12-16",
@@ -31507,7 +31650,7 @@
         },
         "NPUB90987": {
             "title": "Pro Evolution Soccer 2014 Demo 2",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2014 - Aoki Samurai no Chousen Demo 2",
             "wiki-id": 2132,
             "status": "Playable",
             "date": "2023-12-16",
@@ -31518,7 +31661,7 @@
         },
         "BLES02088": {
             "title": "Pro Evolution Soccer 2015",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2015",
             "wiki-id": 2133,
             "status": "Playable",
             "date": "2019-04-13",
@@ -31529,7 +31672,7 @@
         },
         "BLUS31480": {
             "title": "Pro Evolution Soccer 2015",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2015",
             "wiki-id": 2133,
             "status": "Playable",
             "date": "2019-04-13",
@@ -31540,7 +31683,7 @@
         },
         "NPEB90552": {
             "title": "Pro Evolution Soccer 2015 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2015 Demo",
             "wiki-id": 2133,
             "status": "Playable",
             "date": "2023-12-15",
@@ -31551,7 +31694,7 @@
         },
         "NPHB00694": {
             "title": "Pro Evolution Soccer 2015 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2015 Demo",
             "wiki-id": 2133,
             "status": "Playable",
             "date": "2023-12-15",
@@ -31562,7 +31705,7 @@
         },
         "NPJB90728": {
             "title": "Pro Evolution Soccer 2015 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2015 Demo",
             "wiki-id": 2133,
             "status": "Playable",
             "date": "2023-12-15",
@@ -31573,7 +31716,7 @@
         },
         "NPUB91020": {
             "title": "Pro Evolution Soccer 2015 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2015 Demo",
             "wiki-id": 2133,
             "status": "Playable",
             "date": "2023-12-15",
@@ -31584,7 +31727,7 @@
         },
         "BLES02228": {
             "title": "Pro Evolution Soccer 2016",
-            "alternative-title": "UEFA Euro 2016",
+            "alternative-title": "World Soccer: Winning Eleven 2016",
             "wiki-id": 2134,
             "status": "Playable",
             "date": "2020-01-25",
@@ -31595,7 +31738,7 @@
         },
         "BLUS31564": {
             "title": "Pro Evolution Soccer 2016",
-            "alternative-title": "UEFA Euro 2016",
+            "alternative-title": "World Soccer: Winning Eleven 2016",
             "wiki-id": 2134,
             "status": "Playable",
             "date": "2020-01-25",
@@ -31606,7 +31749,7 @@
         },
         "NPEB90564": {
             "title": "Pro Evolution Soccer 2016 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2016 Demo",
             "wiki-id": 2134,
             "status": "Playable",
             "date": "2023-12-15",
@@ -31617,7 +31760,7 @@
         },
         "NPHB00728": {
             "title": "Pro Evolution Soccer 2016 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2016 Demo",
             "wiki-id": 2134,
             "status": "Playable",
             "date": "2023-12-15",
@@ -31628,7 +31771,7 @@
         },
         "NPJB90789": {
             "title": "Pro Evolution Soccer 2016 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2016 Demo",
             "wiki-id": 2134,
             "status": "Playable",
             "date": "2023-12-15",
@@ -31639,7 +31782,7 @@
         },
         "NPUB91031": {
             "title": "Pro Evolution Soccer 2016 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2016 Demo",
             "wiki-id": 2134,
             "status": "Playable",
             "date": "2023-12-15",
@@ -35355,24 +35498,24 @@
             "pr": 10453,
             "network": 0
         },
-        "BLES00733": {
-            "title": "Scene It? Bright Lights! Big Screen!",
-            "alternative-title": null,
-            "wiki-id": 2294,
-            "status": "Playable",
-            "date": "2020-04-15",
-            "thread": 196980,
-            "commit": "bc3b70c338005530ef0629e795a1dc3203965300",
-            "pr": 8033,
-            "network": 0
-        },
         "BLES00732": {
-            "title": "Scene It? Ganz grosses Kino!",
+            "title": "Scene It? Bright Lights! Big Screen!",
             "alternative-title": null,
             "wiki-id": 2294,
             "status": "Playable",
             "date": "2023-03-01",
             "thread": 206049,
+            "commit": "73b5b9d7b78aafb6fc553a076e121aa91d8844ef",
+            "pr": 13459,
+            "network": 0
+        },
+        "BLES00733": {
+            "title": "Scene It? Bright Lights! Big Screen!",
+            "alternative-title": null,
+            "wiki-id": 2294,
+            "status": "Playable",
+            "date": "2023-03-01",
+            "thread": 196980,
             "commit": "73b5b9d7b78aafb6fc553a076e121aa91d8844ef",
             "pr": 13459,
             "network": 0
@@ -36147,28 +36290,6 @@
             "pr": 15011,
             "network": 0
         },
-        "BLJM60172": {
-            "title": "Shin Sangoku Musou MULTI RAID Special",
-            "alternative-title": null,
-            "wiki-id": 1513,
-            "status": "Playable",
-            "date": "2020-05-24",
-            "thread": 201922,
-            "commit": "865180e63e10b5336ca062829d6b1fad8618a3c7",
-            "pr": 8278,
-            "network": 0
-        },
-        "NPJB90220": {
-            "title": "Shin Sangoku Musou MULTI RAID Special Demo",
-            "alternative-title": null,
-            "wiki-id": 1513,
-            "status": "Playable",
-            "date": "2023-06-22",
-            "thread": 206411,
-            "commit": "00cca7be698432c2f380c1cf74edbed5533d8123",
-            "pr": 14051,
-            "network": 0
-        },
         "BLJM60426": {
             "title": "Shin Toudai Shougi",
             "alternative-title": null,
@@ -36235,20 +36356,9 @@
             "pr": 8235,
             "network": 0
         },
-        "BLES02007": {
-            "title": "Short Peace: Ranko Tsukigime's Longest Day",
-            "alternative-title": null,
-            "wiki-id": 2350,
-            "status": "Playable",
-            "date": "2017-10-18",
-            "thread": 179309,
-            "commit": null,
-            "pr": null,
-            "network": 0
-        },
         "NPEB01969": {
             "title": "Short Peace: Ranko Tsukigime's Longest Day",
-            "alternative-title": null,
+            "alternative-title": "Short Peace: Tsukigime Ranko no Ichiban Nagai Hi",
             "wiki-id": 2350,
             "status": "Playable",
             "date": "2018-07-07",
@@ -36257,9 +36367,20 @@
             "pr": 4844,
             "network": 0
         },
+        "BLES02007": {
+            "title": "Short Peace: Ranko Tsukigime's Longest Day",
+            "alternative-title": "Short Peace: Tsukigime Ranko no Ichiban Nagai Hi",
+            "wiki-id": 2350,
+            "status": "Playable",
+            "date": "2019-01-26",
+            "thread": 179309,
+            "commit": "587fe421eef80112471320a85c8f6e701c48649b",
+            "pr": 5595,
+            "network": 0
+        },
         "BLJS92001": {
-            "title": "Short Peace: Tsukigime Ranko no Ichiban Nagai Hi",
-            "alternative-title": null,
+            "title": "Short Peace: Ranko Tsukigime's Longest Day",
+            "alternative-title": "Short Peace: Tsukigime Ranko no Ichiban Nagai Hi",
             "wiki-id": 2350,
             "status": "Playable",
             "date": "2019-01-26",
@@ -36818,17 +36939,6 @@
             "pr": 16990,
             "network": 0
         },
-        "BCES02046": {
-            "title": "SingStar: Mistrzowska Impreza",
-            "alternative-title": null,
-            "wiki-id": 2380,
-            "status": "Playable",
-            "date": "2025-03-31",
-            "thread": 208818,
-            "commit": "6511e0f3e6f72a3bf46057f9fee0957edc333d34",
-            "pr": 16967,
-            "network": 0
-        },
         "BCES02025": {
             "title": "SingStar: Ultimate Party",
             "alternative-title": null,
@@ -36836,8 +36946,8 @@
             "status": "Playable",
             "date": "2025-03-31",
             "thread": 183216,
-            "commit": "2f8ed1a6bd7a6424e05c4425a647c9eecca13a91",
-            "pr": 16965,
+            "commit": "6511e0f3e6f72a3bf46057f9fee0957edc333d34",
+            "pr": 16967,
             "network": 0
         },
         "BCES02042": {
@@ -36847,8 +36957,19 @@
             "status": "Playable",
             "date": "2025-03-31",
             "thread": 208807,
-            "commit": "2f8ed1a6bd7a6424e05c4425a647c9eecca13a91",
-            "pr": 16965,
+            "commit": "6511e0f3e6f72a3bf46057f9fee0957edc333d34",
+            "pr": 16967,
+            "network": 0
+        },
+        "BCES02046": {
+            "title": "SingStar: Ultimate Party",
+            "alternative-title": null,
+            "wiki-id": 2380,
+            "status": "Playable",
+            "date": "2025-03-31",
+            "thread": 208818,
+            "commit": "6511e0f3e6f72a3bf46057f9fee0957edc333d34",
+            "pr": 16967,
             "network": 0
         },
         "BLES00560": {
@@ -38908,17 +39029,6 @@
             "pr": 7497,
             "network": 0
         },
-        "NPHA80003": {
-            "title": "Star Strike HD",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Playable",
-            "date": "2023-02-06",
-            "thread": 205895,
-            "commit": "37b46df7385deb1f8cd720fe466330ad13a53ee1",
-            "pr": 13346,
-            "network": 0
-        },
         "NPEB00151": {
             "title": "Star Trek: D-A-C",
             "alternative-title": null,
@@ -39661,10 +39771,21 @@
             "alternative-title": null,
             "wiki-id": 2507,
             "status": "Playable",
-            "date": "2019-05-17",
+            "date": "2023-02-06",
             "thread": 173944,
-            "commit": "4037225e989ec798593d64e0ac1a1f887469d11e",
-            "pr": 5977,
+            "commit": "37b46df7385deb1f8cd720fe466330ad13a53ee1",
+            "pr": 13346,
+            "network": 0
+        },
+        "NPHA80003": {
+            "title": "Super Stardust HD",
+            "alternative-title": null,
+            "wiki-id": 2507,
+            "status": "Playable",
+            "date": "2023-02-06",
+            "thread": 205895,
+            "commit": "37b46df7385deb1f8cd720fe466330ad13a53ee1",
+            "pr": 13346,
             "network": 0
         },
         "NPJA00012": {
@@ -39672,10 +39793,10 @@
             "alternative-title": null,
             "wiki-id": 2507,
             "status": "Playable",
-            "date": "2019-05-17",
+            "date": "2023-02-06",
             "thread": 188828,
-            "commit": "4037225e989ec798593d64e0ac1a1f887469d11e",
-            "pr": 5977,
+            "commit": "37b46df7385deb1f8cd720fe466330ad13a53ee1",
+            "pr": 13346,
             "network": 0
         },
         "NPUA80068": {
@@ -39683,10 +39804,10 @@
             "alternative-title": null,
             "wiki-id": 2507,
             "status": "Playable",
-            "date": "2019-05-17",
+            "date": "2023-02-06",
             "thread": 187274,
-            "commit": "4037225e989ec798593d64e0ac1a1f887469d11e",
-            "pr": 5977,
+            "commit": "37b46df7385deb1f8cd720fe466330ad13a53ee1",
+            "pr": 13346,
             "network": 0
         },
         "NPEB00036": {
@@ -40112,10 +40233,21 @@
             "alternative-title": null,
             "wiki-id": 2528,
             "status": "Playable",
-            "date": "2017-12-20",
+            "date": "2018-04-09",
             "thread": 180331,
-            "commit": "f24491de84fd5c0edb73ad876d9b1c3cef5da1f6",
-            "pr": 3921,
+            "commit": "ea82b732a3e7ddc3cf15b7ad9956acd34eadc04f",
+            "pr": 4417,
+            "network": 0
+        },
+        "NPHB00334": {
+            "title": "Tales from Space: About a Blob",
+            "alternative-title": null,
+            "wiki-id": 2528,
+            "status": "Playable",
+            "date": "2018-04-09",
+            "thread": 198450,
+            "commit": "ea82b732a3e7ddc3cf15b7ad9956acd34eadc04f",
+            "pr": 4417,
             "network": 0
         },
         "NPUB30311": {
@@ -40123,19 +40255,8 @@
             "alternative-title": null,
             "wiki-id": 2528,
             "status": "Playable",
-            "date": "2017-12-20",
-            "thread": 180332,
-            "commit": "f24491de84fd5c0edb73ad876d9b1c3cef5da1f6",
-            "pr": 3921,
-            "network": 0
-        },
-        "NPHB00334": {
-            "title": "Tales from Space: About a Blob Demo",
-            "alternative-title": null,
-            "wiki-id": 2528,
-            "status": "Playable",
             "date": "2018-04-09",
-            "thread": 198450,
+            "thread": 180332,
             "commit": "ea82b732a3e7ddc3cf15b7ad9956acd34eadc04f",
             "pr": 4417,
             "network": 0
@@ -40706,10 +40827,21 @@
             "alternative-title": null,
             "wiki-id": 2550,
             "status": "Playable",
-            "date": "2018-08-27",
+            "date": "2023-02-14",
             "thread": 187862,
-            "commit": "23b52e1b1c0b74eb43faf0ff065ecfe44ee9131a",
-            "pr": 4970,
+            "commit": "75fbb3d55167ed6db64a59341db3c1c773b7e35f",
+            "pr": 13397,
+            "network": 0
+        },
+        "NPHB00134": {
+            "title": "Teenage Mutant Ninja Turtles: Turtles In Time Re-Shelled",
+            "alternative-title": null,
+            "wiki-id": 2550,
+            "status": "Playable",
+            "date": "2023-02-14",
+            "thread": 205975,
+            "commit": "75fbb3d55167ed6db64a59341db3c1c773b7e35f",
+            "pr": 13397,
             "network": 0
         },
         "NPUB30107": {
@@ -40717,10 +40849,10 @@
             "alternative-title": null,
             "wiki-id": 2550,
             "status": "Playable",
-            "date": "2018-08-27",
+            "date": "2023-02-14",
             "thread": 196855,
-            "commit": "23b52e1b1c0b74eb43faf0ff065ecfe44ee9131a",
-            "pr": 4970,
+            "commit": "75fbb3d55167ed6db64a59341db3c1c773b7e35f",
+            "pr": 13397,
             "network": 0
         },
         "NPEA00019": {
@@ -41058,10 +41190,21 @@
             "alternative-title": null,
             "wiki-id": 2564,
             "status": "Playable",
-            "date": "2019-02-17",
+            "date": "2023-02-08",
             "thread": 163809,
-            "commit": "4a1499e0bef16dd6a228d2c0a48f658a6d77febf",
-            "pr": 5581,
+            "commit": "27cad422b9211c13c58f31f701ff93a9659e26f1",
+            "pr": 13348,
+            "network": 0
+        },
+        "NPHB00325": {
+            "title": "Tetris",
+            "alternative-title": null,
+            "wiki-id": 2564,
+            "status": "Playable",
+            "date": "2023-02-08",
+            "thread": 205912,
+            "commit": "27cad422b9211c13c58f31f701ff93a9659e26f1",
+            "pr": 13348,
             "network": 0
         },
         "NPUB30226": {
@@ -41069,10 +41212,10 @@
             "alternative-title": null,
             "wiki-id": 2564,
             "status": "Playable",
-            "date": "2019-02-17",
+            "date": "2023-02-08",
             "thread": 197902,
-            "commit": "4a1499e0bef16dd6a228d2c0a48f658a6d77febf",
-            "pr": 5581,
+            "commit": "27cad422b9211c13c58f31f701ff93a9659e26f1",
+            "pr": 13348,
             "network": 0
         },
         "NPUB30417": {
@@ -41080,19 +41223,8 @@
             "alternative-title": null,
             "wiki-id": 2564,
             "status": "Playable",
-            "date": "2019-02-17",
-            "thread": 177170,
-            "commit": "4a1499e0bef16dd6a228d2c0a48f658a6d77febf",
-            "pr": 5581,
-            "network": 0
-        },
-        "NPHB00325": {
-            "title": "Tetris Demo",
-            "alternative-title": null,
-            "wiki-id": 2564,
-            "status": "Playable",
             "date": "2023-02-08",
-            "thread": 205912,
+            "thread": 177170,
             "commit": "27cad422b9211c13c58f31f701ff93a9659e26f1",
             "pr": 13348,
             "network": 0
@@ -41509,10 +41641,21 @@
             "alternative-title": null,
             "wiki-id": 2588,
             "status": "Playable",
-            "date": "2017-11-26",
+            "date": "2023-02-20",
             "thread": 197542,
-            "commit": "78101a9e57461e1d5d164ae76115a063e4ab5b55",
-            "pr": 3773,
+            "commit": "3922f76ab57c8f471dd15151fe208fb525bb060b",
+            "pr": 13409,
+            "network": 0
+        },
+        "NPHB00305": {
+            "title": "The Fancy Pants Adventures",
+            "alternative-title": null,
+            "wiki-id": 2588,
+            "status": "Playable",
+            "date": "2023-02-20",
+            "thread": 205999,
+            "commit": "3922f76ab57c8f471dd15151fe208fb525bb060b",
+            "pr": 13409,
             "network": 0
         },
         "NPUB30343": {
@@ -41520,19 +41663,8 @@
             "alternative-title": null,
             "wiki-id": 2588,
             "status": "Playable",
-            "date": "2017-11-26",
-            "thread": 173900,
-            "commit": "78101a9e57461e1d5d164ae76115a063e4ab5b55",
-            "pr": 3773,
-            "network": 0
-        },
-        "NPHB00305": {
-            "title": "The Fancy Pants Adventures Demo",
-            "alternative-title": null,
-            "wiki-id": 2588,
-            "status": "Playable",
             "date": "2023-02-20",
-            "thread": 205999,
+            "thread": 173900,
             "commit": "3922f76ab57c8f471dd15151fe208fb525bb060b",
             "pr": 13409,
             "network": 0
@@ -42989,8 +43121,19 @@
             "pr": 7382,
             "network": 0
         },
+        "BLES01833": {
+            "title": "The Walking Dead: A Telltale Games Series",
+            "alternative-title": null,
+            "wiki-id": 2644,
+            "status": "Playable",
+            "date": "2022-10-26",
+            "thread": 200355,
+            "commit": "5210df688262ec7fd8c21230d30e568d98724c8f",
+            "pr": 12873,
+            "network": 0
+        },
         "BLJM61108": {
-            "title": "The Walking Dead",
+            "title": "The Walking Dead: A Telltale Games Series",
             "alternative-title": null,
             "wiki-id": 2644,
             "status": "Playable",
@@ -43000,26 +43143,15 @@
             "pr": 12873,
             "network": 0
         },
-        "BLES01833": {
-            "title": "The Walking Dead: A Telltale Games Series",
-            "alternative-title": null,
-            "wiki-id": 2644,
-            "status": "Playable",
-            "date": "2019-04-09",
-            "thread": 200355,
-            "commit": "12dc3c18723788024fd62a8dd6dd0f24d830d479",
-            "pr": 5785,
-            "network": 0
-        },
         "BLUS31144": {
             "title": "The Walking Dead: A Telltale Games Series",
             "alternative-title": null,
             "wiki-id": 2644,
             "status": "Playable",
-            "date": "2019-04-09",
+            "date": "2022-10-26",
             "thread": 200277,
-            "commit": "12dc3c18723788024fd62a8dd6dd0f24d830d479",
-            "pr": 5785,
+            "commit": "5210df688262ec7fd8c21230d30e568d98724c8f",
+            "pr": 12873,
             "network": 0
         },
         "BLES01975": {
@@ -43442,29 +43574,40 @@
         },
         "BCES01070": {
             "title": "Time Crisis: Razing Storm",
-            "alternative-title": null,
+            "alternative-title": "Big 3 Gun Shooting",
             "wiki-id": 2666,
             "status": "Playable",
-            "date": "2019-08-26",
+            "date": "2020-04-06",
             "thread": 198298,
-            "commit": "0aea33687ef516371b6ecc824638b03f698687a6",
-            "pr": 6412,
+            "commit": "e7d5d17fd81db7157d7f025c81e2f8ed6a77a7b6",
+            "pr": 7940,
+            "network": 0
+        },
+        "BLJS10091": {
+            "title": "Time Crisis: Razing Storm",
+            "alternative-title": "Big 3 Gun Shooting",
+            "wiki-id": 2666,
+            "status": "Playable",
+            "date": "2020-04-06",
+            "thread": 199659,
+            "commit": "e7d5d17fd81db7157d7f025c81e2f8ed6a77a7b6",
+            "pr": 7940,
             "network": 0
         },
         "BLUS30528": {
             "title": "Time Crisis: Razing Storm",
-            "alternative-title": null,
+            "alternative-title": "Big 3 Gun Shooting",
             "wiki-id": 2666,
             "status": "Playable",
-            "date": "2019-08-26",
+            "date": "2020-04-06",
             "thread": 188270,
-            "commit": "0aea33687ef516371b6ecc824638b03f698687a6",
-            "pr": 6412,
+            "commit": "e7d5d17fd81db7157d7f025c81e2f8ed6a77a7b6",
+            "pr": 7940,
             "network": 0
         },
         "NPEA90078": {
             "title": "Time Crisis: Razing Storm Demo",
-            "alternative-title": null,
+            "alternative-title": "Big 3 Gun Shooting Demo",
             "wiki-id": 2666,
             "status": "Playable",
             "date": "2023-06-27",
@@ -43475,7 +43618,7 @@
         },
         "NPUB90464": {
             "title": "Time Crisis: Razing Storm Demo",
-            "alternative-title": null,
+            "alternative-title": "Big 3 Gun Shooting Demo",
             "wiki-id": 2666,
             "status": "Playable",
             "date": "2023-06-27",
@@ -43636,17 +43779,6 @@
             "thread": 168765,
             "commit": "43302f937cf07849f54ee3ca31f7418a50962d5f",
             "pr": 11017,
-            "network": 0
-        },
-        "NPHB00134": {
-            "title": "TMNT: Turtles In Time Re-Shelled",
-            "alternative-title": null,
-            "wiki-id": 2550,
-            "status": "Playable",
-            "date": "2023-02-14",
-            "thread": 205975,
-            "commit": "75fbb3d55167ed6db64a59341db3c1c773b7e35f",
-            "pr": 13397,
             "network": 0
         },
         "BLES00300": {
@@ -44475,14 +44607,14 @@
             "network": 0
         },
         "NPUA80104": {
-            "title": "Toy Home Demo",
+            "title": "Toy Home",
             "alternative-title": null,
             "wiki-id": 3671,
             "status": "Playable",
-            "date": "2019-08-18",
+            "date": "2022-12-13",
             "thread": 174853,
-            "commit": "b3aff3a1c68701aeec95e765662bda159bf332f8",
-            "pr": 6335,
+            "commit": "18b7955384b55ded848ca6b55a6cc142b2b78768",
+            "pr": 12822,
             "network": 0
         },
         "BLES00876": {
@@ -45057,17 +45189,6 @@
             "pr": 11401,
             "network": 0
         },
-        "BLJS10017": {
-            "title": "Trusty Bell Chopin no Yume Reprise",
-            "alternative-title": null,
-            "wiki-id": 1528,
-            "status": "Playable",
-            "date": "2017-02-06",
-            "thread": 177841,
-            "commit": "9b122e544985fea6bb1228395144a241b013319c",
-            "pr": 2343,
-            "network": 0
-        },
         "BLUS31171": {
             "title": "Turbo: Super Stunt Squad",
             "alternative-title": null,
@@ -45495,6 +45616,17 @@
             "thread": 199381,
             "commit": "8009e53642496729955692c62e1f648973561d06",
             "pr": 5988,
+            "network": 0
+        },
+        "NPEB90501": {
+            "title": "Unearthed: Trail of Ibn Battuta Demo",
+            "alternative-title": null,
+            "wiki-id": 4572,
+            "status": "Playable",
+            "date": "2026-01-01",
+            "thread": 209349,
+            "commit": "ee06dccdea91814bf7d76b3037371a6477458722",
+            "pr": 17765,
             "network": 0
         },
         "NPEB02150": {
@@ -46146,6 +46278,28 @@
             "pr": 14557,
             "network": 0
         },
+        "NPEB90325": {
+            "title": "Virtua Tennis 4 World Tour Demo",
+            "alternative-title": null,
+            "wiki-id": 3806,
+            "status": "Playable",
+            "date": "2026-01-12",
+            "thread": 205704,
+            "commit": "100a402cd86059d337feed33d2b340ab1eefea88",
+            "pr": 18025,
+            "network": 0
+        },
+        "NPUB90572": {
+            "title": "Virtua Tennis 4 World Tour Demo",
+            "alternative-title": null,
+            "wiki-id": 3806,
+            "status": "Playable",
+            "date": "2026-01-12",
+            "thread": 205705,
+            "commit": "100a402cd86059d337feed33d2b340ab1eefea88",
+            "pr": 18025,
+            "network": 0
+        },
         "NPJB00321": {
             "title": "Virtual on: Cyber Troopers",
             "alternative-title": null,
@@ -46184,10 +46338,21 @@
             "alternative-title": null,
             "wiki-id": 3348,
             "status": "Playable",
-            "date": "2020-02-02",
+            "date": "2023-02-20",
             "thread": 201302,
-            "commit": "e57c01907e4b823399a894bdf4337dd1abb7da2e",
-            "pr": 7366,
+            "commit": "3922f76ab57c8f471dd15151fe208fb525bb060b",
+            "pr": 13409,
+            "network": 0
+        },
+        "NPHB00433": {
+            "title": "Voltron: Defender of the Universe",
+            "alternative-title": null,
+            "wiki-id": 3348,
+            "status": "Playable",
+            "date": "2023-02-20",
+            "thread": 206001,
+            "commit": "3922f76ab57c8f471dd15151fe208fb525bb060b",
+            "pr": 13409,
             "network": 0
         },
         "NPUB30524": {
@@ -46195,19 +46360,8 @@
             "alternative-title": null,
             "wiki-id": 3348,
             "status": "Playable",
-            "date": "2020-02-02",
-            "thread": 173973,
-            "commit": "e57c01907e4b823399a894bdf4337dd1abb7da2e",
-            "pr": 7366,
-            "network": 0
-        },
-        "NPHB00433": {
-            "title": "Voltron: Defender of the Universe Demo",
-            "alternative-title": null,
-            "wiki-id": 3348,
-            "status": "Playable",
             "date": "2023-02-20",
-            "thread": 206001,
+            "thread": 173973,
             "commit": "3922f76ab57c8f471dd15151fe208fb525bb060b",
             "pr": 13409,
             "network": 0
@@ -47020,10 +47174,21 @@
             "alternative-title": null,
             "wiki-id": 960,
             "status": "Playable",
-            "date": "2020-01-22",
+            "date": "2021-07-13",
             "thread": 198332,
-            "commit": "adcc3e9c4bcd5f56fbf47f2163e445ad1adf0ea0",
-            "pr": 7302,
+            "commit": "6a7324ab3ef234626112a93a1164e50e3444de27",
+            "pr": 10521,
+            "network": 0
+        },
+        "NPJA00031": {
+            "title": "WipEout HD",
+            "alternative-title": null,
+            "wiki-id": 960,
+            "status": "Playable",
+            "date": "2021-07-13",
+            "thread": 199762,
+            "commit": "6a7324ab3ef234626112a93a1164e50e3444de27",
+            "pr": 10521,
             "network": 0
         },
         "NPUA80105": {
@@ -47031,19 +47196,8 @@
             "alternative-title": null,
             "wiki-id": 960,
             "status": "Playable",
-            "date": "2020-01-22",
-            "thread": 196237,
-            "commit": "adcc3e9c4bcd5f56fbf47f2163e445ad1adf0ea0",
-            "pr": 7302,
-            "network": 0
-        },
-        "NPJA00031": {
-            "title": "WipEout HD Demo",
-            "alternative-title": null,
-            "wiki-id": 960,
-            "status": "Playable",
             "date": "2021-07-13",
-            "thread": 199762,
+            "thread": 196237,
             "commit": "6a7324ab3ef234626112a93a1164e50e3444de27",
             "pr": 10521,
             "network": 0
@@ -47332,28 +47486,6 @@
             "thread": 196981,
             "commit": "e1b4cf1557ae69bddaa3c4a0b1f53f991009c808",
             "pr": 7236,
-            "network": 0
-        },
-        "NPHB00149": {
-            "title": "World Soccer Winning Eleven 2010 Demo",
-            "alternative-title": null,
-            "wiki-id": 2128,
-            "status": "Playable",
-            "date": "2023-06-21",
-            "thread": 206405,
-            "commit": "00cca7be698432c2f380c1cf74edbed5533d8123",
-            "pr": 14051,
-            "network": 0
-        },
-        "BLJM60224": {
-            "title": "World Soccer Winning Eleven 2010: Aoki Samurai no Chousen",
-            "alternative-title": null,
-            "wiki-id": 2128,
-            "status": "Playable",
-            "date": "2023-09-03",
-            "thread": 206702,
-            "commit": "b5dac0c3337ef62803a58f8f51dce9acdf2f31f3",
-            "pr": 14610,
             "network": 0
         },
         "NPEB00081": {
@@ -48347,14 +48479,14 @@
             "network": 0
         },
         "NPUB30506": {
-            "title": "Zombie Apocalypse: Never Die Alone Demo",
+            "title": "Zombie Apocalypse: Never Die Alone",
             "alternative-title": null,
             "wiki-id": 3387,
             "status": "Playable",
-            "date": "2018-04-14",
+            "date": "2020-01-27",
             "thread": 198515,
-            "commit": "78bb9a727898d9bf6c2c5a08b4737a104c89ef01",
-            "pr": 4440,
+            "commit": "7f07b79c046c97d9c533577e88cb1fea2ef9082a",
+            "pr": 7326,
             "network": 0
         },
         "NPEB00811": {
@@ -49292,17 +49424,6 @@
             "pr": 12689,
             "network": 0
         },
-        "NPUB31569": {
-            "title": "Assassin's Creed Liberation HD",
-            "alternative-title": null,
-            "wiki-id": 1284,
-            "status": "Ingame",
-            "date": "2022-09-22",
-            "thread": 204862,
-            "commit": "238298f6952dc3aa0309012a4bc9a79aac35831d",
-            "pr": 12689,
-            "network": 0
-        },
         "BLES00909": {
             "title": "Assassin's Creed: Brotherhood",
             "alternative-title": null,
@@ -49359,36 +49480,47 @@
             "network": 0
         },
         "NPEB01386": {
-            "title": "Assassin's Creed: Liberation",
+            "title": "Assassin's Creed: Liberation HD",
             "alternative-title": "Assassin's Creed: Lady Liberty",
             "wiki-id": 1284,
             "status": "Ingame",
-            "date": "2019-02-01",
+            "date": "2022-09-22",
             "thread": 197585,
-            "commit": "f4afd56e67c8120df54a5259ddaf2a3b137484f1",
-            "pr": 5619,
+            "commit": "238298f6952dc3aa0309012a4bc9a79aac35831d",
+            "pr": 12689,
             "network": 0
         },
         "NPJB00562": {
-            "title": "Assassin's Creed: Liberation",
+            "title": "Assassin's Creed: Liberation HD",
             "alternative-title": "Assassin's Creed: Lady Liberty",
             "wiki-id": 1284,
             "status": "Ingame",
-            "date": "2019-02-01",
+            "date": "2022-09-22",
             "thread": 200066,
-            "commit": "f4afd56e67c8120df54a5259ddaf2a3b137484f1",
-            "pr": 5619,
+            "commit": "238298f6952dc3aa0309012a4bc9a79aac35831d",
+            "pr": 12689,
             "network": 0
         },
         "NPUB31244": {
-            "title": "Assassin's Creed: Liberation",
+            "title": "Assassin's Creed: Liberation HD",
             "alternative-title": "Assassin's Creed: Lady Liberty",
             "wiki-id": 1284,
             "status": "Ingame",
-            "date": "2019-02-01",
+            "date": "2022-09-22",
             "thread": 173847,
-            "commit": "f4afd56e67c8120df54a5259ddaf2a3b137484f1",
-            "pr": 5619,
+            "commit": "238298f6952dc3aa0309012a4bc9a79aac35831d",
+            "pr": 12689,
+            "network": 0
+        },
+        "NPUB31569": {
+            "title": "Assassin's Creed: Liberation HD",
+            "alternative-title": "Assassin's Creed: Lady Liberty",
+            "wiki-id": 1284,
+            "status": "Ingame",
+            "date": "2022-09-22",
+            "thread": 204862,
+            "commit": "238298f6952dc3aa0309012a4bc9a79aac35831d",
+            "pr": 12689,
             "network": 0
         },
         "NPEB00880": {
@@ -49709,39 +49841,6 @@
             "commit": "3972022fa239a776715a1f21380ad278559111be",
             "pr": 11677,
             "network": 0
-        },
-        "NPEB00092": {
-            "title": "Battlefield 1943",
-            "alternative-title": null,
-            "wiki-id": 1300,
-            "status": "Ingame",
-            "date": "2023-12-21",
-            "thread": 199090,
-            "commit": "40604f6076561e84af078f2f1dcc68a00a57f8e9",
-            "pr": 14920,
-            "network": 1
-        },
-        "NPHB00098": {
-            "title": "Battlefield 1943",
-            "alternative-title": null,
-            "wiki-id": 1300,
-            "status": "Ingame",
-            "date": "2023-12-21",
-            "thread": 205397,
-            "commit": "40604f6076561e84af078f2f1dcc68a00a57f8e9",
-            "pr": 14920,
-            "network": 1
-        },
-        "NPUB30077": {
-            "title": "Battlefield 1943",
-            "alternative-title": null,
-            "wiki-id": 1300,
-            "status": "Ingame",
-            "date": "2023-12-21",
-            "thread": 178197,
-            "commit": "40604f6076561e84af078f2f1dcc68a00a57f8e9",
-            "pr": 14920,
-            "network": 1
         },
         "BLES01275": {
             "title": "Battlefield 3",
@@ -50172,17 +50271,6 @@
             "pr": 3369,
             "network": 0
         },
-        "BLJS10091": {
-            "title": "Big 3 Gun Shooting",
-            "alternative-title": null,
-            "wiki-id": 2666,
-            "status": "Ingame",
-            "date": "2020-04-06",
-            "thread": 199659,
-            "commit": "e7d5d17fd81db7157d7f025c81e2f8ed6a77a7b6",
-            "pr": 7940,
-            "network": 0
-        },
         "BLES01211": {
             "title": "Binary Domain",
             "alternative-title": null,
@@ -50478,17 +50566,6 @@
             "thread": 179725,
             "commit": "feb77793dfccc404b1f683da233157ebd69f9173",
             "pr": 5930,
-            "network": 0
-        },
-        "BCAS20186": {
-            "title": "Bleach: Soul Ignition",
-            "alternative-title": null,
-            "wiki-id": 1330,
-            "status": "Ingame",
-            "date": "2023-12-07",
-            "thread": 206887,
-            "commit": "ab8a12e211efdbe6f910af107eb86d763bbaef84",
-            "pr": 14820,
             "network": 0
         },
         "BLUS30602": {
@@ -51255,10 +51332,21 @@
             "alternative-title": null,
             "wiki-id": 1373,
             "status": "Ingame",
-            "date": "2018-03-27",
+            "date": "2026-01-10",
             "thread": 198309,
-            "commit": "a36acf49d8fe1e8a777ded6182f92d99bc75c7ba",
-            "pr": 4337,
+            "commit": "50fcee6fe04fee4539ff2aaa52de0098248556f9",
+            "pr": 17993,
+            "network": 0
+        },
+        "NPUB30585": {
+            "title": "Call of Duty: Modern Warfare 2",
+            "alternative-title": null,
+            "wiki-id": 1373,
+            "status": "Ingame",
+            "date": "2026-01-10",
+            "thread": 209366,
+            "commit": "50fcee6fe04fee4539ff2aaa52de0098248556f9",
+            "pr": 17993,
             "network": 0
         },
         "BLES00683": {
@@ -51266,10 +51354,10 @@
             "alternative-title": null,
             "wiki-id": 1373,
             "status": "Ingame",
-            "date": "2023-05-09",
+            "date": "2026-01-12",
             "thread": 202795,
-            "commit": "58140e1d3af9eee0b3b80a0f8ca7e771b179dbea",
-            "pr": 13830,
+            "commit": "aa220d24e8d6a967bd9a13c47ac86e93b78408ce",
+            "pr": 17994,
             "network": 0
         },
         "BLES00685": {
@@ -51277,10 +51365,10 @@
             "alternative-title": null,
             "wiki-id": 1373,
             "status": "Ingame",
-            "date": "2023-05-09",
+            "date": "2026-01-12",
             "thread": 196045,
-            "commit": "58140e1d3af9eee0b3b80a0f8ca7e771b179dbea",
-            "pr": 13830,
+            "commit": "aa220d24e8d6a967bd9a13c47ac86e93b78408ce",
+            "pr": 17994,
             "network": 0
         },
         "BLES00687": {
@@ -51288,10 +51376,10 @@
             "alternative-title": null,
             "wiki-id": 1373,
             "status": "Ingame",
-            "date": "2023-05-09",
+            "date": "2026-01-12",
             "thread": 197700,
-            "commit": "58140e1d3af9eee0b3b80a0f8ca7e771b179dbea",
-            "pr": 13830,
+            "commit": "aa220d24e8d6a967bd9a13c47ac86e93b78408ce",
+            "pr": 17994,
             "network": 0
         },
         "BLES00690": {
@@ -51299,10 +51387,10 @@
             "alternative-title": null,
             "wiki-id": 1373,
             "status": "Ingame",
-            "date": "2023-05-09",
+            "date": "2026-01-12",
             "thread": 206264,
-            "commit": "58140e1d3af9eee0b3b80a0f8ca7e771b179dbea",
-            "pr": 13830,
+            "commit": "aa220d24e8d6a967bd9a13c47ac86e93b78408ce",
+            "pr": 17994,
             "network": 0
         },
         "BLES00691": {
@@ -51310,10 +51398,10 @@
             "alternative-title": null,
             "wiki-id": 1373,
             "status": "Ingame",
-            "date": "2023-05-09",
+            "date": "2026-01-12",
             "thread": 196721,
-            "commit": "58140e1d3af9eee0b3b80a0f8ca7e771b179dbea",
-            "pr": 13830,
+            "commit": "aa220d24e8d6a967bd9a13c47ac86e93b78408ce",
+            "pr": 17994,
             "network": 0
         },
         "BLJM60191": {
@@ -51321,10 +51409,10 @@
             "alternative-title": null,
             "wiki-id": 1373,
             "status": "Ingame",
-            "date": "2023-05-09",
+            "date": "2026-01-12",
             "thread": 205960,
-            "commit": "58140e1d3af9eee0b3b80a0f8ca7e771b179dbea",
-            "pr": 13830,
+            "commit": "aa220d24e8d6a967bd9a13c47ac86e93b78408ce",
+            "pr": 17994,
             "network": 0
         },
         "BLUS30377": {
@@ -51332,10 +51420,10 @@
             "alternative-title": null,
             "wiki-id": 1373,
             "status": "Ingame",
-            "date": "2023-05-09",
+            "date": "2026-01-12",
             "thread": 183122,
-            "commit": "58140e1d3af9eee0b3b80a0f8ca7e771b179dbea",
-            "pr": 13830,
+            "commit": "aa220d24e8d6a967bd9a13c47ac86e93b78408ce",
+            "pr": 17994,
             "network": 0
         },
         "BLUS30429": {
@@ -51343,10 +51431,10 @@
             "alternative-title": null,
             "wiki-id": 1373,
             "status": "Ingame",
-            "date": "2023-05-09",
+            "date": "2026-01-12",
             "thread": 205425,
-            "commit": "58140e1d3af9eee0b3b80a0f8ca7e771b179dbea",
-            "pr": 13830,
+            "commit": "aa220d24e8d6a967bd9a13c47ac86e93b78408ce",
+            "pr": 17994,
             "network": 0
         },
         "NPEB90263": {
@@ -53375,7 +53463,7 @@
         },
         "BLES00444": {
             "title": "Eternal Sonata",
-            "alternative-title": null,
+            "alternative-title": "Trusty Bell Chopin no Yume Reprise",
             "wiki-id": 1528,
             "status": "Ingame",
             "date": "2019-07-03",
@@ -53386,7 +53474,7 @@
         },
         "BLUS30161": {
             "title": "Eternal Sonata",
-            "alternative-title": null,
+            "alternative-title": "Trusty Bell Chopin no Yume Reprise",
             "wiki-id": 1528,
             "status": "Ingame",
             "date": "2019-07-03",
@@ -53395,15 +53483,37 @@
             "pr": 6155,
             "network": 0
         },
-        "NPUB90168": {
-            "title": "Eternal Sonata Demo Version",
-            "alternative-title": null,
+        "NPHB00056": {
+            "title": "Eternal Sonata Demo",
+            "alternative-title": "Trusty Bell Chopin no Yume Reprise Demo",
             "wiki-id": 1528,
             "status": "Ingame",
-            "date": "2023-02-03",
+            "date": "2023-02-04",
+            "thread": 205886,
+            "commit": "37b46df7385deb1f8cd720fe466330ad13a53ee1",
+            "pr": 13346,
+            "network": 0
+        },
+        "NPJB90132": {
+            "title": "Eternal Sonata Demo",
+            "alternative-title": "Trusty Bell Chopin no Yume Reprise Demo",
+            "wiki-id": 1528,
+            "status": "Ingame",
+            "date": "2023-02-04",
+            "thread": 205805,
+            "commit": "37b46df7385deb1f8cd720fe466330ad13a53ee1",
+            "pr": 13346,
+            "network": 0
+        },
+        "NPUB90168": {
+            "title": "Eternal Sonata Demo",
+            "alternative-title": "Trusty Bell Chopin no Yume Reprise Demo",
+            "wiki-id": 1528,
+            "status": "Ingame",
+            "date": "2023-02-04",
             "thread": 205868,
-            "commit": "d69e345bc07fcb13389498cf56bc83bae8195272",
-            "pr": 13338,
+            "commit": "37b46df7385deb1f8cd720fe466330ad13a53ee1",
+            "pr": 13346,
             "network": 0
         },
         "BCAS20276": {
@@ -56574,17 +56684,6 @@
             "pr": 17221,
             "network": 0
         },
-        "NPJB00695": {
-            "title": "JOYSOUND.TV Plus",
-            "alternative-title": null,
-            "wiki-id": 4409,
-            "status": "Ingame",
-            "date": "2022-10-11",
-            "thread": 204893,
-            "commit": "d311b4bd530285639e45ae36969799c3fb0834c2",
-            "pr": 12769,
-            "network": 0
-        },
         "BLES01955": {
             "title": "Just Dance 2014",
             "alternative-title": null,
@@ -56715,6 +56814,17 @@
             "thread": 178105,
             "commit": "29843003851306a1d4fe4f72bbbb857ade25d402",
             "pr": 7244,
+            "network": 0
+        },
+        "BLJS10288": {
+            "title": "Kamen Rider Summonride!",
+            "alternative-title": null,
+            "wiki-id": 1752,
+            "status": "Ingame",
+            "date": "2026-01-02",
+            "thread": 180208,
+            "commit": "8d55db334e0416f77188134bf1db128ec440a545",
+            "pr": 17930,
             "network": 0
         },
         "BLJM60278": {
@@ -56937,6 +57047,17 @@
             "pr": 7976,
             "network": 0
         },
+        "NPEA90086": {
+            "title": "Killzone 3 Open Beta",
+            "alternative-title": null,
+            "wiki-id": 1055,
+            "status": "Ingame",
+            "date": "2025-12-03",
+            "thread": 205450,
+            "commit": "3c747b377f8e7112cfe85ed3b2a8147a9946ca39",
+            "pr": 17795,
+            "network": 1
+        },
         "NPUA70138": {
             "title": "Killzone 3 Open Beta",
             "alternative-title": null,
@@ -56946,18 +57067,7 @@
             "thread": 209306,
             "commit": "3c747b377f8e7112cfe85ed3b2a8147a9946ca39",
             "pr": 17795,
-            "network": 0
-        },
-        "NPEA90086": {
-            "title": "Killzone 3 Open Beta",
-            "alternative-title": null,
-            "wiki-id": 1055,
-            "status": "Ingame",
-            "date": "2023-01-11",
-            "thread": 205450,
-            "commit": "1852b370d7a8310de092ca4132464c84192671cb",
-            "pr": 13205,
-            "network": 0
+            "network": 1
         },
         "BCET01007": {
             "title": "Killzone 3 Preview",
@@ -57518,17 +57628,6 @@
             "thread": 198301,
             "commit": "a36acf49d8fe1e8a777ded6182f92d99bc75c7ba",
             "pr": 4337,
-            "network": 0
-        },
-        "NPJA90230": {
-            "title": "Lord of Sorcery: Demo",
-            "alternative-title": null,
-            "wiki-id": 2424,
-            "status": "Ingame",
-            "date": "2023-02-01",
-            "thread": 205813,
-            "commit": "c471120a80ec6f12cd4489e1a9be073d7d9c96f2",
-            "pr": 13311,
             "network": 0
         },
         "BLES02201": {
@@ -59225,17 +59324,6 @@
             "pr": 4417,
             "network": 0
         },
-        "NPUA80499": {
-            "title": "MotorStorm 3D Rift",
-            "alternative-title": null,
-            "wiki-id": 1057,
-            "status": "Ingame",
-            "date": "2018-12-28",
-            "thread": 198453,
-            "commit": "653a4ef0df475d387ed16db02b95a106e5b94410",
-            "pr": 5334,
-            "network": 0
-        },
         "BCES00484": {
             "title": "MotorStorm: Apocalypse",
             "alternative-title": null,
@@ -60121,10 +60209,10 @@
             "alternative-title": null,
             "wiki-id": 476,
             "status": "Ingame",
-            "date": "2020-06-08",
+            "date": "2026-01-03",
             "thread": 188811,
-            "commit": "b75af69cf90418d18af2fa9af282e23b772e53d1",
-            "pr": 8330,
+            "commit": "050d2d3b2f34d80c1a395ae63c7a85c45ec40656",
+            "pr": 17951,
             "network": 0
         },
         "BLJM61070": {
@@ -60132,10 +60220,10 @@
             "alternative-title": null,
             "wiki-id": 476,
             "status": "Ingame",
-            "date": "2020-06-08",
+            "date": "2026-01-03",
             "thread": 199882,
-            "commit": "b75af69cf90418d18af2fa9af282e23b772e53d1",
-            "pr": 8330,
+            "commit": "050d2d3b2f34d80c1a395ae63c7a85c45ec40656",
+            "pr": 17951,
             "network": 0
         },
         "BLUS31201": {
@@ -60143,10 +60231,10 @@
             "alternative-title": null,
             "wiki-id": 476,
             "status": "Ingame",
-            "date": "2020-06-08",
+            "date": "2026-01-03",
             "thread": 183126,
-            "commit": "b75af69cf90418d18af2fa9af282e23b772e53d1",
-            "pr": 8330,
+            "commit": "050d2d3b2f34d80c1a395ae63c7a85c45ec40656",
+            "pr": 17951,
             "network": 0
         },
         "NPEB01412": {
@@ -60455,39 +60543,6 @@
             "thread": 185877,
             "commit": "a1fa10ac70446ff5f4e0ba77068752bdbd0549f8",
             "pr": 3904,
-            "network": 0
-        },
-        "NPEB90187": {
-            "title": "Ninja Gaiden Sigma 2 Demo",
-            "alternative-title": null,
-            "wiki-id": 2060,
-            "status": "Ingame",
-            "date": "2023-01-30",
-            "thread": 203783,
-            "commit": "c471120a80ec6f12cd4489e1a9be073d7d9c96f2",
-            "pr": 13311,
-            "network": 0
-        },
-        "NPJB90207": {
-            "title": "Ninja Gaiden Sigma 2 Demo",
-            "alternative-title": null,
-            "wiki-id": 2060,
-            "status": "Ingame",
-            "date": "2023-01-30",
-            "thread": 205765,
-            "commit": "c471120a80ec6f12cd4489e1a9be073d7d9c96f2",
-            "pr": 13311,
-            "network": 0
-        },
-        "NPUB90274": {
-            "title": "Ninja Gaiden Sigma 2 Demo",
-            "alternative-title": null,
-            "wiki-id": 2060,
-            "status": "Ingame",
-            "date": "2023-01-30",
-            "thread": 184207,
-            "commit": "c471120a80ec6f12cd4489e1a9be073d7d9c96f2",
-            "pr": 13311,
             "network": 0
         },
         "BLJM61333": {
@@ -60954,7 +61009,7 @@
         },
         "NPEB01809": {
             "title": "Pro Evolution Soccer 2014",
-            "alternative-title": "World Soccer Winning Eleven 2014 Aoki Samurai no Chousen",
+            "alternative-title": "World Soccer: Winning Eleven 2014 - Aoki Samurai no Chousen",
             "wiki-id": 2132,
             "status": "Ingame",
             "date": "2018-10-01",
@@ -60965,7 +61020,7 @@
         },
         "NPUB31337": {
             "title": "Pro Evolution Soccer 2014",
-            "alternative-title": "World Soccer Winning Eleven 2014 Aoki Samurai no Chousen",
+            "alternative-title": "World Soccer: Winning Eleven 2014 - Aoki Samurai no Chousen",
             "wiki-id": 2132,
             "status": "Ingame",
             "date": "2018-10-01",
@@ -60974,9 +61029,31 @@
             "pr": 5188,
             "network": 0
         },
+        "BLJM61301": {
+            "title": "Pro Evolution Soccer 2016",
+            "alternative-title": "World Soccer: Winning Eleven 2016",
+            "wiki-id": 2134,
+            "status": "Ingame",
+            "date": "2018-09-07",
+            "thread": 199512,
+            "commit": "66610a28af4fb27a1af34a2aa3fcc97ce98c6de0",
+            "pr": 5086,
+            "network": 0
+        },
+        "BLJM61339": {
+            "title": "Pro Evolution Soccer 2016",
+            "alternative-title": "World Soccer: Winning Eleven 2016",
+            "wiki-id": 2134,
+            "status": "Ingame",
+            "date": "2018-09-12",
+            "thread": 199530,
+            "commit": "efbd77deb4270a56543f4204d3fe22f4dd6d4539",
+            "pr": 5110,
+            "network": 0
+        },
         "BLES02237": {
             "title": "Pro Evolution Soccer 2017",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2017",
             "wiki-id": 2135,
             "status": "Ingame",
             "date": "2024-11-21",
@@ -60987,7 +61064,7 @@
         },
         "BLUS31598": {
             "title": "Pro Evolution Soccer 2017",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2017",
             "wiki-id": 2135,
             "status": "Ingame",
             "date": "2024-11-21",
@@ -60998,7 +61075,7 @@
         },
         "NPUB31837": {
             "title": "Pro Evolution Soccer 2017",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2017",
             "wiki-id": 2135,
             "status": "Ingame",
             "date": "2024-11-21",
@@ -61009,7 +61086,7 @@
         },
         "NPEB90568": {
             "title": "Pro Evolution Soccer 2017 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2017 Demo",
             "wiki-id": 2135,
             "status": "Ingame",
             "date": "2023-12-16",
@@ -61020,7 +61097,7 @@
         },
         "NPHB00740": {
             "title": "Pro Evolution Soccer 2017 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2017 Demo",
             "wiki-id": 2135,
             "status": "Ingame",
             "date": "2023-12-16",
@@ -61031,7 +61108,7 @@
         },
         "NPJB90874": {
             "title": "Pro Evolution Soccer 2017 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2017 Demo",
             "wiki-id": 2135,
             "status": "Ingame",
             "date": "2023-12-16",
@@ -61042,7 +61119,7 @@
         },
         "NPUB91037": {
             "title": "Pro Evolution Soccer 2017 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2017 Demo",
             "wiki-id": 2135,
             "status": "Ingame",
             "date": "2023-12-16",
@@ -61053,7 +61130,7 @@
         },
         "NPUB31864": {
             "title": "Pro Evolution Soccer 2018",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2018",
             "wiki-id": 2136,
             "status": "Ingame",
             "date": "2024-11-14",
@@ -61064,7 +61141,7 @@
         },
         "BLAS57001": {
             "title": "Pro Evolution Soccer 2018",
-            "alternative-title": "Winning Eleven 2018",
+            "alternative-title": "World Soccer: Winning Eleven 2018",
             "wiki-id": 2136,
             "status": "Ingame",
             "date": "2024-11-14",
@@ -61075,7 +61152,7 @@
         },
         "BLES02252": {
             "title": "Pro Evolution Soccer 2018",
-            "alternative-title": "Winning Eleven 2018",
+            "alternative-title": "World Soccer: Winning Eleven 2018",
             "wiki-id": 2136,
             "status": "Ingame",
             "date": "2024-11-14",
@@ -61086,7 +61163,7 @@
         },
         "BLJM61357": {
             "title": "Pro Evolution Soccer 2018",
-            "alternative-title": "Winning Eleven 2018",
+            "alternative-title": "World Soccer: Winning Eleven 2018",
             "wiki-id": 2136,
             "status": "Ingame",
             "date": "2024-11-14",
@@ -61097,7 +61174,7 @@
         },
         "BLUS31612": {
             "title": "Pro Evolution Soccer 2018",
-            "alternative-title": "Winning Eleven 2018",
+            "alternative-title": "World Soccer: Winning Eleven 2018",
             "wiki-id": 2136,
             "status": "Ingame",
             "date": "2024-11-14",
@@ -61108,7 +61185,7 @@
         },
         "NPEB90569": {
             "title": "Pro Evolution Soccer 2018 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2018 Demo",
             "wiki-id": 2136,
             "status": "Ingame",
             "date": "2024-11-21",
@@ -61119,7 +61196,7 @@
         },
         "NPHB10005": {
             "title": "Pro Evolution Soccer 2018 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2018 Demo",
             "wiki-id": 2136,
             "status": "Ingame",
             "date": "2024-11-21",
@@ -61130,7 +61207,7 @@
         },
         "NPJB90899": {
             "title": "Pro Evolution Soccer 2018 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2018 Demo",
             "wiki-id": 2136,
             "status": "Ingame",
             "date": "2024-11-21",
@@ -61141,7 +61218,7 @@
         },
         "NPUB91038": {
             "title": "Pro Evolution Soccer 2018 Demo",
-            "alternative-title": null,
+            "alternative-title": "World Soccer: Winning Eleven 2018 Demo",
             "wiki-id": 2136,
             "status": "Ingame",
             "date": "2024-11-21",
@@ -61546,15 +61623,26 @@
             "pr": 3772,
             "network": 0
         },
-        "BCUS98282": {
+        "BCES01503": {
             "title": "Ratchet & Clank Collection",
-            "alternative-title": null,
+            "alternative-title": "Ratchet & Clank Trilogy",
             "wiki-id": 1121,
             "status": "Ingame",
-            "date": "2020-05-30",
+            "date": "2025-11-27",
+            "thread": 178602,
+            "commit": "d9f913016cbbdc32ce43ac02f4e0ef6a8ffd1ae4",
+            "pr": 17757,
+            "network": 0
+        },
+        "BCUS98282": {
+            "title": "Ratchet & Clank Collection",
+            "alternative-title": "Ratchet & Clank Trilogy",
+            "wiki-id": 1121,
+            "status": "Ingame",
+            "date": "2025-11-27",
             "thread": 201940,
-            "commit": "3df83e03a9f5b33529ea2a1e52dc7757d64e0c09",
-            "pr": 8280,
+            "commit": "d9f913016cbbdc32ce43ac02f4e0ef6a8ffd1ae4",
+            "pr": 17757,
             "network": 0
         },
         "BCES00511": {
@@ -63537,17 +63625,6 @@
             "pr": 7409,
             "network": 0
         },
-        "NPJB90575": {
-            "title": "Shin Hokuto Musou Trial Version",
-            "alternative-title": null,
-            "wiki-id": 1579,
-            "status": "Ingame",
-            "date": "2023-02-02",
-            "thread": 205817,
-            "commit": "c471120a80ec6f12cd4489e1a9be073d7d9c96f2",
-            "pr": 13311,
-            "network": 0
-        },
         "BLJM60041": {
             "title": "Shin Sangoku Musou 5",
             "alternative-title": null,
@@ -63944,26 +64021,26 @@
             "pr": 5813,
             "network": 0
         },
+        "BCES00938": {
+            "title": "SOCOM 4: U.S. Navy SEALs",
+            "alternative-title": "SOCOM: Special Forces",
+            "wiki-id": 1072,
+            "status": "Ingame",
+            "date": "2025-04-12",
+            "thread": 182374,
+            "commit": "9c5b3a2300b3ac44b897813ebc1cb0949c3b3e6d",
+            "pr": 16985,
+            "network": 0
+        },
         "BCUS98135": {
             "title": "SOCOM 4: U.S. Navy SEALs",
-            "alternative-title": null,
+            "alternative-title": "SOCOM: Special Forces",
             "wiki-id": 1072,
             "status": "Ingame",
             "date": "2025-04-12",
             "thread": 199541,
             "commit": "9c5b3a2300b3ac44b897813ebc1cb0949c3b3e6d",
             "pr": 16985,
-            "network": 0
-        },
-        "BCES00938": {
-            "title": "SOCOM: Special Forces",
-            "alternative-title": null,
-            "wiki-id": 1072,
-            "status": "Ingame",
-            "date": "2020-10-28",
-            "thread": 182374,
-            "commit": "b32eecb5a71e6c61dafe227f3d62183b51bc77c8",
-            "pr": 9131,
             "network": 0
         },
         "BLES00190": {
@@ -64221,7 +64298,7 @@
         },
         "BCES00819": {
             "title": "Sorcery",
-            "alternative-title": null,
+            "alternative-title": "Lord of Sorcery",
             "wiki-id": 2424,
             "status": "Ingame",
             "date": "2019-12-19",
@@ -64232,7 +64309,7 @@
         },
         "NPUA80796": {
             "title": "Sorcery",
-            "alternative-title": null,
+            "alternative-title": "Lord of Sorcery",
             "wiki-id": 2424,
             "status": "Ingame",
             "date": "2019-12-17",
@@ -64243,7 +64320,7 @@
         },
         "NPEA90112": {
             "title": "Sorcery Demo",
-            "alternative-title": null,
+            "alternative-title": "Lord of Sorcery: Demo",
             "wiki-id": 2424,
             "status": "Ingame",
             "date": "2023-06-26",
@@ -64252,9 +64329,20 @@
             "pr": 14081,
             "network": 0
         },
+        "NPJA90230": {
+            "title": "Sorcery Demo",
+            "alternative-title": "Lord of Sorcery: Demo",
+            "wiki-id": 2424,
+            "status": "Ingame",
+            "date": "2023-06-26",
+            "thread": 205813,
+            "commit": "aff871f12761ea39d8f8fdb915eb640acce78a3f",
+            "pr": 14081,
+            "network": 0
+        },
         "NPUA70204": {
             "title": "Sorcery Demo",
-            "alternative-title": null,
+            "alternative-title": "Lord of Sorcery: Demo",
             "wiki-id": 2424,
             "status": "Ingame",
             "date": "2023-06-26",
@@ -65990,17 +66078,6 @@
             "pr": 16797,
             "network": 0
         },
-        "BCES01503": {
-            "title": "The Ratchet & Clank Trilogy",
-            "alternative-title": null,
-            "wiki-id": 1121,
-            "status": "Ingame",
-            "date": "2025-11-27",
-            "thread": 178602,
-            "commit": "d9f913016cbbdc32ce43ac02f4e0ef6a8ffd1ae4",
-            "pr": 17757,
-            "network": 0
-        },
         "BLES00743": {
             "title": "The Saboteur",
             "alternative-title": null,
@@ -66109,6 +66186,17 @@
             "thread": 203356,
             "commit": "f44e50b9cd8689067dd309599d7ee90a780cfd56",
             "pr": 10752,
+            "network": 0
+        },
+        "BLES01253": {
+            "title": "The X Factor",
+            "alternative-title": null,
+            "wiki-id": 2650,
+            "status": "Ingame",
+            "date": "2026-01-13",
+            "thread": 209372,
+            "commit": "d656420cc4db15fd9def2fccd0beb87de48e102d",
+            "pr": 18042,
             "network": 0
         },
         "BLES01025": {
@@ -66936,28 +67024,6 @@
             "pr": 9737,
             "network": 0
         },
-        "NPJB90132": {
-            "title": "Trusty Bell Chopin no Yume Reprise Trial Version",
-            "alternative-title": null,
-            "wiki-id": 1528,
-            "status": "Ingame",
-            "date": "2023-02-01",
-            "thread": 205805,
-            "commit": "c471120a80ec6f12cd4489e1a9be073d7d9c96f2",
-            "pr": 13311,
-            "network": 0
-        },
-        "NPHB00056": {
-            "title": "Trusty Bell Trial Version",
-            "alternative-title": null,
-            "wiki-id": 1528,
-            "status": "Ingame",
-            "date": "2023-02-04",
-            "thread": 205886,
-            "commit": "37b46df7385deb1f8cd720fe466330ad13a53ee1",
-            "pr": 13346,
-            "network": 0
-        },
         "NPEB00570": {
             "title": "Twisted Land: Shadow Town",
             "alternative-title": null,
@@ -67099,17 +67165,6 @@
             "thread": 196999,
             "commit": "82a8d96fba5d09441b54f55c3b0be33c6bce5b80",
             "pr": 13010,
-            "network": 0
-        },
-        "BLJM61339": {
-            "title": "UEFA Euro 2016",
-            "alternative-title": "Winning Eleven 2016",
-            "wiki-id": 2134,
-            "status": "Ingame",
-            "date": "2018-09-12",
-            "thread": 199530,
-            "commit": "efbd77deb4270a56543f4204d3fe22f4dd6d4539",
-            "pr": 5110,
             "network": 0
         },
         "BLES00539": {
@@ -68124,17 +68179,6 @@
             "pr": 13062,
             "network": 0
         },
-        "BLJM61301": {
-            "title": "Winning Eleven 2016",
-            "alternative-title": "Pro Evolution Soccer 2016",
-            "wiki-id": 2134,
-            "status": "Ingame",
-            "date": "2018-09-07",
-            "thread": 199512,
-            "commit": "66610a28af4fb27a1af34a2aa3fcc97ce98c6de0",
-            "pr": 5086,
-            "network": 0
-        },
         "BLUS30765": {
             "title": "Wipeout 2",
             "alternative-title": null,
@@ -68960,6 +69004,39 @@
             "pr": 7516,
             "network": 0
         },
+        "NPEB00092": {
+            "title": "Battlefield 1943",
+            "alternative-title": null,
+            "wiki-id": 1300,
+            "status": "Intro",
+            "date": "2026-01-05",
+            "thread": 199090,
+            "commit": "a0e0a6c6a6b1b51b51fe58dc356d33916f3ef3f3",
+            "pr": 17962,
+            "network": 1
+        },
+        "NPHB00098": {
+            "title": "Battlefield 1943",
+            "alternative-title": null,
+            "wiki-id": 1300,
+            "status": "Intro",
+            "date": "2026-01-05",
+            "thread": 205397,
+            "commit": "a0e0a6c6a6b1b51b51fe58dc356d33916f3ef3f3",
+            "pr": 17962,
+            "network": 1
+        },
+        "NPUB30077": {
+            "title": "Battlefield 1943",
+            "alternative-title": null,
+            "wiki-id": 1300,
+            "status": "Intro",
+            "date": "2026-01-05",
+            "thread": 178197,
+            "commit": "a0e0a6c6a6b1b51b51fe58dc356d33916f3ef3f3",
+            "pr": 17962,
+            "network": 1
+        },
         "NPJB90637": {
             "title": "Battlefield 4 Beta",
             "alternative-title": null,
@@ -69691,10 +69768,21 @@
             "alternative-title": null,
             "wiki-id": 4496,
             "status": "Intro",
-            "date": "2022-04-29",
+            "date": "2026-01-01",
             "thread": 198237,
-            "commit": "8316469cfcfb076d5a9772557b0de522f39616d2",
-            "pr": 11894,
+            "commit": "ee06dccdea91814bf7d76b3037371a6477458722",
+            "pr": 17765,
+            "network": 1
+        },
+        "NPJA90225": {
+            "title": "Gran Turismo Academy 2012",
+            "alternative-title": null,
+            "wiki-id": 4496,
+            "status": "Intro",
+            "date": "2026-01-01",
+            "thread": 209350,
+            "commit": "ee06dccdea91814bf7d76b3037371a6477458722",
+            "pr": 17765,
             "network": 1
         },
         "NPUA70196": {
@@ -69702,10 +69790,10 @@
             "alternative-title": null,
             "wiki-id": 4496,
             "status": "Intro",
-            "date": "2022-04-29",
+            "date": "2026-01-01",
             "thread": 177271,
-            "commit": "8316469cfcfb076d5a9772557b0de522f39616d2",
-            "pr": 11894,
+            "commit": "ee06dccdea91814bf7d76b3037371a6477458722",
+            "pr": 17765,
             "network": 1
         },
         "NPJB00749": {
@@ -69849,17 +69937,6 @@
             "thread": 200298,
             "commit": "3bfe921a7a12b9b0b89a906577536da4524960ab",
             "pr": 5775,
-            "network": 0
-        },
-        "BLJS10288": {
-            "title": "Kamen Rider Summonride!",
-            "alternative-title": null,
-            "wiki-id": 1752,
-            "status": "Intro",
-            "date": "2021-11-11",
-            "thread": 180208,
-            "commit": "2359ba9aed780cd004f98613582055423a2c9d63",
-            "pr": 11137,
             "network": 0
         },
         "NPUA70167": {
@@ -71326,7 +71403,7 @@
             "network": 0
         },
         "NPEB90499": {
-            "title": "Sniper Ghost Warrior 2 Demo",
+            "title": "Sniper: Ghost Warrior 2 Demo",
             "alternative-title": null,
             "wiki-id": 2405,
             "status": "Intro",
@@ -71940,28 +72017,6 @@
             "commit": "11c52306282fcbe3099805c59c1ea841208ed6a1",
             "pr": 12230,
             "network": 1
-        },
-        "NPEB90325": {
-            "title": "Virtua Tennis 4 World Tour Demo",
-            "alternative-title": null,
-            "wiki-id": 3806,
-            "status": "Intro",
-            "date": "2025-04-07",
-            "thread": 205704,
-            "commit": "f38a61bdb3557b1c728a4cd8ae015686886e2494",
-            "pr": 16998,
-            "network": 0
-        },
-        "NPUB90572": {
-            "title": "Virtua Tennis 4 World Tour Demo",
-            "alternative-title": null,
-            "wiki-id": 3806,
-            "status": "Intro",
-            "date": "2025-04-07",
-            "thread": 205705,
-            "commit": "f38a61bdb3557b1c728a4cd8ae015686886e2494",
-            "pr": 16998,
-            "network": 0
         },
         "NPUA80093": {
             "title": "Warhawk",
