@@ -26,7 +26,7 @@
         "BLJS93008": {
             "title": ".hack//Versus",
             "alternative-title": null,
-            "wiki-id": 117,
+            "wiki-id": 321,
             "status": "Playable",
             "date": "2018-03-25",
             "thread": 177765,
@@ -1761,6 +1761,28 @@
             "pr": 14436,
             "network": 0
         },
+        "NPEB90257": {
+            "title": "Apache: Air Assault Demo",
+            "alternative-title": null,
+            "wiki-id": 1270,
+            "status": "Playable",
+            "date": "2026-01-16",
+            "thread": 202849,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
+        "NPUB90448": {
+            "title": "Apache: Air Assault Demo",
+            "alternative-title": null,
+            "wiki-id": 1270,
+            "status": "Playable",
+            "date": "2026-01-16",
+            "thread": 179137,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
         "NPHB00412": {
             "title": "Apples to Apples",
             "alternative-title": null,
@@ -2014,6 +2036,28 @@
             "pr": 10889,
             "network": 0
         },
+        "BLES01783": {
+            "title": "ArcaniA: The Complete Tale",
+            "alternative-title": null,
+            "wiki-id": 1182,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 179255,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
+            "network": 0
+        },
+        "BLUS31158": {
+            "title": "ArcaniA: The Complete Tale",
+            "alternative-title": null,
+            "wiki-id": 1182,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 209380,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
+            "network": 0
+        },
         "NPUB30703": {
             "title": "Arkedo Series",
             "alternative-title": null,
@@ -2113,15 +2157,37 @@
             "pr": 15650,
             "network": 0
         },
+        "NPHB00033": {
+            "title": "Armored Core: For Answer Demo",
+            "alternative-title": null,
+            "wiki-id": 1276,
+            "status": "Playable",
+            "date": "2026-01-25",
+            "thread": 205892,
+            "commit": "1e0909c579cb786e6e6a44b1ce0d0f9c79366ad9",
+            "pr": 18098,
+            "network": 0
+        },
+        "NPJB90067": {
+            "title": "Armored Core: For Answer Demo",
+            "alternative-title": null,
+            "wiki-id": 1276,
+            "status": "Playable",
+            "date": "2026-01-25",
+            "thread": 205796,
+            "commit": "1e0909c579cb786e6e6a44b1ce0d0f9c79366ad9",
+            "pr": 18098,
+            "network": 0
+        },
         "BLES00168": {
             "title": "Army of TWO",
             "alternative-title": null,
             "wiki-id": 558,
             "status": "Playable",
-            "date": "2018-08-22",
+            "date": "2026-01-21",
             "thread": 181030,
-            "commit": "d1d1b2effd1e94d474811f7bb540f6affb9dc433",
-            "pr": 5018,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
             "network": 0
         },
         "BLUS30057": {
@@ -2129,10 +2195,10 @@
             "alternative-title": null,
             "wiki-id": 558,
             "status": "Playable",
-            "date": "2018-08-22",
+            "date": "2026-01-21",
             "thread": 199290,
-            "commit": "d1d1b2effd1e94d474811f7bb540f6affb9dc433",
-            "pr": 5018,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
             "network": 0
         },
         "BLES00659": {
@@ -2617,6 +2683,17 @@
             "thread": 173848,
             "commit": "11681f02cc29139a13fb6ff985714c22cc50e497",
             "pr": 5300,
+            "network": 0
+        },
+        "NPEB00447": {
+            "title": "Back to the Future - Episode 1: It's About Time",
+            "alternative-title": null,
+            "wiki-id": 623,
+            "status": "Playable",
+            "date": "2026-02-07",
+            "thread": 209404,
+            "commit": "93dbdead24e1474a94c59fffc1f6cfb25abe488b",
+            "pr": 18153,
             "network": 0
         },
         "NPEB00479": {
@@ -3807,6 +3884,39 @@
             "pr": 4078,
             "network": 0
         },
+        "NPEB90399": {
+            "title": "Binary Domain Demo",
+            "alternative-title": null,
+            "wiki-id": 1314,
+            "status": "Playable",
+            "date": "2026-01-17",
+            "thread": 205672,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
+        "NPEB90401": {
+            "title": "Binary Domain Demo",
+            "alternative-title": null,
+            "wiki-id": 1314,
+            "status": "Playable",
+            "date": "2026-01-17",
+            "thread": 206979,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
+        "NPUB90616": {
+            "title": "Binary Domain Demo",
+            "alternative-title": null,
+            "wiki-id": 1314,
+            "status": "Playable",
+            "date": "2026-01-17",
+            "thread": 198492,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
         "BLJM60518": {
             "title": "Biohazard: Revelations - Unveiled Edition",
             "alternative-title": null,
@@ -4498,6 +4608,28 @@
             "thread": 193106,
             "commit": "6e89e4ebbf158473904e768815935895228a9543",
             "pr": 6299,
+            "network": 0
+        },
+        "BLES00023": {
+            "title": "Blazing Angels: Squadrons of WWII",
+            "alternative-title": null,
+            "wiki-id": 1329,
+            "status": "Playable",
+            "date": "2026-01-18",
+            "thread": 200475,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
+        "BLUS30006": {
+            "title": "Blazing Angels: Squadrons of WWII",
+            "alternative-title": null,
+            "wiki-id": 1329,
+            "status": "Playable",
+            "date": "2026-01-18",
+            "thread": 179725,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
             "network": 0
         },
         "BCAS20186": {
@@ -5446,6 +5578,39 @@
             "pr": 17554,
             "network": 0
         },
+        "BLES00455": {
+            "title": "Burnout Paradise: The Ultimate Box",
+            "alternative-title": null,
+            "wiki-id": 1346,
+            "status": "Playable",
+            "date": "2026-01-19",
+            "thread": 191828,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
+        "BLES00462": {
+            "title": "Burnout Paradise: The Ultimate Box",
+            "alternative-title": null,
+            "wiki-id": 1346,
+            "status": "Playable",
+            "date": "2026-01-19",
+            "thread": 177409,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
+        "BLUS30250": {
+            "title": "Burnout Paradise: The Ultimate Box",
+            "alternative-title": null,
+            "wiki-id": 1346,
+            "status": "Playable",
+            "date": "2026-01-19",
+            "thread": 201047,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
         "BCES00347": {
             "title": "Buzz! Brain of...",
             "alternative-title": null,
@@ -5864,6 +6029,17 @@
             "pr": 6020,
             "network": 0
         },
+        "BLJM61188": {
+            "title": "Caladrius Blaze",
+            "alternative-title": null,
+            "wiki-id": 1365,
+            "status": "Playable",
+            "date": "2026-01-26",
+            "thread": 164514,
+            "commit": "d854ff03febb59d7f37b98ae05d0ffb50d2dca93",
+            "pr": 18039,
+            "network": 0
+        },
         "BLES00016": {
             "title": "Call of Duty 3",
             "alternative-title": null,
@@ -6005,6 +6181,39 @@
             "thread": 201379,
             "commit": "6511e0f3e6f72a3bf46057f9fee0957edc333d34",
             "pr": 16967,
+            "network": 0
+        },
+        "NPEB90263": {
+            "title": "Call of Duty: Modern Warfare 2 Demo",
+            "alternative-title": null,
+            "wiki-id": 1373,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 205591,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
+            "network": 0
+        },
+        "NPEB90264": {
+            "title": "Call of Duty: Modern Warfare 2 Demo",
+            "alternative-title": null,
+            "wiki-id": 1373,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 205590,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
+            "network": 0
+        },
+        "NPUB90314": {
+            "title": "Call of Duty: Modern Warfare 2 Demo",
+            "alternative-title": null,
+            "wiki-id": 1373,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 200430,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
             "network": 0
         },
         "BLES00556": {
@@ -6430,10 +6639,21 @@
             "alternative-title": null,
             "wiki-id": 644,
             "status": "Playable",
-            "date": "2018-08-23",
+            "date": "2026-01-19",
             "thread": 189914,
-            "commit": "56d553f10d92b97468537646bd7bb33f2c3caa7c",
-            "pr": 5022,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
+        "BLUS30339": {
+            "title": "Castlevania: Lords of Shadow",
+            "alternative-title": null,
+            "wiki-id": 644,
+            "status": "Playable",
+            "date": "2026-01-19",
+            "thread": 201013,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
             "network": 0
         },
         "NPEB01441": {
@@ -6604,7 +6824,7 @@
         "BLES01459": {
             "title": "Catherine",
             "alternative-title": null,
-            "wiki-id": 117,
+            "wiki-id": 51,
             "status": "Playable",
             "date": "2020-03-31",
             "thread": 169638,
@@ -6615,7 +6835,7 @@
         "BLJM60215": {
             "title": "Catherine",
             "alternative-title": null,
-            "wiki-id": 117,
+            "wiki-id": 51,
             "status": "Playable",
             "date": "2020-03-31",
             "thread": 201638,
@@ -6626,7 +6846,7 @@
         "BLUS30428": {
             "title": "Catherine",
             "alternative-title": null,
-            "wiki-id": 117,
+            "wiki-id": 51,
             "status": "Playable",
             "date": "2020-03-31",
             "thread": 175609,
@@ -6637,7 +6857,7 @@
         "NPEB00875": {
             "title": "Catherine",
             "alternative-title": null,
-            "wiki-id": 117,
+            "wiki-id": 51,
             "status": "Playable",
             "date": "2017-03-24",
             "thread": 175502,
@@ -6648,7 +6868,7 @@
         "NPUB30698": {
             "title": "Catherine",
             "alternative-title": null,
-            "wiki-id": 117,
+            "wiki-id": 51,
             "status": "Playable",
             "date": "2017-03-24",
             "thread": 181856,
@@ -7833,15 +8053,26 @@
             "pr": 3998,
             "network": 0
         },
+        "BLJS10133": {
+            "title": "Dai-2-Ji Super Robot Taisen OGs",
+            "alternative-title": null,
+            "wiki-id": 1420,
+            "status": "Playable",
+            "date": "2026-01-21",
+            "thread": 177298,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
+            "network": 0
+        },
         "BLJS10256": {
             "title": "Dai-3-Ji Super Robot Taisen Z Jigoku-Hen",
             "alternative-title": null,
             "wiki-id": 742,
             "status": "Playable",
-            "date": "2017-01-23",
+            "date": "2026-01-21",
             "thread": 176913,
-            "commit": null,
-            "pr": null,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
             "network": 0
         },
         "BLJS10122": {
@@ -8295,6 +8526,17 @@
             "pr": 6727,
             "network": 0
         },
+        "BLJM60517": {
+            "title": "Dark Souls with Artorias of the Abyss Edition",
+            "alternative-title": null,
+            "wiki-id": 1042,
+            "status": "Playable",
+            "date": "2026-01-21",
+            "thread": 199757,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
+            "network": 0
+        },
         "BLES01765": {
             "title": "Dark Souls: Prepare to Die Edition",
             "alternative-title": null,
@@ -8722,6 +8964,39 @@
             "thread": 199075,
             "commit": "b57ab74ee74d913157dc88b978e952b6052621de",
             "pr": 12920,
+            "network": 0
+        },
+        "BLES01739": {
+            "title": "Dead Island: Riptide",
+            "alternative-title": null,
+            "wiki-id": 1439,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 179318,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
+            "network": 0
+        },
+        "BLJS10228": {
+            "title": "Dead Island: Riptide",
+            "alternative-title": null,
+            "wiki-id": 1439,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 199768,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
+            "network": 0
+        },
+        "BLUS31052": {
+            "title": "Dead Island: Riptide",
+            "alternative-title": null,
+            "wiki-id": 1439,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 200176,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
             "network": 0
         },
         "NPEA00143": {
@@ -9202,10 +9477,21 @@
             "alternative-title": null,
             "wiki-id": 731,
             "status": "Playable",
-            "date": "2018-04-14",
+            "date": "2026-01-24",
             "thread": 198517,
-            "commit": "7303f04bc5a76f42c6f27747457bd087fc1ea85e",
-            "pr": 4424,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
+            "network": 0
+        },
+        "NPEB00347": {
+            "title": "Dead Space Extraction",
+            "alternative-title": null,
+            "wiki-id": 731,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 199844,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
             "network": 0
         },
         "NPUB30314": {
@@ -9213,10 +9499,10 @@
             "alternative-title": null,
             "wiki-id": 731,
             "status": "Playable",
-            "date": "2018-04-14",
+            "date": "2026-01-24",
             "thread": 173412,
-            "commit": "7303f04bc5a76f42c6f27747457bd087fc1ea85e",
-            "pr": 4424,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
             "network": 0
         },
         "NPUB30337": {
@@ -9224,10 +9510,10 @@
             "alternative-title": null,
             "wiki-id": 731,
             "status": "Playable",
-            "date": "2018-04-14",
+            "date": "2026-01-24",
             "thread": 197831,
-            "commit": "7303f04bc5a76f42c6f27747457bd087fc1ea85e",
-            "pr": 4424,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
             "network": 0
         },
         "NPEB00338": {
@@ -9772,7 +10058,7 @@
         "NPEB01202": {
             "title": "Demon's Souls",
             "alternative-title": null,
-            "wiki-id": 117,
+            "wiki-id": 4,
             "status": "Playable",
             "date": "2022-12-03",
             "thread": 197388,
@@ -9783,7 +10069,7 @@
         "NPJA00102": {
             "title": "Demon's Souls",
             "alternative-title": null,
-            "wiki-id": 117,
+            "wiki-id": 4,
             "status": "Playable",
             "date": "2022-12-03",
             "thread": 205152,
@@ -9794,7 +10080,7 @@
         "NPUB30910": {
             "title": "Demon's Souls",
             "alternative-title": null,
-            "wiki-id": 117,
+            "wiki-id": 4,
             "status": "Playable",
             "date": "2022-12-03",
             "thread": 197387,
@@ -10256,7 +10542,7 @@
         "BCAS20185": {
             "title": "Disgaea 4: A Promise Unforgotten",
             "alternative-title": null,
-            "wiki-id": 117,
+            "wiki-id": 126,
             "status": "Playable",
             "date": "2017-02-10",
             "thread": 178048,
@@ -10267,7 +10553,7 @@
         "BLES01225": {
             "title": "Disgaea 4: A Promise Unforgotten",
             "alternative-title": null,
-            "wiki-id": 117,
+            "wiki-id": 126,
             "status": "Playable",
             "date": "2017-02-10",
             "thread": 172391,
@@ -10278,7 +10564,7 @@
         "BLUS30727": {
             "title": "Disgaea 4: A Promise Unforgotten",
             "alternative-title": null,
-            "wiki-id": 117,
+            "wiki-id": 126,
             "status": "Playable",
             "date": "2017-02-10",
             "thread": 178092,
@@ -11760,6 +12046,39 @@
             "pr": 17568,
             "network": 0
         },
+        "BLES00891": {
+            "title": "Driver: San Francisco",
+            "alternative-title": null,
+            "wiki-id": 1502,
+            "status": "Playable",
+            "date": "2026-02-13",
+            "thread": 182236,
+            "commit": "8f066541a3c3d8f0d830872f42419be3a4cbf1c3",
+            "pr": 18160,
+            "network": 0
+        },
+        "BLES00951": {
+            "title": "Driver: San Francisco",
+            "alternative-title": null,
+            "wiki-id": 1502,
+            "status": "Playable",
+            "date": "2026-02-13",
+            "thread": 188211,
+            "commit": "8f066541a3c3d8f0d830872f42419be3a4cbf1c3",
+            "pr": 18160,
+            "network": 0
+        },
+        "BLUS30536": {
+            "title": "Driver: San Francisco",
+            "alternative-title": null,
+            "wiki-id": 1502,
+            "status": "Playable",
+            "date": "2026-02-13",
+            "thread": 203357,
+            "commit": "8f066541a3c3d8f0d830872f42419be3a4cbf1c3",
+            "pr": 18160,
+            "network": 0
+        },
         "NPUB30057": {
             "title": "Droplitz",
             "alternative-title": null,
@@ -12319,6 +12638,17 @@
             "thread": 199689,
             "commit": "3f66297593b540e586545e4020d08d1609f0e162",
             "pr": 16146,
+            "network": 0
+        },
+        "NPUB31531": {
+            "title": "Dynasty Warriors: Gundam Reborn",
+            "alternative-title": "Shin Gundam Musou",
+            "wiki-id": 1092,
+            "status": "Playable",
+            "date": "2026-02-01",
+            "thread": 200988,
+            "commit": "1c08439907753a86ee1628f07d5fcbe86bfdda2f",
+            "pr": 18129,
             "network": 0
         },
         "BLES00825": {
@@ -12926,6 +13256,28 @@
             "pr": 15052,
             "network": 0
         },
+        "NPEB90063": {
+            "title": "Enemy Territory: Quake Wars Demo",
+            "alternative-title": null,
+            "wiki-id": 1525,
+            "status": "Playable",
+            "date": "2026-01-16",
+            "thread": 198337,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
+        "NPUB90092": {
+            "title": "Enemy Territory: Quake Wars Demo",
+            "alternative-title": null,
+            "wiki-id": 1525,
+            "status": "Playable",
+            "date": "2026-01-16",
+            "thread": 178928,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
         "BLES00989": {
             "title": "Enslaved: Odyssey to the West",
             "alternative-title": null,
@@ -13201,6 +13553,17 @@
             "pr": 14732,
             "network": 0
         },
+        "BCAS20276": {
+            "title": "Everybody's Golf 6",
+            "alternative-title": null,
+            "wiki-id": 1530,
+            "status": "Playable",
+            "date": "2026-01-26",
+            "thread": 185717,
+            "commit": "d854ff03febb59d7f37b98ae05d0ffb50d2dca93",
+            "pr": 18039,
+            "network": 0
+        },
         "NPJA00086": {
             "title": "Everybody's Golf 6",
             "alternative-title": null,
@@ -13419,6 +13782,39 @@
             "thread": 177712,
             "commit": "6a4ba9d562193228fc90e0d73252775cfafb20b2",
             "pr": 7074,
+            "network": 0
+        },
+        "NPEB90437": {
+            "title": "F1 2012 Demo",
+            "alternative-title": null,
+            "wiki-id": 1544,
+            "status": "Playable",
+            "date": "2026-01-16",
+            "thread": 205716,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
+        "NPJB90529": {
+            "title": "F1 2012 Demo",
+            "alternative-title": null,
+            "wiki-id": 1544,
+            "status": "Playable",
+            "date": "2026-01-16",
+            "thread": 205776,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
+        "NPUB90811": {
+            "title": "F1 2012 Demo",
+            "alternative-title": null,
+            "wiki-id": 1544,
+            "status": "Playable",
+            "date": "2026-01-16",
+            "thread": 177367,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
             "network": 0
         },
         "BLES01715": {
@@ -15280,6 +15676,28 @@
             "pr": 9737,
             "network": 0
         },
+        "BLES00788": {
+            "title": "Front Mission Evolved",
+            "alternative-title": null,
+            "wiki-id": 1585,
+            "status": "Playable",
+            "date": "2026-01-29",
+            "thread": 179095,
+            "commit": "b0b0ed7634fa544978a5f2f111905b3a90e68bae",
+            "pr": 18112,
+            "network": 0
+        },
+        "BLUS30395": {
+            "title": "Front Mission Evolved",
+            "alternative-title": null,
+            "wiki-id": 1585,
+            "status": "Playable",
+            "date": "2026-01-29",
+            "thread": 197444,
+            "commit": "b0b0ed7634fa544978a5f2f111905b3a90e68bae",
+            "pr": 18112,
+            "network": 0
+        },
         "NPEB02288": {
             "title": "Frozen Free Fall - Snowball Fight",
             "alternative-title": null,
@@ -15476,6 +15894,17 @@
             "thread": 173702,
             "commit": "1206a5d4b793fdc2104ab0ac861f6782dd8aa23b",
             "pr": 7330,
+            "network": 0
+        },
+        "NPEB90442": {
+            "title": "Fuse Demo",
+            "alternative-title": null,
+            "wiki-id": 1589,
+            "status": "Playable",
+            "date": "2026-01-16",
+            "thread": 205692,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
             "network": 0
         },
         "BLES00573": {
@@ -16017,6 +16446,17 @@
             "pr": 3475,
             "network": 0
         },
+        "NPJB90680": {
+            "title": "Ginsei Igo 2: Next Generation Trial Version",
+            "alternative-title": null,
+            "wiki-id": 497,
+            "status": "Playable",
+            "date": "2026-01-26",
+            "thread": 205768,
+            "commit": "0ee3e24b25a119ac8810c30a5065ab846419214b",
+            "pr": 18111,
+            "network": 0
+        },
         "NPEB01036": {
             "title": "Girl Fight",
             "alternative-title": null,
@@ -16264,10 +16704,10 @@
             "alternative-title": null,
             "wiki-id": 138,
             "status": "Playable",
-            "date": "2020-10-09",
+            "date": "2026-02-12",
             "thread": 190167,
-            "commit": "4cafd5a31c762bbe505d36e54f98b43b20ca9e77",
-            "pr": 9024,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "BCES00800": {
@@ -16275,10 +16715,10 @@
             "alternative-title": null,
             "wiki-id": 138,
             "status": "Playable",
-            "date": "2020-10-09",
+            "date": "2026-02-12",
             "thread": 202372,
-            "commit": "4cafd5a31c762bbe505d36e54f98b43b20ca9e77",
-            "pr": 9024,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "BCUS98229": {
@@ -16286,10 +16726,10 @@
             "alternative-title": null,
             "wiki-id": 138,
             "status": "Playable",
-            "date": "2020-10-09",
+            "date": "2026-02-12",
             "thread": 157700,
-            "commit": "4cafd5a31c762bbe505d36e54f98b43b20ca9e77",
-            "pr": 9024,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "BLJM60200": {
@@ -16297,10 +16737,10 @@
             "alternative-title": null,
             "wiki-id": 138,
             "status": "Playable",
-            "date": "2020-10-09",
+            "date": "2026-02-12",
             "thread": 198544,
-            "commit": "4cafd5a31c762bbe505d36e54f98b43b20ca9e77",
-            "pr": 9024,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "NPEA00309": {
@@ -16341,10 +16781,10 @@
             "alternative-title": "God of War: Collection Volume II",
             "wiki-id": 139,
             "status": "Playable",
-            "date": "2018-05-20",
+            "date": "2026-02-12",
             "thread": 157675,
-            "commit": "4e8ce7fac03e045ade2014ac087a911c443272af",
-            "pr": 4378,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "BCES01278": {
@@ -16352,10 +16792,10 @@
             "alternative-title": "God of War: Collection Volume II",
             "wiki-id": 139,
             "status": "Playable",
-            "date": "2018-05-20",
+            "date": "2026-02-12",
             "thread": 198291,
-            "commit": "4e8ce7fac03e045ade2014ac087a911c443272af",
-            "pr": 4378,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "BCJS30080": {
@@ -16363,10 +16803,10 @@
             "alternative-title": "God of War: Collection Volume II",
             "wiki-id": 139,
             "status": "Playable",
-            "date": "2018-05-20",
+            "date": "2026-02-12",
             "thread": 197742,
-            "commit": "4e8ce7fac03e045ade2014ac087a911c443272af",
-            "pr": 4378,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "BCUS98289": {
@@ -16374,10 +16814,10 @@
             "alternative-title": "God of War: Collection Volume II",
             "wiki-id": 139,
             "status": "Playable",
-            "date": "2018-05-20",
+            "date": "2026-02-12",
             "thread": 180325,
-            "commit": "4e8ce7fac03e045ade2014ac087a911c443272af",
-            "pr": 4378,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "NPJA90206": {
@@ -16941,6 +17381,39 @@
             "pr": 15618,
             "network": 0
         },
+        "BLES01737": {
+            "title": "GRID 2",
+            "alternative-title": "Race Driver: GRID 2",
+            "wiki-id": 1619,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 199077,
+            "commit": "27ebd182e7f1275d22239cfb3c4f210dcd6320ce",
+            "pr": 18082,
+            "network": 0
+        },
+        "BLES01855": {
+            "title": "GRID 2",
+            "alternative-title": "Race Driver: GRID 2",
+            "wiki-id": 1619,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 183024,
+            "commit": "27ebd182e7f1275d22239cfb3c4f210dcd6320ce",
+            "pr": 18082,
+            "network": 0
+        },
+        "BLUS31055": {
+            "title": "GRID 2",
+            "alternative-title": "Race Driver: GRID 2",
+            "wiki-id": 1619,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 196886,
+            "commit": "27ebd182e7f1275d22239cfb3c4f210dcd6320ce",
+            "pr": 18082,
+            "network": 0
+        },
         "NPEB01222": {
             "title": "GRID 2",
             "alternative-title": "Race Driver: GRID 2",
@@ -17104,6 +17577,28 @@
             "thread": 162314,
             "commit": "1cae72c87281525468a09f721d4781aff42d433d",
             "pr": 17427,
+            "network": 0
+        },
+        "NPEB90120": {
+            "title": "GTI Club + Rally Cote D'Azur Demo",
+            "alternative-title": null,
+            "wiki-id": 1622,
+            "status": "Playable",
+            "date": "2026-01-16",
+            "thread": 205505,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
+        "NPUB90183": {
+            "title": "GTI Club + Rally Cote D'Azur Demo",
+            "alternative-title": null,
+            "wiki-id": 1622,
+            "status": "Playable",
+            "date": "2026-01-16",
+            "thread": 205862,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
             "network": 0
         },
         "NPEB01141": {
@@ -17522,6 +18017,17 @@
             "thread": 206450,
             "commit": "aff871f12761ea39d8f8fdb915eb640acce78a3f",
             "pr": 14081,
+            "network": 0
+        },
+        "BLJM60018": {
+            "title": "Gundam Musou",
+            "alternative-title": null,
+            "wiki-id": 329,
+            "status": "Playable",
+            "date": "2026-02-02",
+            "thread": 199569,
+            "commit": "1c08439907753a86ee1628f07d5fcbe86bfdda2f",
+            "pr": 18129,
             "network": 0
         },
         "BLJM60300": {
@@ -18899,6 +19405,17 @@
             "pr": 3921,
             "network": 0
         },
+        "NPUB90077": {
+            "title": "Hummer Dirt Experience Demo",
+            "alternative-title": null,
+            "wiki-id": 1396,
+            "status": "Playable",
+            "date": "2026-02-04",
+            "thread": 206182,
+            "commit": "43b2ce65773d2edc00a4499b40607cbdc7e70c81",
+            "pr": 18144,
+            "network": 0
+        },
         "BLES01310": {
             "title": "Hunted: The Demon's Forge",
             "alternative-title": null,
@@ -19601,6 +20118,28 @@
             "thread": 162333,
             "commit": "11c52306282fcbe3099805c59c1ea841208ed6a1",
             "pr": 12230,
+            "network": 0
+        },
+        "BLES00885": {
+            "title": "Iron Man 2",
+            "alternative-title": null,
+            "wiki-id": 1720,
+            "status": "Playable",
+            "date": "2026-01-26",
+            "thread": 196899,
+            "commit": "818b11fd2fa2607334f781213e26da5fbb8506b5",
+            "pr": 18114,
+            "network": 0
+        },
+        "BLUS30514": {
+            "title": "Iron Man 2",
+            "alternative-title": null,
+            "wiki-id": 1720,
+            "status": "Playable",
+            "date": "2026-01-26",
+            "thread": 199310,
+            "commit": "818b11fd2fa2607334f781213e26da5fbb8506b5",
+            "pr": 18114,
             "network": 0
         },
         "NPUB90380": {
@@ -20395,6 +20934,17 @@
             "pr": 4676,
             "network": 0
         },
+        "BLJS10319": {
+            "title": "Kamen Rider Battride War Genesis",
+            "alternative-title": null,
+            "wiki-id": 307,
+            "status": "Playable",
+            "date": "2026-01-27",
+            "thread": 209385,
+            "commit": "818b11fd2fa2607334f781213e26da5fbb8506b5",
+            "pr": 18114,
+            "network": 0
+        },
         "NPJB00758": {
             "title": "Kamen Rider Battride War Genesis",
             "alternative-title": null,
@@ -20411,10 +20961,21 @@
             "alternative-title": null,
             "wiki-id": 306,
             "status": "Playable",
-            "date": "2017-12-23",
+            "date": "2026-01-27",
             "thread": 179261,
-            "commit": "8b31a9448ad049b6446fd4ec338d01991054b3ec",
-            "pr": 3953,
+            "commit": "818b11fd2fa2607334f781213e26da5fbb8506b5",
+            "pr": 18114,
+            "network": 0
+        },
+        "BLJS10219": {
+            "title": "Kamen Rider Battride War Premium TV Sound Edition",
+            "alternative-title": null,
+            "wiki-id": 304,
+            "status": "Playable",
+            "date": "2026-01-27",
+            "thread": 209384,
+            "commit": "818b11fd2fa2607334f781213e26da5fbb8506b5",
+            "pr": 18114,
             "network": 0
         },
         "BLES00604": {
@@ -21467,10 +22028,10 @@
             "alternative-title": null,
             "wiki-id": 420,
             "status": "Playable",
-            "date": "2018-11-11",
+            "date": "2026-02-11",
             "thread": 196666,
-            "commit": "986bb243265af17256306e1931930ba6c919b716",
-            "pr": 5321,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "BLUS30837": {
@@ -21478,10 +22039,10 @@
             "alternative-title": null,
             "wiki-id": 420,
             "status": "Playable",
-            "date": "2018-11-11",
+            "date": "2026-02-11",
             "thread": 196824,
-            "commit": "986bb243265af17256306e1931930ba6c919b716",
-            "pr": 5321,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "NPEB01032": {
@@ -21533,10 +22094,10 @@
             "alternative-title": null,
             "wiki-id": 421,
             "status": "Playable",
-            "date": "2020-02-10",
+            "date": "2026-02-11",
             "thread": 197027,
-            "commit": "6847e52364df48188384bc04557397896a9486f6",
-            "pr": 7467,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "BLUS31434": {
@@ -21544,10 +22105,10 @@
             "alternative-title": null,
             "wiki-id": 421,
             "status": "Playable",
-            "date": "2020-02-10",
+            "date": "2026-02-11",
             "thread": 175297,
-            "commit": "6847e52364df48188384bc04557397896a9486f6",
-            "pr": 7467,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "NPUB31499": {
@@ -21588,10 +22149,10 @@
             "alternative-title": null,
             "wiki-id": 419,
             "status": "Playable",
-            "date": "2017-09-14",
+            "date": "2026-02-11",
             "thread": 197018,
-            "commit": "669d95352984a896fb4d1c0199d65eb6ca8c3ac9",
-            "pr": 3411,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "BLUS30175": {
@@ -21599,10 +22160,10 @@
             "alternative-title": null,
             "wiki-id": 419,
             "status": "Playable",
-            "date": "2017-09-14",
+            "date": "2026-02-11",
             "thread": 183338,
-            "commit": "669d95352984a896fb4d1c0199d65eb6ca8c3ac9",
-            "pr": 3411,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "NPEB90115": {
@@ -21988,6 +22549,17 @@
             "thread": 201361,
             "commit": "ae491f04a14195322821d565a66c49b68d238b32",
             "pr": 10776,
+            "network": 0
+        },
+        "NPUB31708": {
+            "title": "LEGO Marvel's Avengers",
+            "alternative-title": null,
+            "wiki-id": 1789,
+            "status": "Playable",
+            "date": "2026-01-31",
+            "thread": 209391,
+            "commit": "0e2584fc9f367c2d3cd3e0ce578fb81b0e74b6ce",
+            "pr": 18107,
             "network": 0
         },
         "NPEB90560": {
@@ -22914,6 +23486,39 @@
             "pr": 4057,
             "network": 0
         },
+        "BLES02197": {
+            "title": "Lost Dimension",
+            "alternative-title": null,
+            "wiki-id": 1799,
+            "status": "Playable",
+            "date": "2026-01-23",
+            "thread": 209379,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
+            "network": 0
+        },
+        "BLJM61166": {
+            "title": "Lost Dimension",
+            "alternative-title": null,
+            "wiki-id": 1799,
+            "status": "Playable",
+            "date": "2026-01-23",
+            "thread": 173907,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
+            "network": 0
+        },
+        "BLUS31554": {
+            "title": "Lost Dimension",
+            "alternative-title": null,
+            "wiki-id": 1799,
+            "status": "Playable",
+            "date": "2026-01-23",
+            "thread": 180764,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
+            "network": 0
+        },
         "NPUB31711": {
             "title": "Lost Dimension",
             "alternative-title": null,
@@ -22923,6 +23528,61 @@
             "thread": 208407,
             "commit": "8131f402698c93550da54686910eefc938c9ef2b",
             "pr": 16074,
+            "network": 0
+        },
+        "BLES00710": {
+            "title": "Lost Planet 2",
+            "alternative-title": null,
+            "wiki-id": 1800,
+            "status": "Playable",
+            "date": "2026-01-30",
+            "thread": 181761,
+            "commit": "b7311bd6dbea76af058b05849c69406f2a7d744e",
+            "pr": 18119,
+            "network": 0
+        },
+        "BLUS30434": {
+            "title": "Lost Planet 2",
+            "alternative-title": null,
+            "wiki-id": 1800,
+            "status": "Playable",
+            "date": "2026-01-30",
+            "thread": 196865,
+            "commit": "b7311bd6dbea76af058b05849c69406f2a7d744e",
+            "pr": 18119,
+            "network": 0
+        },
+        "MRTC00002": {
+            "title": "Lost Planet 2",
+            "alternative-title": null,
+            "wiki-id": 1800,
+            "status": "Playable",
+            "date": "2026-01-30",
+            "thread": 205166,
+            "commit": "b7311bd6dbea76af058b05849c69406f2a7d744e",
+            "pr": 18119,
+            "network": 0
+        },
+        "NPEB90181": {
+            "title": "Lost Planet 2 Co-op Demo",
+            "alternative-title": null,
+            "wiki-id": 1800,
+            "status": "Playable",
+            "date": "2026-01-17",
+            "thread": 205264,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
+        "NPUB90300": {
+            "title": "Lost Planet 2 Co-op Demo",
+            "alternative-title": null,
+            "wiki-id": 1800,
+            "status": "Playable",
+            "date": "2026-01-17",
+            "thread": 205265,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
             "network": 0
         },
         "BLUS31020": {
@@ -25741,6 +26401,39 @@
             "pr": 3772,
             "network": 0
         },
+        "NPUB90181": {
+            "title": "MotoGP 08 Demo",
+            "alternative-title": null,
+            "wiki-id": 1945,
+            "status": "Playable",
+            "date": "2026-01-18",
+            "thread": 205623,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
+        "NPEB90214": {
+            "title": "MotoGP 09/10 Demo",
+            "alternative-title": null,
+            "wiki-id": 1946,
+            "status": "Playable",
+            "date": "2026-01-18",
+            "thread": 206437,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
+        "NPUB90357": {
+            "title": "MotoGP 09/10 Demo",
+            "alternative-title": null,
+            "wiki-id": 1946,
+            "status": "Playable",
+            "date": "2026-01-18",
+            "thread": 206438,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
         "BLES01100": {
             "title": "MotoGP 10/11",
             "alternative-title": null,
@@ -28524,6 +29217,17 @@
             "pr": 7451,
             "network": 0
         },
+        "BLES00131": {
+            "title": "NHL 2K8",
+            "alternative-title": null,
+            "wiki-id": 2055,
+            "status": "Playable",
+            "date": "2020-02-10",
+            "thread": 178599,
+            "commit": "16bbd93885646e91f85f3d4093497d87905e8543",
+            "pr": 7451,
+            "network": 0
+        },
         "BLUS30044": {
             "title": "NHL 2K8",
             "alternative-title": null,
@@ -28533,6 +29237,17 @@
             "thread": 201412,
             "commit": "16bbd93885646e91f85f3d4093497d87905e8543",
             "pr": 7451,
+            "network": 0
+        },
+        "NPUB90058": {
+            "title": "NHL 2K8 Demo",
+            "alternative-title": null,
+            "wiki-id": 2055,
+            "status": "Playable",
+            "date": "2026-01-21",
+            "thread": 205640,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
             "network": 0
         },
         "BLUS30188": {
@@ -30845,6 +31560,17 @@
             "pr": 11728,
             "network": 0
         },
+        "NPUB90356": {
+            "title": "Planet Minigolf Demo",
+            "alternative-title": null,
+            "wiki-id": 2107,
+            "status": "Playable",
+            "date": "2026-01-25",
+            "thread": 205101,
+            "commit": "f883718b238e6897635201a67ca11537ce197510",
+            "pr": 18104,
+            "network": 0
+        },
         "NPEB01176": {
             "title": "Planets Under Attack",
             "alternative-title": null,
@@ -32088,6 +32814,39 @@
             "pr": 4503,
             "network": 0
         },
+        "BLUD80004": {
+            "title": "Pure Demo",
+            "alternative-title": null,
+            "wiki-id": 296,
+            "status": "Playable",
+            "date": "2026-01-18",
+            "thread": 205413,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
+        "NPEB90092": {
+            "title": "Pure Demo",
+            "alternative-title": null,
+            "wiki-id": 296,
+            "status": "Playable",
+            "date": "2026-01-25",
+            "thread": 205518,
+            "commit": "d854ff03febb59d7f37b98ae05d0ffb50d2dca93",
+            "pr": 18039,
+            "network": 0
+        },
+        "NPUB90096": {
+            "title": "Pure Demo",
+            "alternative-title": null,
+            "wiki-id": 296,
+            "status": "Playable",
+            "date": "2026-01-25",
+            "thread": 205095,
+            "commit": "d854ff03febb59d7f37b98ae05d0ffb50d2dca93",
+            "pr": 18039,
+            "network": 0
+        },
         "BLES00725": {
             "title": "Pure Football",
             "alternative-title": null,
@@ -32306,6 +33065,17 @@
             "thread": 178364,
             "commit": "1206a5d4b793fdc2104ab0ac861f6782dd8aa23b",
             "pr": 7330,
+            "network": 0
+        },
+        "NPEB90230": {
+            "title": "Quantum Theory Demo",
+            "alternative-title": null,
+            "wiki-id": 2150,
+            "status": "Playable",
+            "date": "2026-01-25",
+            "thread": 205599,
+            "commit": "b9f5d85d161278909cc286873b1a897666052d24",
+            "pr": 18102,
             "network": 0
         },
         "NPUB31723": {
@@ -32889,6 +33659,17 @@
             "thread": 198012,
             "commit": "3f8421fc17b8508339be745eb66e585b6b17b4cf",
             "pr": 12945,
+            "network": 0
+        },
+        "NPHA20002": {
+            "title": "Ratchet & Clank Future: Tools of Destruction Demo",
+            "alternative-title": null,
+            "wiki-id": 881,
+            "status": "Playable",
+            "date": "2026-02-03",
+            "thread": 209394,
+            "commit": "43b2ce65773d2edc00a4499b40607cbdc7e70c81",
+            "pr": 18144,
             "network": 0
         },
         "NPEB00879": {
@@ -33661,39 +34442,6 @@
             "pr": 12538,
             "network": 0
         },
-        "BCAS20055": {
-            "title": "Resistance 2",
-            "alternative-title": null,
-            "wiki-id": 959,
-            "status": "Playable",
-            "date": "2022-01-20",
-            "thread": 198281,
-            "commit": "3942a464fe6f09bd964b37f98e49f1d5af826886",
-            "pr": 11401,
-            "network": 0
-        },
-        "BCES00226": {
-            "title": "Resistance 2",
-            "alternative-title": null,
-            "wiki-id": 959,
-            "status": "Playable",
-            "date": "2022-01-20",
-            "thread": 188505,
-            "commit": "3942a464fe6f09bd964b37f98e49f1d5af826886",
-            "pr": 11401,
-            "network": 0
-        },
-        "BCUS98120": {
-            "title": "Resistance 2",
-            "alternative-title": null,
-            "wiki-id": 959,
-            "status": "Playable",
-            "date": "2022-01-20",
-            "thread": 198261,
-            "commit": "3942a464fe6f09bd964b37f98e49f1d5af826886",
-            "pr": 11401,
-            "network": 0
-        },
         "NPEA00431": {
             "title": "Resistance 2",
             "alternative-title": null,
@@ -33802,6 +34550,28 @@
             "thread": 197883,
             "commit": "02f35383bda6b35b99ab93fd7c124b90f8ea0954",
             "pr": 13114,
+            "network": 0
+        },
+        "NPEA90001": {
+            "title": "Resistance: Fall of Man Demo",
+            "alternative-title": null,
+            "wiki-id": 1059,
+            "status": "Playable",
+            "date": "2026-01-25",
+            "thread": 197610,
+            "commit": "f883718b238e6897635201a67ca11537ce197510",
+            "pr": 18104,
+            "network": 0
+        },
+        "NPUA98107": {
+            "title": "Resistance: Fall of Man Demo",
+            "alternative-title": null,
+            "wiki-id": 1059,
+            "status": "Playable",
+            "date": "2026-01-25",
+            "thread": 205107,
+            "commit": "f883718b238e6897635201a67ca11537ce197510",
+            "pr": 18104,
             "network": 0
         },
         "NPEA00433": {
@@ -36504,10 +37274,10 @@
             "alternative-title": null,
             "wiki-id": 1082,
             "status": "Playable",
-            "date": "2024-06-07",
+            "date": "2026-02-09",
             "thread": 197282,
-            "commit": "b52deed4ddfc9a16aa9cca605352f7134234b73e",
-            "pr": 15670,
+            "commit": "aeaa62a28c36f352d5c2bf6bb4e1cadc4600ff00",
+            "pr": 18159,
             "network": 0
         },
         "BLJM60391": {
@@ -36515,10 +37285,10 @@
             "alternative-title": null,
             "wiki-id": 1082,
             "status": "Playable",
-            "date": "2024-06-07",
+            "date": "2026-02-09",
             "thread": 207989,
-            "commit": "b52deed4ddfc9a16aa9cca605352f7134234b73e",
-            "pr": 15670,
+            "commit": "aeaa62a28c36f352d5c2bf6bb4e1cadc4600ff00",
+            "pr": 18159,
             "network": 0
         },
         "BLUS30565": {
@@ -36526,10 +37296,10 @@
             "alternative-title": null,
             "wiki-id": 1082,
             "status": "Playable",
-            "date": "2024-06-07",
+            "date": "2026-02-09",
             "thread": 173257,
-            "commit": "b52deed4ddfc9a16aa9cca605352f7134234b73e",
-            "pr": 15670,
+            "commit": "aeaa62a28c36f352d5c2bf6bb4e1cadc4600ff00",
+            "pr": 18159,
             "network": 0
         },
         "BLES01504": {
@@ -36719,6 +37489,17 @@
             "pr": 16986,
             "network": 0
         },
+        "BCES00345": {
+            "title": "SingStar A Tutto Pop",
+            "alternative-title": null,
+            "wiki-id": 3461,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208841,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
         "BCES00381": {
             "title": "SingStar ABBA",
             "alternative-title": null,
@@ -36750,6 +37531,94 @@
             "thread": 208823,
             "commit": "37dbd77628f44cdef3228bdfc03127365ec7383b",
             "pr": 16986,
+            "network": 0
+        },
+        "BCES01083": {
+            "title": "SingStar Afrikaanse Treffers",
+            "alternative-title": null,
+            "wiki-id": 4710,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208824,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES01024": {
+            "title": "SingStar Après-Ski Party 2",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208842,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES01023": {
+            "title": "SingStar Cantautori Italiani",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208843,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00846": {
+            "title": "SingStar Chart Hits",
+            "alternative-title": null,
+            "wiki-id": 4256,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208844,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00894": {
+            "title": "SingStar Dance",
+            "alternative-title": null,
+            "wiki-id": 2363,
+            "status": "Playable",
+            "date": "2026-02-15",
+            "thread": 187279,
+            "commit": "06798ef7292352b0f2cd4bf3e4d86d7f0dbe3bfc",
+            "pr": 18180,
+            "network": 0
+        },
+        "BCES01049": {
+            "title": "SingStar Dance",
+            "alternative-title": null,
+            "wiki-id": 2363,
+            "status": "Playable",
+            "date": "2026-02-15",
+            "thread": 208845,
+            "commit": "06798ef7292352b0f2cd4bf3e4d86d7f0dbe3bfc",
+            "pr": 18180,
+            "network": 0
+        },
+        "BCUS98266": {
+            "title": "SingStar Dance",
+            "alternative-title": null,
+            "wiki-id": 2363,
+            "status": "Playable",
+            "date": "2026-02-15",
+            "thread": 208848,
+            "commit": "06798ef7292352b0f2cd4bf3e4d86d7f0dbe3bfc",
+            "pr": 18180,
+            "network": 0
+        },
+        "BCES01103": {
+            "title": "SingStar Danske Hits",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208919,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
             "network": 0
         },
         "BCES02111": {
@@ -36807,6 +37676,72 @@
             "pr": 16986,
             "network": 0
         },
+        "BCES00869": {
+            "title": "SingStar Fussballhits",
+            "alternative-title": null,
+            "wiki-id": 4317,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 206048,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES01258": {
+            "title": "SingStar Grandes Exitos",
+            "alternative-title": null,
+            "wiki-id": 2365,
+            "status": "Playable",
+            "date": "2026-02-15",
+            "thread": 193791,
+            "commit": "06798ef7292352b0f2cd4bf3e4d86d7f0dbe3bfc",
+            "pr": 18180,
+            "network": 0
+        },
+        "BCES00835": {
+            "title": "SingStar Guitar",
+            "alternative-title": null,
+            "wiki-id": 2366,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 186543,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00979": {
+            "title": "SingStar Guitar",
+            "alternative-title": null,
+            "wiki-id": 2366,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208836,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00980": {
+            "title": "SingStar Guitar",
+            "alternative-title": null,
+            "wiki-id": 2366,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208835,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00981": {
+            "title": "SingStar Guitar",
+            "alternative-title": null,
+            "wiki-id": 2366,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208834,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
         "BCES00264": {
             "title": "SingStar Hits",
             "alternative-title": null,
@@ -36816,6 +37751,72 @@
             "thread": 208849,
             "commit": "37dbd77628f44cdef3228bdfc03127365ec7383b",
             "pr": 16986,
+            "network": 0
+        },
+        "BCES00346": {
+            "title": "SingStar Hits 2",
+            "alternative-title": null,
+            "wiki-id": 4258,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208850,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00622": {
+            "title": "SingStar Intro",
+            "alternative-title": null,
+            "wiki-id": 2367,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 192882,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00852": {
+            "title": "SingStar Kent",
+            "alternative-title": null,
+            "wiki-id": 4715,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208851,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCUS94344": {
+            "title": "SingStar Latino",
+            "alternative-title": null,
+            "wiki-id": 2368,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 196823,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00614": {
+            "title": "SingStar Made In Germany",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208855,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00583": {
+            "title": "SingStar Mecano",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208837,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
             "network": 0
         },
         "BCES02043": {
@@ -36829,6 +37830,17 @@
             "pr": 15837,
             "network": 0
         },
+        "BCES00518": {
+            "title": "SingStar Morangos Com Açúcar",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-15",
+            "thread": 208810,
+            "commit": "06798ef7292352b0f2cd4bf3e4d86d7f0dbe3bfc",
+            "pr": 18180,
+            "network": 0
+        },
         "BCES02045": {
             "title": "SingStar Nova Generação",
             "alternative-title": null,
@@ -36838,6 +37850,270 @@
             "thread": 208805,
             "commit": "2f8ed1a6bd7a6424e05c4425a647c9eecca13a91",
             "pr": 16965,
+            "network": 0
+        },
+        "BCES00873": {
+            "title": "SingStar Patito Feo",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208856,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00531": {
+            "title": "SingStar Polskie Hity",
+            "alternative-title": null,
+            "wiki-id": 4254,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208816,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00856": {
+            "title": "SingStar Polskie Hity 2",
+            "alternative-title": null,
+            "wiki-id": 4255,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208814,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00342": {
+            "title": "SingStar Pop 2009",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208838,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00293": {
+            "title": "SingStar Pop Edition",
+            "alternative-title": null,
+            "wiki-id": 3461,
+            "status": "Playable",
+            "date": "2026-02-15",
+            "thread": 198420,
+            "commit": "06798ef7292352b0f2cd4bf3e4d86d7f0dbe3bfc",
+            "pr": 18180,
+            "network": 0
+        },
+        "BCES00341": {
+            "title": "SingStar Pop Edition",
+            "alternative-title": null,
+            "wiki-id": 3461,
+            "status": "Playable",
+            "date": "2026-02-15",
+            "thread": 208857,
+            "commit": "06798ef7292352b0f2cd4bf3e4d86d7f0dbe3bfc",
+            "pr": 18180,
+            "network": 0
+        },
+        "BCES00871": {
+            "title": "SingStar Portugal Hits",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-15",
+            "thread": 208806,
+            "commit": "06798ef7292352b0f2cd4bf3e4d86d7f0dbe3bfc",
+            "pr": 18180,
+            "network": 0
+        },
+        "BCES00494": {
+            "title": "SingStar Queen",
+            "alternative-title": null,
+            "wiki-id": 2370,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 186546,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCUS98206": {
+            "title": "SingStar Queen",
+            "alternative-title": null,
+            "wiki-id": 2370,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208858,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES01441": {
+            "title": "SingStar Return To The 80s",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208859,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00617": {
+            "title": "SingStar Starter Pack",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208827,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00621": {
+            "title": "SingStar Starter Pack",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208826,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00624": {
+            "title": "SingStar Starter Pack",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208829,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00625": {
+            "title": "SingStar Starter Pack",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208828,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00520": {
+            "title": "SingStar Studio 100",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208831,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES01915": {
+            "title": "SingStar SuomiHelmet",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208860,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00847": {
+            "title": "SingStar SuomiHitit",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208861,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES01735": {
+            "title": "SingStar SuomiHuiput",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208862,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00344": {
+            "title": "SingStar SuomiPop",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 209412,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES01255": {
+            "title": "SingStar SuomiSuosikit",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208863,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00343": {
+            "title": "SingStar Svenska Stjärnor",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208935,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00607": {
+            "title": "SingStar Take That",
+            "alternative-title": null,
+            "wiki-id": 2371,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 197980,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00634": {
+            "title": "SingStar The Wiggles",
+            "alternative-title": null,
+            "wiki-id": 3954,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 208825,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00722": {
+            "title": "SingStar Vasco",
+            "alternative-title": null,
+            "wiki-id": 2372,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 196881,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
             "network": 0
         },
         "BCES00185": {
@@ -36939,6 +38215,50 @@
             "pr": 16990,
             "network": 0
         },
+        "BCES01257": {
+            "title": "SingStar: Back to the 80s",
+            "alternative-title": null,
+            "wiki-id": 2376,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 186971,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00640": {
+            "title": "SingStar: Chartbreaker",
+            "alternative-title": null,
+            "wiki-id": 2377,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 200191,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00519": {
+            "title": "SingStar: Mallorca Party",
+            "alternative-title": null,
+            "wiki-id": 2378,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 197659,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "BCES00596": {
+            "title": "SingStar: Motown",
+            "alternative-title": null,
+            "wiki-id": 2379,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 191829,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
         "BCES02025": {
             "title": "SingStar: Ultimate Party",
             "alternative-title": null,
@@ -36970,6 +38290,17 @@
             "thread": 208818,
             "commit": "6511e0f3e6f72a3bf46057f9fee0957edc333d34",
             "pr": 16967,
+            "network": 0
+        },
+        "BCES02044": {
+            "title": "SingStar: Ultimate Party",
+            "alternative-title": null,
+            "wiki-id": 2380,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 209413,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
             "network": 0
         },
         "BLES00560": {
@@ -37648,10 +38979,10 @@
             "alternative-title": null,
             "wiki-id": 1062,
             "status": "Playable",
-            "date": "2021-04-21",
+            "date": "2026-02-13",
             "thread": 173722,
-            "commit": "a0d1cf26d003dfd09cc9d687a8a04c0d9eda59df",
-            "pr": 10155,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "BCES01285": {
@@ -37659,10 +38990,10 @@
             "alternative-title": null,
             "wiki-id": 1062,
             "status": "Playable",
-            "date": "2021-04-21",
+            "date": "2026-02-13",
             "thread": 202799,
-            "commit": "a0d1cf26d003dfd09cc9d687a8a04c0d9eda59df",
-            "pr": 10155,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "BCUS98247": {
@@ -37670,10 +39001,10 @@
             "alternative-title": null,
             "wiki-id": 1062,
             "status": "Playable",
-            "date": "2021-04-21",
+            "date": "2026-02-13",
             "thread": 191712,
-            "commit": "a0d1cf26d003dfd09cc9d687a8a04c0d9eda59df",
-            "pr": 10155,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "NPEA00429": {
@@ -37852,6 +39183,28 @@
             "pr": 7888,
             "network": 0
         },
+        "BLES01981": {
+            "title": "Sniper Elite 3",
+            "alternative-title": null,
+            "wiki-id": 2402,
+            "status": "Playable",
+            "date": "2026-01-25",
+            "thread": 180942,
+            "commit": "f883718b238e6897635201a67ca11537ce197510",
+            "pr": 18104,
+            "network": 0
+        },
+        "BLUS31401": {
+            "title": "Sniper Elite 3",
+            "alternative-title": null,
+            "wiki-id": 2402,
+            "status": "Playable",
+            "date": "2026-01-25",
+            "thread": 199412,
+            "commit": "f883718b238e6897635201a67ca11537ce197510",
+            "pr": 18104,
+            "network": 0
+        },
         "BLES02145": {
             "title": "Sniper Elite 3 Ultimate Edition",
             "alternative-title": null,
@@ -37872,6 +39225,28 @@
             "thread": 206884,
             "commit": "fbeaa1c487437fe90a565803f4d45738952c1f08",
             "pr": 14875,
+            "network": 0
+        },
+        "BLES01290": {
+            "title": "Sniper Elite V2",
+            "alternative-title": null,
+            "wiki-id": 2403,
+            "status": "Playable",
+            "date": "2026-01-25",
+            "thread": 178908,
+            "commit": "f883718b238e6897635201a67ca11537ce197510",
+            "pr": 18104,
+            "network": 0
+        },
+        "BLUS30798": {
+            "title": "Sniper Elite V2",
+            "alternative-title": null,
+            "wiki-id": 2403,
+            "status": "Playable",
+            "date": "2026-01-25",
+            "thread": 200278,
+            "commit": "f883718b238e6897635201a67ca11537ce197510",
+            "pr": 18104,
             "network": 0
         },
         "NPEB90404": {
@@ -38994,6 +40369,39 @@
             "thread": 167217,
             "commit": "bd1d4de422cd3fbf6839e10012cc5d7873f4f114",
             "pr": 4422,
+            "network": 0
+        },
+        "NPEB90392": {
+            "title": "SSX Demo",
+            "alternative-title": null,
+            "wiki-id": 1183,
+            "status": "Playable",
+            "date": "2026-01-25",
+            "thread": 198378,
+            "commit": "b9f5d85d161278909cc286873b1a897666052d24",
+            "pr": 18102,
+            "network": 0
+        },
+        "NPJB90434": {
+            "title": "SSX Demo",
+            "alternative-title": null,
+            "wiki-id": 1183,
+            "status": "Playable",
+            "date": "2026-01-25",
+            "thread": 180846,
+            "commit": "b9f5d85d161278909cc286873b1a897666052d24",
+            "pr": 18102,
+            "network": 0
+        },
+        "NPUB90732": {
+            "title": "SSX Demo",
+            "alternative-title": null,
+            "wiki-id": 1183,
+            "status": "Playable",
+            "date": "2026-01-25",
+            "thread": 198377,
+            "commit": "b9f5d85d161278909cc286873b1a897666052d24",
+            "pr": 18102,
             "network": 0
         },
         "NPJB00782": {
@@ -41515,6 +42923,39 @@
             "pr": 8103,
             "network": 0
         },
+        "BLES00192": {
+            "title": "The Club",
+            "alternative-title": null,
+            "wiki-id": 2579,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 181324,
+            "commit": "7cfe96a1d121e12fbdfe42befe9af5bbd561be99",
+            "pr": 18176,
+            "network": 0
+        },
+        "BLES00193": {
+            "title": "The Club",
+            "alternative-title": null,
+            "wiki-id": 2579,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 188202,
+            "commit": "7cfe96a1d121e12fbdfe42befe9af5bbd561be99",
+            "pr": 18176,
+            "network": 0
+        },
+        "BLUS30108": {
+            "title": "The Club",
+            "alternative-title": null,
+            "wiki-id": 2579,
+            "status": "Playable",
+            "date": "2026-02-14",
+            "thread": 202041,
+            "commit": "7cfe96a1d121e12fbdfe42befe9af5bbd561be99",
+            "pr": 18176,
+            "network": 0
+        },
         "NPEB90033": {
             "title": "The Club Demo",
             "alternative-title": null,
@@ -41634,6 +43075,28 @@
             "thread": 205267,
             "commit": "1a60fb3c96a96b8817d809f91094a56f4aee49c7",
             "pr": 13064,
+            "network": 0
+        },
+        "BCES00007": {
+            "title": "The Eye of Judgment",
+            "alternative-title": null,
+            "wiki-id": 2587,
+            "status": "Playable",
+            "date": "2025-04-11",
+            "thread": 203599,
+            "commit": "fcb6bc70f82f907d56aacb11c57055ef3f8cfedd",
+            "pr": 17033,
+            "network": 0
+        },
+        "BCUS98133": {
+            "title": "The Eye of Judgment",
+            "alternative-title": null,
+            "wiki-id": 2587,
+            "status": "Playable",
+            "date": "2025-04-11",
+            "thread": 190685,
+            "commit": "fcb6bc70f82f907d56aacb11c57055ef3f8cfedd",
+            "pr": 17033,
             "network": 0
         },
         "NPEB00339": {
@@ -42884,10 +44347,10 @@
             "alternative-title": "The Sly Collection",
             "wiki-id": 1228,
             "status": "Playable",
-            "date": "2021-08-27",
+            "date": "2026-02-13",
             "thread": 188602,
-            "commit": "ddb042148d15165ec2fe324c6548600d62720945",
-            "pr": 10747,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "BCES00982": {
@@ -42895,10 +44358,10 @@
             "alternative-title": "The Sly Collection",
             "wiki-id": 1228,
             "status": "Playable",
-            "date": "2021-08-27",
+            "date": "2026-02-13",
             "thread": 203186,
-            "commit": "ddb042148d15165ec2fe324c6548600d62720945",
-            "pr": 10747,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "BCUS98246": {
@@ -42906,10 +44369,10 @@
             "alternative-title": "The Sly Collection",
             "wiki-id": 1228,
             "status": "Playable",
-            "date": "2021-08-27",
+            "date": "2026-02-13",
             "thread": 189235,
-            "commit": "ddb042148d15165ec2fe324c6548600d62720945",
-            "pr": 10747,
+            "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
+            "pr": 18146,
             "network": 0
         },
         "BLES01797": {
@@ -44188,6 +45651,28 @@
             "pr": 6360,
             "network": 0
         },
+        "BLES00409": {
+            "title": "Tomb Raider: Underworld",
+            "alternative-title": null,
+            "wiki-id": 2695,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 197824,
+            "commit": "27ebd182e7f1275d22239cfb3c4f210dcd6320ce",
+            "pr": 18082,
+            "network": 0
+        },
+        "BLUS30224": {
+            "title": "Tomb Raider: Underworld",
+            "alternative-title": null,
+            "wiki-id": 2695,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 177955,
+            "commit": "27ebd182e7f1275d22239cfb3c4f210dcd6320ce",
+            "pr": 18082,
+            "network": 0
+        },
         "NPEB00366": {
             "title": "Tomb Raider: Underworld",
             "alternative-title": null,
@@ -45134,6 +46619,17 @@
             "pr": 13304,
             "network": 0
         },
+        "NPJB90295": {
+            "title": "Trinity: Souls of Zill O'll TGS Trial Version",
+            "alternative-title": "Trinity: Zill O'll Zero TGS Trial Version",
+            "wiki-id": 2725,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 205771,
+            "commit": "1e0909c579cb786e6e6a44b1ce0d0f9c79366ad9",
+            "pr": 18098,
+            "network": 0
+        },
         "BLES00488": {
             "title": "Trivial Pursuit",
             "alternative-title": null,
@@ -45319,6 +46815,28 @@
             "thread": 205802,
             "commit": "c471120a80ec6f12cd4489e1a9be073d7d9c96f2",
             "pr": 13311,
+            "network": 0
+        },
+        "NPEB00570": {
+            "title": "Twisted Land: Shadow Town",
+            "alternative-title": null,
+            "wiki-id": 2737,
+            "status": "Playable",
+            "date": "2026-01-31",
+            "thread": 197523,
+            "commit": "1c08439907753a86ee1628f07d5fcbe86bfdda2f",
+            "pr": 18129,
+            "network": 0
+        },
+        "NPUB30480": {
+            "title": "Twisted Land: Shadow Town",
+            "alternative-title": null,
+            "wiki-id": 2737,
+            "status": "Playable",
+            "date": "2026-01-31",
+            "thread": 198942,
+            "commit": "1c08439907753a86ee1628f07d5fcbe86bfdda2f",
+            "pr": 18129,
             "network": 0
         },
         "BLES00227": {
@@ -45992,6 +47510,28 @@
             "pr": 3793,
             "network": 0
         },
+        "NPEB90211": {
+            "title": "Vancouver 2010 Demo",
+            "alternative-title": null,
+            "wiki-id": 3443,
+            "status": "Playable",
+            "date": "2026-01-25",
+            "thread": 205534,
+            "commit": "b9f5d85d161278909cc286873b1a897666052d24",
+            "pr": 18102,
+            "network": 0
+        },
+        "NPUB90276": {
+            "title": "Vancouver 2010 Demo",
+            "alternative-title": null,
+            "wiki-id": 3443,
+            "status": "Playable",
+            "date": "2026-01-25",
+            "thread": 205072,
+            "commit": "b9f5d85d161278909cc286873b1a897666052d24",
+            "pr": 18102,
+            "network": 0
+        },
         "NPEB00148": {
             "title": "Vandal Hearts Flames of Judgement",
             "alternative-title": null,
@@ -46012,6 +47552,61 @@
             "thread": 198001,
             "commit": "cd8e97a7c6551e58167095b9a1af4d5a536de74c",
             "pr": 4123,
+            "network": 0
+        },
+        "NPEB90270": {
+            "title": "Vanquish Challenge Mode Demo",
+            "alternative-title": null,
+            "wiki-id": 3381,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 205594,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
+            "network": 0
+        },
+        "NPUB90478": {
+            "title": "Vanquish Challenge Mode Demo",
+            "alternative-title": null,
+            "wiki-id": 3381,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 180334,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
+            "network": 0
+        },
+        "NPEB90269": {
+            "title": "Vanquish Velocity Attack Demo",
+            "alternative-title": null,
+            "wiki-id": 3381,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 205270,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
+            "network": 0
+        },
+        "NPUB90441": {
+            "title": "Vanquish Velocity Attack Demo",
+            "alternative-title": null,
+            "wiki-id": 3381,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 205269,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
+            "network": 0
+        },
+        "BLED01094": {
+            "title": "Vanquish Velocity Attack Demo",
+            "alternative-title": null,
+            "wiki-id": 3381,
+            "status": "Playable",
+            "date": "2026-01-24",
+            "thread": 205405,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
             "network": 0
         },
         "NPUB31396": {
@@ -48434,6 +50029,17 @@
             "pr": 7310,
             "network": 0
         },
+        "NPEB01394": {
+            "title": "Zombeer",
+            "alternative-title": null,
+            "wiki-id": 3392,
+            "status": "Playable",
+            "date": "2026-01-19",
+            "thread": 206592,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
+            "network": 0
+        },
         "NPUB91001": {
             "title": "Zombeer Demo",
             "alternative-title": null,
@@ -48637,10 +50243,10 @@
             "alternative-title": null,
             "wiki-id": 1260,
             "status": "Ingame",
-            "date": "2021-08-24",
+            "date": "2026-01-20",
             "thread": 203358,
-            "commit": "f44e50b9cd8689067dd309599d7ee90a780cfd56",
-            "pr": 10752,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
             "network": 0
         },
         "BLES01392": {
@@ -48863,28 +50469,6 @@
             "pr": 3241,
             "network": 0
         },
-        "NPEB90257": {
-            "title": "Apache: Air Assault Demo",
-            "alternative-title": null,
-            "wiki-id": 1270,
-            "status": "Ingame",
-            "date": "2021-02-14",
-            "thread": 202849,
-            "commit": "5b044a93c131102d88ff17910ce63e9743e6aeac",
-            "pr": 9764,
-            "network": 0
-        },
-        "NPUB90448": {
-            "title": "Apache: Air Assault Demo",
-            "alternative-title": null,
-            "wiki-id": 1270,
-            "status": "Ingame",
-            "date": "2021-02-14",
-            "thread": 179137,
-            "commit": "5b044a93c131102d88ff17910ce63e9743e6aeac",
-            "pr": 9764,
-            "network": 0
-        },
         "BCAS20159": {
             "title": "Ape Escape",
             "alternative-title": "Ape Escape On The Move!",
@@ -48940,17 +50524,6 @@
             "pr": 16935,
             "network": 0
         },
-        "BLES01783": {
-            "title": "ArcaniA",
-            "alternative-title": null,
-            "wiki-id": 1182,
-            "status": "Ingame",
-            "date": "2019-02-02",
-            "thread": 179255,
-            "commit": "f4afd56e67c8120df54a5259ddaf2a3b137484f1",
-            "pr": 5619,
-            "network": 0
-        },
         "BLES00039": {
             "title": "Armored Core 4",
             "alternative-title": null,
@@ -48993,28 +50566,6 @@
             "thread": 198296,
             "commit": "a36acf49d8fe1e8a777ded6182f92d99bc75c7ba",
             "pr": 4337,
-            "network": 0
-        },
-        "NPHB00033": {
-            "title": "Armored Core: For Answer Demo",
-            "alternative-title": null,
-            "wiki-id": 1276,
-            "status": "Ingame",
-            "date": "2023-02-06",
-            "thread": 205892,
-            "commit": "37b46df7385deb1f8cd720fe466330ad13a53ee1",
-            "pr": 13346,
-            "network": 0
-        },
-        "NPJB90067": {
-            "title": "Armored Core: For Answer Demo",
-            "alternative-title": null,
-            "wiki-id": 1276,
-            "status": "Ingame",
-            "date": "2023-02-06",
-            "thread": 205796,
-            "commit": "37b46df7385deb1f8cd720fe466330ad13a53ee1",
-            "pr": 13346,
             "network": 0
         },
         "NPUB31245": {
@@ -50078,10 +51629,10 @@
             "alternative-title": null,
             "wiki-id": 1304,
             "status": "Ingame",
-            "date": "2020-04-08",
+            "date": "2026-01-26",
             "thread": 182691,
-            "commit": "c0f4fb6e35be03d3a4a8b479100f9bac8d4d56c0",
-            "pr": 7987,
+            "commit": "0ee3e24b25a119ac8810c30a5065ab846419214b",
+            "pr": 18111,
             "network": 0
         },
         "BLUS30913": {
@@ -50089,10 +51640,10 @@
             "alternative-title": null,
             "wiki-id": 1304,
             "status": "Ingame",
-            "date": "2020-04-08",
+            "date": "2026-01-26",
             "thread": 199322,
-            "commit": "c0f4fb6e35be03d3a4a8b479100f9bac8d4d56c0",
-            "pr": 7987,
+            "commit": "0ee3e24b25a119ac8810c30a5065ab846419214b",
+            "pr": 18111,
             "network": 0
         },
         "NPEA90069": {
@@ -50304,39 +51855,6 @@
             "pr": 12165,
             "network": 0
         },
-        "NPEB90399": {
-            "title": "Binary Domain Demo",
-            "alternative-title": null,
-            "wiki-id": 1314,
-            "status": "Ingame",
-            "date": "2023-12-28",
-            "thread": 205672,
-            "commit": "475191cf7f967db33e211adced25bd45aa619b26",
-            "pr": 14943,
-            "network": 0
-        },
-        "NPEB90401": {
-            "title": "Binary Domain Demo",
-            "alternative-title": null,
-            "wiki-id": 1314,
-            "status": "Ingame",
-            "date": "2023-12-28",
-            "thread": 206979,
-            "commit": "475191cf7f967db33e211adced25bd45aa619b26",
-            "pr": 14943,
-            "network": 0
-        },
-        "NPUB90616": {
-            "title": "Binary Domain Demo",
-            "alternative-title": null,
-            "wiki-id": 1314,
-            "status": "Ingame",
-            "date": "2023-12-28",
-            "thread": 198492,
-            "commit": "475191cf7f967db33e211adced25bd45aa619b26",
-            "pr": 14943,
-            "network": 0
-        },
         "BLES00316": {
             "title": "BioShock",
             "alternative-title": "BioShock: Ultimate Rapture Edition",
@@ -50546,28 +52064,6 @@
             "pr": 13261,
             "network": 0
         },
-        "BLES00023": {
-            "title": "Blazing Angels: Squadrons of WWII",
-            "alternative-title": null,
-            "wiki-id": 1329,
-            "status": "Ingame",
-            "date": "2019-05-08",
-            "thread": 200475,
-            "commit": "feb77793dfccc404b1f683da233157ebd69f9173",
-            "pr": 5930,
-            "network": 0
-        },
-        "BLUS30006": {
-            "title": "Blazing Angels: Squadrons of WWII",
-            "alternative-title": null,
-            "wiki-id": 1329,
-            "status": "Ingame",
-            "date": "2019-05-08",
-            "thread": 179725,
-            "commit": "feb77793dfccc404b1f683da233157ebd69f9173",
-            "pr": 5930,
-            "network": 0
-        },
         "BLUS30602": {
             "title": "Blood Drive",
             "alternative-title": null,
@@ -50617,10 +52113,10 @@
             "alternative-title": null,
             "wiki-id": 1338,
             "status": "Ingame",
-            "date": "2020-10-13",
+            "date": "2026-01-24",
             "thread": 198489,
-            "commit": "6540393df51769c953a09fe0d99d2ad62264bfde",
-            "pr": 8899,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
             "network": 0
         },
         "BLES01314": {
@@ -50788,39 +52284,6 @@
             "pr": 16980,
             "network": 0
         },
-        "BLES00455": {
-            "title": "Burnout Paradise: The Ultimate Box",
-            "alternative-title": null,
-            "wiki-id": 1346,
-            "status": "Ingame",
-            "date": "2019-12-15",
-            "thread": 191828,
-            "commit": "725761f28221d53983d2f3c692d284c6015fbff9",
-            "pr": 7091,
-            "network": 0
-        },
-        "BLES00462": {
-            "title": "Burnout Paradise: The Ultimate Box",
-            "alternative-title": null,
-            "wiki-id": 1346,
-            "status": "Ingame",
-            "date": "2019-12-15",
-            "thread": 177409,
-            "commit": "725761f28221d53983d2f3c692d284c6015fbff9",
-            "pr": 7091,
-            "network": 0
-        },
-        "BLUS30250": {
-            "title": "Burnout Paradise: The Ultimate Box",
-            "alternative-title": null,
-            "wiki-id": 1346,
-            "status": "Ingame",
-            "date": "2019-12-15",
-            "thread": 201047,
-            "commit": "725761f28221d53983d2f3c692d284c6015fbff9",
-            "pr": 7091,
-            "network": 0
-        },
         "BLES01468": {
             "title": "Cabela's Adventure Camp",
             "alternative-title": null,
@@ -50863,17 +52326,6 @@
             "thread": 207222,
             "commit": "ab8a12e211efdbe6f910af107eb86d763bbaef84",
             "pr": 14820,
-            "network": 0
-        },
-        "BLJM61188": {
-            "title": "Caladrius Blaze",
-            "alternative-title": null,
-            "wiki-id": 1365,
-            "status": "Ingame",
-            "date": "2017-05-16",
-            "thread": 164514,
-            "commit": "28456170537af065c12660f250706e7debcaae50",
-            "pr": 2737,
             "network": 0
         },
         "NPEB00101": {
@@ -51211,10 +52663,10 @@
             "alternative-title": null,
             "wiki-id": 1371,
             "status": "Ingame",
-            "date": "2020-01-22",
+            "date": "2026-02-02",
             "thread": 183423,
-            "commit": "adcc3e9c4bcd5f56fbf47f2163e445ad1adf0ea0",
-            "pr": 7302,
+            "commit": "55aae4dd4067a21adf0ad18c183b15989c12b215",
+            "pr": 18140,
             "network": 0
         },
         "BLUS31527": {
@@ -51222,10 +52674,10 @@
             "alternative-title": null,
             "wiki-id": 1371,
             "status": "Ingame",
-            "date": "2020-01-22",
+            "date": "2026-02-02",
             "thread": 201096,
-            "commit": "adcc3e9c4bcd5f56fbf47f2163e445ad1adf0ea0",
-            "pr": 7302,
+            "commit": "55aae4dd4067a21adf0ad18c183b15989c12b215",
+            "pr": 18140,
             "network": 0
         },
         "NPEB90323": {
@@ -51437,39 +52889,6 @@
             "pr": 17994,
             "network": 0
         },
-        "NPEB90263": {
-            "title": "Call of Duty: Modern Warfare 2 Demo",
-            "alternative-title": null,
-            "wiki-id": 1373,
-            "status": "Ingame",
-            "date": "2023-01-20",
-            "thread": 205591,
-            "commit": "6c3b2b938abdd2750d2ca464e651667221ce7658",
-            "pr": 13261,
-            "network": 0
-        },
-        "NPEB90264": {
-            "title": "Call of Duty: Modern Warfare 2 Demo",
-            "alternative-title": null,
-            "wiki-id": 1373,
-            "status": "Ingame",
-            "date": "2023-01-20",
-            "thread": 205590,
-            "commit": "6c3b2b938abdd2750d2ca464e651667221ce7658",
-            "pr": 13261,
-            "network": 0
-        },
-        "NPUB90314": {
-            "title": "Call of Duty: Modern Warfare 2 Demo",
-            "alternative-title": null,
-            "wiki-id": 1373,
-            "status": "Ingame",
-            "date": "2023-01-20",
-            "thread": 200430,
-            "commit": "6c3b2b938abdd2750d2ca464e651667221ce7658",
-            "pr": 13261,
-            "network": 0
-        },
         "NPUB30787": {
             "title": "Call of Duty: Modern Warfare 3",
             "alternative-title": null,
@@ -51574,10 +52993,10 @@
             "alternative-title": null,
             "wiki-id": 1374,
             "status": "Ingame",
-            "date": "2023-01-28",
+            "date": "2026-01-24",
             "thread": 205724,
-            "commit": "5aced2e44b73101a8d2fb7eaa98ea4253fe2297f",
-            "pr": 13304,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
             "network": 0
         },
         "NPUB90636": {
@@ -51585,10 +53004,10 @@
             "alternative-title": null,
             "wiki-id": 1374,
             "status": "Ingame",
-            "date": "2023-01-28",
+            "date": "2026-01-24",
             "thread": 200431,
-            "commit": "5aced2e44b73101a8d2fb7eaa98ea4253fe2297f",
-            "pr": 13304,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
             "network": 0
         },
         "BLES00354": {
@@ -51809,17 +53228,6 @@
             "thread": 206707,
             "commit": "6dcdf6ec7607458dde1d8ae2db820fd3ac01a703",
             "pr": 14622,
-            "network": 0
-        },
-        "BLUS30339": {
-            "title": "Castlevania: Lords of Shadow",
-            "alternative-title": null,
-            "wiki-id": 644,
-            "status": "Ingame",
-            "date": "2019-11-27",
-            "thread": 201013,
-            "commit": "b5f6b27f86f5307fe87b9eb5f5b73a94212765f4",
-            "pr": 6762,
             "network": 0
         },
         "BLUS30389": {
@@ -52130,28 +53538,6 @@
             "pr": 6338,
             "network": 0
         },
-        "BLJS10133": {
-            "title": "Dai-2-Ji Super Robot Taisen OGs",
-            "alternative-title": null,
-            "wiki-id": 1420,
-            "status": "Ingame",
-            "date": "2019-04-27",
-            "thread": 177298,
-            "commit": "243df3836038f35ab94de1e3ed7d08d2ca6e82d1",
-            "pr": 5860,
-            "network": 0
-        },
-        "BLJM60517": {
-            "title": "Dark Souls with Artorias of the Abyss Edition",
-            "alternative-title": null,
-            "wiki-id": 1042,
-            "status": "Ingame",
-            "date": "2018-11-11",
-            "thread": 199757,
-            "commit": "37b6afaf2cb7686d4ea8506b5f3234f2b7f359ea",
-            "pr": 5330,
-            "network": 0
-        },
         "NPEB90191": {
             "title": "Darksiders Demo",
             "alternative-title": null,
@@ -52194,39 +53580,6 @@
             "thread": 197897,
             "commit": "3a6c71e52395911729b0370442d720b529961e77",
             "pr": 17630,
-            "network": 0
-        },
-        "BLES01739": {
-            "title": "Dead Island: Riptide",
-            "alternative-title": null,
-            "wiki-id": 1439,
-            "status": "Ingame",
-            "date": "2019-02-23",
-            "thread": 179318,
-            "commit": "c325534f0791ad4bf8372d7dced3202b76c9f87f",
-            "pr": 5682,
-            "network": 0
-        },
-        "BLJS10228": {
-            "title": "Dead Island: Riptide",
-            "alternative-title": null,
-            "wiki-id": 1439,
-            "status": "Ingame",
-            "date": "2019-02-23",
-            "thread": 199768,
-            "commit": "c325534f0791ad4bf8372d7dced3202b76c9f87f",
-            "pr": 5682,
-            "network": 0
-        },
-        "BLUS31052": {
-            "title": "Dead Island: Riptide",
-            "alternative-title": null,
-            "wiki-id": 1439,
-            "status": "Ingame",
-            "date": "2019-02-23",
-            "thread": 200176,
-            "commit": "c325534f0791ad4bf8372d7dced3202b76c9f87f",
-            "pr": 5682,
             "network": 0
         },
         "BCET70025": {
@@ -52293,17 +53646,6 @@
             "thread": 180849,
             "commit": "c50d459b1e84f01d1c9f68f4a1a5ed9cf72e7f10",
             "pr": 5404,
-            "network": 0
-        },
-        "NPEB00347": {
-            "title": "Dead Space Extraction",
-            "alternative-title": null,
-            "wiki-id": 731,
-            "status": "Ingame",
-            "date": "2018-12-06",
-            "thread": 199844,
-            "commit": "92be67b4028a3eb91196bdc0837546180a765980",
-            "pr": 5400,
             "network": 0
         },
         "BLUS30633": {
@@ -53098,39 +54440,6 @@
             "pr": 13243,
             "network": 0
         },
-        "BLES00891": {
-            "title": "Driver: San Francisco",
-            "alternative-title": null,
-            "wiki-id": 1502,
-            "status": "Ingame",
-            "date": "2024-04-04",
-            "thread": 182236,
-            "commit": "72ad1abd39ed55f17ceecb82ea6b9228660347c8",
-            "pr": 15394,
-            "network": 0
-        },
-        "BLES00951": {
-            "title": "Driver: San Francisco",
-            "alternative-title": null,
-            "wiki-id": 1502,
-            "status": "Ingame",
-            "date": "2024-04-04",
-            "thread": 188211,
-            "commit": "72ad1abd39ed55f17ceecb82ea6b9228660347c8",
-            "pr": 15394,
-            "network": 0
-        },
-        "BLUS30536": {
-            "title": "Driver: San Francisco",
-            "alternative-title": null,
-            "wiki-id": 1502,
-            "status": "Ingame",
-            "date": "2024-04-04",
-            "thread": 203357,
-            "commit": "72ad1abd39ed55f17ceecb82ea6b9228660347c8",
-            "pr": 15394,
-            "network": 0
-        },
         "NPEB00632": {
             "title": "Driver: San Francisco",
             "alternative-title": null,
@@ -53307,17 +54616,6 @@
             "pr": 15121,
             "network": 0
         },
-        "NPUB31531": {
-            "title": "Dynasty Warriors: Gundam Reborn",
-            "alternative-title": "Shin Gundam Musou",
-            "wiki-id": 1092,
-            "status": "Ingame",
-            "date": "2020-08-19",
-            "thread": 200988,
-            "commit": "2a19d0a57999a47ece9393ff4915dd997963948e",
-            "pr": 8748,
-            "network": 0
-        },
         "BLES00965": {
             "title": "EA Sports Active 2",
             "alternative-title": null,
@@ -53439,28 +54737,6 @@
             "pr": 12960,
             "network": 0
         },
-        "NPEB90063": {
-            "title": "Enemy Territory: Quake Wars Demo",
-            "alternative-title": null,
-            "wiki-id": 1525,
-            "status": "Ingame",
-            "date": "2021-04-11",
-            "thread": 198337,
-            "commit": "a485957130877cd2d16114a8aab54897a32371be",
-            "pr": 10091,
-            "network": 0
-        },
-        "NPUB90092": {
-            "title": "Enemy Territory: Quake Wars Demo",
-            "alternative-title": null,
-            "wiki-id": 1525,
-            "status": "Ingame",
-            "date": "2021-04-11",
-            "thread": 178928,
-            "commit": "a485957130877cd2d16114a8aab54897a32371be",
-            "pr": 10091,
-            "network": 0
-        },
         "BLES00444": {
             "title": "Eternal Sonata",
             "alternative-title": "Trusty Bell Chopin no Yume Reprise",
@@ -53514,17 +54790,6 @@
             "thread": 205868,
             "commit": "37b46df7385deb1f8cd720fe466330ad13a53ee1",
             "pr": 13346,
-            "network": 0
-        },
-        "BCAS20276": {
-            "title": "Everybody's Golf 6",
-            "alternative-title": null,
-            "wiki-id": 1530,
-            "status": "Ingame",
-            "date": "2019-12-20",
-            "thread": 185717,
-            "commit": "95f363c174c6b2da742d8d9ec8bb6d0b23d58f5a",
-            "pr": 7110,
             "network": 0
         },
         "BLES01383": {
@@ -53712,39 +54977,6 @@
             "thread": 197288,
             "commit": "02ca8f0002a07bf5f77b0760020ddeb251a0eb82",
             "pr": 7173,
-            "network": 0
-        },
-        "NPEB90437": {
-            "title": "F1 2012 Demo",
-            "alternative-title": null,
-            "wiki-id": 1544,
-            "status": "Ingame",
-            "date": "2023-01-31",
-            "thread": 205716,
-            "commit": "c471120a80ec6f12cd4489e1a9be073d7d9c96f2",
-            "pr": 13311,
-            "network": 0
-        },
-        "NPJB90529": {
-            "title": "F1 2012 Demo",
-            "alternative-title": null,
-            "wiki-id": 1544,
-            "status": "Ingame",
-            "date": "2023-01-31",
-            "thread": 205776,
-            "commit": "c471120a80ec6f12cd4489e1a9be073d7d9c96f2",
-            "pr": 13311,
-            "network": 0
-        },
-        "NPUB90811": {
-            "title": "F1 2012 Demo",
-            "alternative-title": null,
-            "wiki-id": 1544,
-            "status": "Ingame",
-            "date": "2023-01-31",
-            "thread": 177367,
-            "commit": "c471120a80ec6f12cd4489e1a9be073d7d9c96f2",
-            "pr": 13311,
             "network": 0
         },
         "BLES01870": {
@@ -54401,10 +55633,10 @@
             "alternative-title": null,
             "wiki-id": 1573,
             "status": "Ingame",
-            "date": "2023-06-26",
+            "date": "2026-01-25",
             "thread": 205811,
-            "commit": "aff871f12761ea39d8f8fdb915eb640acce78a3f",
-            "pr": 14081,
+            "commit": "f883718b238e6897635201a67ca11537ce197510",
+            "pr": 18104,
             "network": 0
         },
         "NPUB90696": {
@@ -54412,10 +55644,10 @@
             "alternative-title": null,
             "wiki-id": 1573,
             "status": "Ingame",
-            "date": "2023-06-26",
+            "date": "2026-01-25",
             "thread": 206436,
-            "commit": "aff871f12761ea39d8f8fdb915eb640acce78a3f",
-            "pr": 14081,
+            "commit": "f883718b238e6897635201a67ca11537ce197510",
+            "pr": 18104,
             "network": 0
         },
         "BLES01039": {
@@ -54456,10 +55688,10 @@
             "alternative-title": null,
             "wiki-id": 1575,
             "status": "Ingame",
-            "date": "2023-01-05",
+            "date": "2026-01-16",
             "thread": 205371,
-            "commit": "310fa7127d4e6aeaac85f9d4f9efb3635b5d9861",
-            "pr": 13150,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
             "network": 0
         },
         "NPUB90513": {
@@ -54467,10 +55699,10 @@
             "alternative-title": null,
             "wiki-id": 1575,
             "status": "Ingame",
-            "date": "2023-01-05",
+            "date": "2026-01-16",
             "thread": 205027,
-            "commit": "310fa7127d4e6aeaac85f9d4f9efb3635b5d9861",
-            "pr": 13150,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
             "network": 0
         },
         "BLES00026": {
@@ -54803,28 +56035,6 @@
             "pr": 7841,
             "network": 0
         },
-        "BLES00788": {
-            "title": "Front Mission Evolved",
-            "alternative-title": null,
-            "wiki-id": 1585,
-            "status": "Ingame",
-            "date": "2017-11-17",
-            "thread": 179095,
-            "commit": "223f17ac7e8e0b735bdd395805dbc665a59f9352",
-            "pr": 3743,
-            "network": 0
-        },
-        "BLUS30395": {
-            "title": "Front Mission Evolved",
-            "alternative-title": null,
-            "wiki-id": 1585,
-            "status": "Ingame",
-            "date": "2017-11-17",
-            "thread": 197444,
-            "commit": "223f17ac7e8e0b735bdd395805dbc665a59f9352",
-            "pr": 3743,
-            "network": 0
-        },
         "NPUB30874": {
             "title": "Fuse",
             "alternative-title": null,
@@ -54856,17 +56066,6 @@
             "thread": 198163,
             "commit": "f4fb5200a00fc20961810ca76c74ca8ceb3b0343",
             "pr": 5341,
-            "network": 0
-        },
-        "NPEB90442": {
-            "title": "Fuse Demo",
-            "alternative-title": null,
-            "wiki-id": 1589,
-            "status": "Ingame",
-            "date": "2023-01-26",
-            "thread": 205692,
-            "commit": "52b67b46fcaab6c0838a44761900065983098f1c",
-            "pr": 13283,
             "network": 0
         },
         "BLJS93004": {
@@ -54911,17 +56110,6 @@
             "thread": 163455,
             "commit": "edcd2fc14ab35fc1d749c0dcd7c3ecb645f73e33",
             "pr": 7407,
-            "network": 0
-        },
-        "NPJB90680": {
-            "title": "Ginsei Igo 2: Next Generation Trial Version",
-            "alternative-title": null,
-            "wiki-id": 497,
-            "status": "Ingame",
-            "date": "2023-01-31",
-            "thread": 205768,
-            "commit": "c471120a80ec6f12cd4489e1a9be073d7d9c96f2",
-            "pr": 13311,
             "network": 0
         },
         "NPJA00009": {
@@ -55193,10 +56381,10 @@
             "alternative-title": null,
             "wiki-id": 908,
             "status": "Ingame",
-            "date": "2018-11-15",
+            "date": "2026-01-19",
             "thread": 199624,
-            "commit": "0e0a82e5363cabdfd417d907847232ececb4fdd5",
-            "pr": 5310,
+            "commit": "0f85e9123e781b6ec7fa78fa1c54b1de40179a23",
+            "pr": 18055,
             "network": 0
         },
         "BCES00569": {
@@ -55204,10 +56392,10 @@
             "alternative-title": null,
             "wiki-id": 908,
             "status": "Ingame",
-            "date": "2018-11-15",
+            "date": "2026-01-19",
             "thread": 183337,
-            "commit": "0e0a82e5363cabdfd417d907847232ececb4fdd5",
-            "pr": 5310,
+            "commit": "0f85e9123e781b6ec7fa78fa1c54b1de40179a23",
+            "pr": 18055,
             "network": 0
         },
         "BCUS98114": {
@@ -55215,10 +56403,10 @@
             "alternative-title": null,
             "wiki-id": 908,
             "status": "Ingame",
-            "date": "2018-11-15",
+            "date": "2026-01-19",
             "thread": 196757,
-            "commit": "0e0a82e5363cabdfd417d907847232ececb4fdd5",
-            "pr": 5310,
+            "commit": "0f85e9123e781b6ec7fa78fa1c54b1de40179a23",
+            "pr": 18055,
             "network": 0
         },
         "BCAS25018": {
@@ -55540,48 +56728,15 @@
             "pr": 13302,
             "network": 0
         },
-        "BLES01737": {
-            "title": "GRID 2",
-            "alternative-title": "Race Driver: GRID 2",
-            "wiki-id": 1619,
-            "status": "Ingame",
-            "date": "2018-07-16",
-            "thread": 199077,
-            "commit": "a19113025c53b6bd86f74489f4d3048204505004",
-            "pr": 4831,
-            "network": 0
-        },
-        "BLES01855": {
-            "title": "GRID 2",
-            "alternative-title": "Race Driver: GRID 2",
-            "wiki-id": 1619,
-            "status": "Ingame",
-            "date": "2018-07-16",
-            "thread": 183024,
-            "commit": "a19113025c53b6bd86f74489f4d3048204505004",
-            "pr": 4831,
-            "network": 0
-        },
-        "BLUS31055": {
-            "title": "GRID 2",
-            "alternative-title": "Race Driver: GRID 2",
-            "wiki-id": 1619,
-            "status": "Ingame",
-            "date": "2018-07-16",
-            "thread": 196886,
-            "commit": "a19113025c53b6bd86f74489f4d3048204505004",
-            "pr": 4831,
-            "network": 0
-        },
         "NPEB90070": {
             "title": "GRID Demo",
             "alternative-title": "Race Driver: GRID Demo",
             "wiki-id": 2156,
             "status": "Ingame",
-            "date": "2023-01-17",
+            "date": "2026-01-16",
             "thread": 205523,
-            "commit": "b3a9c8d83f82a4add89b58fe70bdf439fc429dbe",
-            "pr": 13243,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
             "network": 0
         },
         "NPUB90102": {
@@ -55589,32 +56744,10 @@
             "alternative-title": "Race Driver: GRID Demo",
             "wiki-id": 2156,
             "status": "Ingame",
-            "date": "2023-01-17",
+            "date": "2026-01-16",
             "thread": 187231,
-            "commit": "b3a9c8d83f82a4add89b58fe70bdf439fc429dbe",
-            "pr": 13243,
-            "network": 0
-        },
-        "NPEB90120": {
-            "title": "GTI Club + Rally Cote D'Azur Demo",
-            "alternative-title": null,
-            "wiki-id": 1622,
-            "status": "Ingame",
-            "date": "2023-02-03",
-            "thread": 205505,
-            "commit": "d69e345bc07fcb13389498cf56bc83bae8195272",
-            "pr": 13338,
-            "network": 0
-        },
-        "NPUB90183": {
-            "title": "GTI Club + Rally Cote D'Azur Demo",
-            "alternative-title": null,
-            "wiki-id": 1622,
-            "status": "Ingame",
-            "date": "2023-02-03",
-            "thread": 205862,
-            "commit": "d69e345bc07fcb13389498cf56bc83bae8195272",
-            "pr": 13338,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
             "network": 0
         },
         "BLJS10197": {
@@ -55648,17 +56781,6 @@
             "thread": 174736,
             "commit": "7f1cbb1136c2e1c716f9af699c433ffcc7ce3d8c",
             "pr": 5366,
-            "network": 0
-        },
-        "BLJM60018": {
-            "title": "Gundam Musou",
-            "alternative-title": null,
-            "wiki-id": 329,
-            "status": "Ingame",
-            "date": "2019-04-27",
-            "thread": 199569,
-            "commit": "be6d9af1abef5dd2d9a4bd38c56facf0440358de",
-            "pr": 5870,
             "network": 0
         },
         "BLES01602": {
@@ -55936,17 +57058,6 @@
             "pr": null,
             "network": 0
         },
-        "NPUB90077": {
-            "title": "Hummer Dirt Experience Demo",
-            "alternative-title": null,
-            "wiki-id": 1396,
-            "status": "Ingame",
-            "date": "2023-04-09",
-            "thread": 206182,
-            "commit": "7081b89e976ad7f931c926022bd93ddd9778347c",
-            "pr": 13613,
-            "network": 0
-        },
         "NPUB31191": {
             "title": "Hunter's Trophy 2: America",
             "alternative-title": null,
@@ -56178,6 +57289,17 @@
             "pr": 13100,
             "network": 0
         },
+        "NPEA00318": {
+            "title": "inFamous 2",
+            "alternative-title": null,
+            "wiki-id": 1050,
+            "status": "Ingame",
+            "date": "2026-02-15",
+            "thread": 209415,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
         "NPEA90095": {
             "title": "inFamous 2 Demo",
             "alternative-title": null,
@@ -56370,10 +57492,10 @@
             "alternative-title": null,
             "wiki-id": 1052,
             "status": "Ingame",
-            "date": "2019-05-29",
+            "date": "2026-01-26",
             "thread": 179276,
-            "commit": "c638e826787d154f9548dd0cb62d3c7d5346df93",
-            "pr": 5978,
+            "commit": "818b11fd2fa2607334f781213e26da5fbb8506b5",
+            "pr": 18114,
             "network": 0
         },
         "BLUS30134": {
@@ -56381,32 +57503,10 @@
             "alternative-title": null,
             "wiki-id": 1052,
             "status": "Ingame",
-            "date": "2019-05-29",
+            "date": "2026-01-26",
             "thread": 200545,
-            "commit": "c638e826787d154f9548dd0cb62d3c7d5346df93",
-            "pr": 5978,
-            "network": 0
-        },
-        "BLES00885": {
-            "title": "Iron Man 2",
-            "alternative-title": null,
-            "wiki-id": 1720,
-            "status": "Ingame",
-            "date": "2018-11-14",
-            "thread": 196899,
-            "commit": "0044eb44e2f86c9511baea5337a756230808376e",
-            "pr": 5336,
-            "network": 0
-        },
-        "BLUS30514": {
-            "title": "Iron Man 2",
-            "alternative-title": null,
-            "wiki-id": 1720,
-            "status": "Ingame",
-            "date": "2018-11-14",
-            "thread": 199310,
-            "commit": "0044eb44e2f86c9511baea5337a756230808376e",
-            "pr": 5336,
+            "commit": "818b11fd2fa2607334f781213e26da5fbb8506b5",
+            "pr": 18114,
             "network": 0
         },
         "BLES01786": {
@@ -56640,6 +57740,17 @@
             "pr": 11545,
             "network": 0
         },
+        "NPUA70230": {
+            "title": "Journey Retailer Demo",
+            "alternative-title": null,
+            "wiki-id": 1738,
+            "status": "Ingame",
+            "date": "2026-02-15",
+            "thread": 209414,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
         "BCES01740": {
             "title": "Journey: Collector's Edition",
             "alternative-title": null,
@@ -56806,7 +57917,7 @@
             "network": 0
         },
         "BLJS10324": {
-            "title": "Kamen Rider Battride War Genesis",
+            "title": "Kamen Rider Battride War Genesis Premium TV Sound Edition",
             "alternative-title": null,
             "wiki-id": 307,
             "status": "Ingame",
@@ -57641,83 +58752,6 @@
             "pr": 15141,
             "network": 0
         },
-        "BLJM61166": {
-            "title": "Lost Dimension",
-            "alternative-title": null,
-            "wiki-id": 1799,
-            "status": "Ingame",
-            "date": "2017-07-30",
-            "thread": 173907,
-            "commit": "7ac96f7526c2c57b7313efcc68704fcba59aceb6",
-            "pr": 3112,
-            "network": 0
-        },
-        "BLUS31554": {
-            "title": "Lost Dimension",
-            "alternative-title": null,
-            "wiki-id": 1799,
-            "status": "Ingame",
-            "date": "2017-07-30",
-            "thread": 180764,
-            "commit": "7ac96f7526c2c57b7313efcc68704fcba59aceb6",
-            "pr": 3112,
-            "network": 0
-        },
-        "BLES00710": {
-            "title": "Lost Planet 2",
-            "alternative-title": null,
-            "wiki-id": 1800,
-            "status": "Ingame",
-            "date": "2017-11-09",
-            "thread": 181761,
-            "commit": "3c9126d91f52f6a2ee624c627166c53ebac93de8",
-            "pr": 3711,
-            "network": 0
-        },
-        "BLUS30434": {
-            "title": "Lost Planet 2",
-            "alternative-title": null,
-            "wiki-id": 1800,
-            "status": "Ingame",
-            "date": "2017-11-09",
-            "thread": 196865,
-            "commit": "3c9126d91f52f6a2ee624c627166c53ebac93de8",
-            "pr": 3711,
-            "network": 0
-        },
-        "MRTC00002": {
-            "title": "Lost Planet 2",
-            "alternative-title": null,
-            "wiki-id": 1800,
-            "status": "Ingame",
-            "date": "2017-11-09",
-            "thread": 205166,
-            "commit": "3c9126d91f52f6a2ee624c627166c53ebac93de8",
-            "pr": 3711,
-            "network": 0
-        },
-        "NPEB90181": {
-            "title": "Lost Planet 2 Co-op Demo",
-            "alternative-title": null,
-            "wiki-id": 1800,
-            "status": "Ingame",
-            "date": "2022-12-18",
-            "thread": 205264,
-            "commit": "baa2768a6980a015117d3df001f33faa34e1eb57",
-            "pr": 13094,
-            "network": 0
-        },
-        "NPUB90300": {
-            "title": "Lost Planet 2 Co-op Demo",
-            "alternative-title": null,
-            "wiki-id": 1800,
-            "status": "Ingame",
-            "date": "2022-12-18",
-            "thread": 205265,
-            "commit": "baa2768a6980a015117d3df001f33faa34e1eb57",
-            "pr": 13094,
-            "network": 0
-        },
         "NPUB31125": {
             "title": "Lost Planet 3",
             "alternative-title": null,
@@ -58453,28 +59487,6 @@
             "thread": 205763,
             "commit": "6d918b565f161cec472c4bffa5850ad14a7ff36b",
             "pr": 13966,
-            "network": 0
-        },
-        "NPEB00473": {
-            "title": "Mercury HG",
-            "alternative-title": null,
-            "wiki-id": 1889,
-            "status": "Ingame",
-            "date": "2024-02-12",
-            "thread": 166452,
-            "commit": "df74d49f729e6376a834499d98eca5a7b1f23d17",
-            "pr": 15197,
-            "network": 0
-        },
-        "NPUB30419": {
-            "title": "Mercury HG",
-            "alternative-title": null,
-            "wiki-id": 1889,
-            "status": "Ingame",
-            "date": "2024-02-12",
-            "thread": 179103,
-            "commit": "df74d49f729e6376a834499d98eca5a7b1f23d17",
-            "pr": 15197,
             "network": 0
         },
         "NPEA00030": {
@@ -59247,17 +60259,6 @@
             "pr": 17221,
             "network": 0
         },
-        "NPUB90181": {
-            "title": "MotoGP 08 Demo",
-            "alternative-title": null,
-            "wiki-id": 1945,
-            "status": "Ingame",
-            "date": "2023-01-22",
-            "thread": 205623,
-            "commit": "d3183708e81ba2707d39829cc1c0cb226dd9e50e",
-            "pr": 13226,
-            "network": 0
-        },
         "BLES00756": {
             "title": "MotoGP 09/10",
             "alternative-title": null,
@@ -59278,28 +60279,6 @@
             "thread": 206976,
             "commit": "69a463ad02c59ee1881f9497670652dfd15a5934",
             "pr": 14934,
-            "network": 0
-        },
-        "NPEB90214": {
-            "title": "MotoGP 09/10 Demo",
-            "alternative-title": null,
-            "wiki-id": 1946,
-            "status": "Ingame",
-            "date": "2024-01-14",
-            "thread": 206437,
-            "commit": "0b984e9a231ee1e13f6612e77784b01587d50bdf",
-            "pr": 15020,
-            "network": 0
-        },
-        "NPUB90357": {
-            "title": "MotoGP 09/10 Demo",
-            "alternative-title": null,
-            "wiki-id": 1946,
-            "status": "Ingame",
-            "date": "2024-01-14",
-            "thread": 206438,
-            "commit": "0b984e9a231ee1e13f6612e77784b01587d50bdf",
-            "pr": 15020,
             "network": 0
         },
         "BLES02103": {
@@ -60347,17 +61326,6 @@
             "pr": 9221,
             "network": 0
         },
-        "NPUB90125": {
-            "title": "NFL Head Coach 09 Demo",
-            "alternative-title": null,
-            "wiki-id": 2043,
-            "status": "Ingame",
-            "date": "2019-01-18",
-            "thread": 200024,
-            "commit": "a11d76249d6d9dcfde93e944b92563e68e83b678",
-            "pr": 5568,
-            "network": 0
-        },
         "BLES00218": {
             "title": "NFL Tour",
             "alternative-title": null,
@@ -60433,28 +61401,6 @@
             "thread": 205158,
             "commit": "8199f97e7a4f20475732bc7390ee9345a4502bd2",
             "pr": 12960,
-            "network": 0
-        },
-        "BLES00131": {
-            "title": "NHL 2K8",
-            "alternative-title": null,
-            "wiki-id": 2055,
-            "status": "Ingame",
-            "date": "2019-01-26",
-            "thread": 178599,
-            "commit": "587fe421eef80112471320a85c8f6e701c48649b",
-            "pr": 5595,
-            "network": 0
-        },
-        "NPUB90058": {
-            "title": "NHL 2K8 Demo",
-            "alternative-title": null,
-            "wiki-id": 2055,
-            "status": "Ingame",
-            "date": "2023-01-22",
-            "thread": 205640,
-            "commit": "d3183708e81ba2707d39829cc1c0cb226dd9e50e",
-            "pr": 13226,
             "network": 0
         },
         "BLES01845": {
@@ -60730,17 +61676,6 @@
             "thread": 206789,
             "commit": "7b212e0e573af47ba7f97ecca186bf0497672205",
             "pr": 16861,
-            "network": 0
-        },
-        "NPUB90356": {
-            "title": "Planet Minigolf Demo",
-            "alternative-title": null,
-            "wiki-id": 2107,
-            "status": "Ingame",
-            "date": "2022-11-17",
-            "thread": 205101,
-            "commit": "3f8421fc17b8508339be745eb66e585b6b17b4cf",
-            "pr": 12945,
             "network": 0
         },
         "NPEA00413": {
@@ -61381,39 +62316,6 @@
             "pr": 5568,
             "network": 0
         },
-        "BLUD80004": {
-            "title": "Pure Demo",
-            "alternative-title": null,
-            "wiki-id": 296,
-            "status": "Ingame",
-            "date": "2023-01-08",
-            "thread": 205413,
-            "commit": "df718bcb0f2b7be809bf48b6059be7322fc17202",
-            "pr": 13183,
-            "network": 0
-        },
-        "NPEB90092": {
-            "title": "Pure Demo",
-            "alternative-title": null,
-            "wiki-id": 296,
-            "status": "Ingame",
-            "date": "2023-01-16",
-            "thread": 205518,
-            "commit": "df718bcb0f2b7be809bf48b6059be7322fc17202",
-            "pr": 13183,
-            "network": 0
-        },
-        "NPUB90096": {
-            "title": "Pure Demo",
-            "alternative-title": null,
-            "wiki-id": 296,
-            "status": "Ingame",
-            "date": "2023-01-16",
-            "thread": 205095,
-            "commit": "df718bcb0f2b7be809bf48b6059be7322fc17202",
-            "pr": 13183,
-            "network": 0
-        },
         "BLUS30731": {
             "title": "Puss In Boots",
             "alternative-title": null,
@@ -61445,17 +62347,6 @@
             "thread": 207256,
             "commit": "e32ed90d21f3f2fd7227653f59c6843e2f30e1fd",
             "pr": 15338,
-            "network": 0
-        },
-        "NPEB90230": {
-            "title": "Quantum Theory Demo",
-            "alternative-title": null,
-            "wiki-id": 2150,
-            "status": "Ingame",
-            "date": "2023-01-20",
-            "thread": 205599,
-            "commit": "6c3b2b938abdd2750d2ca464e651667221ce7658",
-            "pr": 13261,
             "network": 0
         },
         "NPEB01863": {
@@ -61650,10 +62541,10 @@
             "alternative-title": "Ratchet & Clank: A Crack In Time",
             "wiki-id": 883,
             "status": "Ingame",
-            "date": "2025-07-16",
+            "date": "2026-01-27",
             "thread": 174642,
-            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
-            "pr": 17320,
+            "commit": "0ee3e24b25a119ac8810c30a5065ab846419214b",
+            "pr": 18111,
             "network": 0
         },
         "BCES00726": {
@@ -61661,10 +62552,10 @@
             "alternative-title": "Ratchet & Clank: A Crack In Time",
             "wiki-id": 883,
             "status": "Ingame",
-            "date": "2025-07-16",
+            "date": "2026-01-27",
             "thread": 200376,
-            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
-            "pr": 17320,
+            "commit": "0ee3e24b25a119ac8810c30a5065ab846419214b",
+            "pr": 18111,
             "network": 0
         },
         "BCES00748": {
@@ -61672,10 +62563,10 @@
             "alternative-title": "Ratchet & Clank: A Crack In Time",
             "wiki-id": 883,
             "status": "Ingame",
-            "date": "2025-07-16",
+            "date": "2026-01-27",
             "thread": 208748,
-            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
-            "pr": 17320,
+            "commit": "0ee3e24b25a119ac8810c30a5065ab846419214b",
+            "pr": 18111,
             "network": 0
         },
         "BCUS98124": {
@@ -61683,10 +62574,10 @@
             "alternative-title": "Ratchet & Clank: A Crack In Time",
             "wiki-id": 883,
             "status": "Ingame",
-            "date": "2025-07-16",
+            "date": "2026-01-27",
             "thread": 189234,
-            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
-            "pr": 17320,
+            "commit": "0ee3e24b25a119ac8810c30a5065ab846419214b",
+            "pr": 18111,
             "network": 0
         },
         "NPEA00453": {
@@ -62690,6 +63581,39 @@
             "pr": 7464,
             "network": 0
         },
+        "BCAS20055": {
+            "title": "Resistance 2",
+            "alternative-title": null,
+            "wiki-id": 959,
+            "status": "Ingame",
+            "date": "2026-01-27",
+            "thread": 198281,
+            "commit": "818b11fd2fa2607334f781213e26da5fbb8506b5",
+            "pr": 18114,
+            "network": 0
+        },
+        "BCES00226": {
+            "title": "Resistance 2",
+            "alternative-title": null,
+            "wiki-id": 959,
+            "status": "Ingame",
+            "date": "2026-01-27",
+            "thread": 188505,
+            "commit": "818b11fd2fa2607334f781213e26da5fbb8506b5",
+            "pr": 18114,
+            "network": 0
+        },
+        "BCUS98120": {
+            "title": "Resistance 2",
+            "alternative-title": null,
+            "wiki-id": 959,
+            "status": "Ingame",
+            "date": "2026-01-27",
+            "thread": 198261,
+            "commit": "818b11fd2fa2607334f781213e26da5fbb8506b5",
+            "pr": 18114,
+            "network": 0
+        },
         "BCET70007": {
             "title": "Resistance 2 Public Beta",
             "alternative-title": null,
@@ -62730,28 +63654,6 @@
             "status": "Ingame",
             "date": "2025-08-04",
             "thread": 197786,
-            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
-            "pr": 17320,
-            "network": 0
-        },
-        "NPEA90001": {
-            "title": "Resistance: Fall of Man Demo",
-            "alternative-title": null,
-            "wiki-id": 1059,
-            "status": "Ingame",
-            "date": "2025-08-08",
-            "thread": 197610,
-            "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
-            "pr": 17320,
-            "network": 0
-        },
-        "NPUA98107": {
-            "title": "Resistance: Fall of Man Demo",
-            "alternative-title": null,
-            "wiki-id": 1059,
-            "status": "Ingame",
-            "date": "2025-08-08",
-            "thread": 205107,
             "commit": "9c93ec0bc31bbc94ca4dce2a76ceea80da6f6554",
             "pr": 17320,
             "network": 0
@@ -62871,10 +63773,10 @@
             "alternative-title": null,
             "wiki-id": 2223,
             "status": "Ingame",
-            "date": "2021-02-07",
+            "date": "2026-01-16",
             "thread": 202809,
-            "commit": "fad89f1c3b7217068f4ba901889d971f8590480b",
-            "pr": 9731,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
             "network": 0
         },
         "BLES01139": {
@@ -63867,50 +64769,6 @@
             "pr": 11461,
             "network": 0
         },
-        "BLES01981": {
-            "title": "Sniper Elite 3",
-            "alternative-title": null,
-            "wiki-id": 2402,
-            "status": "Ingame",
-            "date": "2019-02-08",
-            "thread": 180942,
-            "commit": "a36d3af3b4fdbca94b84e590ec7df46f6caf0753",
-            "pr": 5611,
-            "network": 0
-        },
-        "BLUS31401": {
-            "title": "Sniper Elite 3",
-            "alternative-title": null,
-            "wiki-id": 2402,
-            "status": "Ingame",
-            "date": "2019-02-08",
-            "thread": 199412,
-            "commit": "a36d3af3b4fdbca94b84e590ec7df46f6caf0753",
-            "pr": 5611,
-            "network": 0
-        },
-        "BLES01290": {
-            "title": "Sniper Elite V2",
-            "alternative-title": null,
-            "wiki-id": 2403,
-            "status": "Ingame",
-            "date": "2019-03-30",
-            "thread": 178908,
-            "commit": "a254a203bb9d9c41e21e755287389de4043a2206",
-            "pr": 5767,
-            "network": 0
-        },
-        "BLUS30798": {
-            "title": "Sniper Elite V2",
-            "alternative-title": null,
-            "wiki-id": 2403,
-            "status": "Ingame",
-            "date": "2019-03-30",
-            "thread": 200278,
-            "commit": "a254a203bb9d9c41e21e755287389de4043a2206",
-            "pr": 5767,
-            "network": 0
-        },
         "NPEB01009": {
             "title": "Sniper Elite V2",
             "alternative-title": null,
@@ -64648,39 +65506,6 @@
             "pr": 6173,
             "network": 0
         },
-        "NPEB90392": {
-            "title": "SSX Demo",
-            "alternative-title": null,
-            "wiki-id": 1183,
-            "status": "Ingame",
-            "date": "2018-04-04",
-            "thread": 198378,
-            "commit": "0e74f2e34048445f4a24dbec5a9ae000e1c59d6a",
-            "pr": 4373,
-            "network": 0
-        },
-        "NPJB90434": {
-            "title": "SSX Demo",
-            "alternative-title": null,
-            "wiki-id": 1183,
-            "status": "Ingame",
-            "date": "2018-04-04",
-            "thread": 180846,
-            "commit": "0e74f2e34048445f4a24dbec5a9ae000e1c59d6a",
-            "pr": 4373,
-            "network": 0
-        },
-        "NPUB90732": {
-            "title": "SSX Demo",
-            "alternative-title": null,
-            "wiki-id": 1183,
-            "status": "Ingame",
-            "date": "2018-04-04",
-            "thread": 198377,
-            "commit": "0e74f2e34048445f4a24dbec5a9ae000e1c59d6a",
-            "pr": 4373,
-            "network": 0
-        },
         "NPEB00283": {
             "title": "Stacking",
             "alternative-title": null,
@@ -64851,10 +65676,10 @@
             "alternative-title": null,
             "wiki-id": 2460,
             "status": "Ingame",
-            "date": "2023-02-11",
+            "date": "2026-01-25",
             "thread": 200648,
-            "commit": "2f7a2d5134e94abd75b81639d33fdb6fdbc78033",
-            "pr": 13379,
+            "commit": "b9f5d85d161278909cc286873b1a897666052d24",
+            "pr": 18102,
             "network": 0
         },
         "NPHB00051": {
@@ -64862,10 +65687,10 @@
             "alternative-title": null,
             "wiki-id": 2460,
             "status": "Ingame",
-            "date": "2023-02-11",
+            "date": "2026-01-25",
             "thread": 205937,
-            "commit": "2f7a2d5134e94abd75b81639d33fdb6fdbc78033",
-            "pr": 13379,
+            "commit": "b9f5d85d161278909cc286873b1a897666052d24",
+            "pr": 18102,
             "network": 0
         },
         "NPUB90141": {
@@ -64873,10 +65698,10 @@
             "alternative-title": null,
             "wiki-id": 2460,
             "status": "Ingame",
-            "date": "2023-02-11",
+            "date": "2026-01-25",
             "thread": 205950,
-            "commit": "2f7a2d5134e94abd75b81639d33fdb6fdbc78033",
-            "pr": 13379,
+            "commit": "b9f5d85d161278909cc286873b1a897666052d24",
+            "pr": 18102,
             "network": 0
         },
         "BLES00893": {
@@ -64906,10 +65731,10 @@
             "alternative-title": null,
             "wiki-id": 2461,
             "status": "Ingame",
-            "date": "2018-01-11",
+            "date": "2026-01-25",
             "thread": 197855,
-            "commit": "51a2b43d8195622328a30667c2b0662c8dc4fe65",
-            "pr": 3978,
+            "commit": "b9f5d85d161278909cc286873b1a897666052d24",
+            "pr": 18102,
             "network": 0
         },
         "BCES00907": {
@@ -65390,10 +66215,10 @@
             "alternative-title": null,
             "wiki-id": 2578,
             "status": "Ingame",
-            "date": "2023-01-15",
+            "date": "2026-01-20",
             "thread": 205487,
-            "commit": "1852b370d7a8310de092ca4132464c84192671cb",
-            "pr": 13205,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
             "network": 0
         },
         "NPUB90199": {
@@ -65401,43 +66226,10 @@
             "alternative-title": null,
             "wiki-id": 2578,
             "status": "Ingame",
-            "date": "2023-01-15",
+            "date": "2026-01-20",
             "thread": 178836,
-            "commit": "1852b370d7a8310de092ca4132464c84192671cb",
-            "pr": 13205,
-            "network": 0
-        },
-        "BLES00192": {
-            "title": "The Club",
-            "alternative-title": null,
-            "wiki-id": 2579,
-            "status": "Ingame",
-            "date": "2020-06-24",
-            "thread": 181324,
-            "commit": "628cb1c779d42bd9041d313192b239c309553704",
-            "pr": 8479,
-            "network": 0
-        },
-        "BLES00193": {
-            "title": "The Club",
-            "alternative-title": null,
-            "wiki-id": 2579,
-            "status": "Ingame",
-            "date": "2020-06-24",
-            "thread": 188202,
-            "commit": "628cb1c779d42bd9041d313192b239c309553704",
-            "pr": 8479,
-            "network": 0
-        },
-        "BLUS30108": {
-            "title": "The Club",
-            "alternative-title": null,
-            "wiki-id": 2579,
-            "status": "Ingame",
-            "date": "2020-06-24",
-            "thread": 202041,
-            "commit": "628cb1c779d42bd9041d313192b239c309553704",
-            "pr": 8479,
+            "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
+            "pr": 18057,
             "network": 0
         },
         "BLES01388": {
@@ -65768,28 +66560,6 @@
             "thread": 199400,
             "commit": "aff871f12761ea39d8f8fdb915eb640acce78a3f",
             "pr": 14081,
-            "network": 0
-        },
-        "BCES00007": {
-            "title": "The Eye of Judgment",
-            "alternative-title": null,
-            "wiki-id": 2587,
-            "status": "Ingame",
-            "date": "2025-04-11",
-            "thread": 203599,
-            "commit": "fcb6bc70f82f907d56aacb11c57055ef3f8cfedd",
-            "pr": 17033,
-            "network": 0
-        },
-        "BCUS98133": {
-            "title": "The Eye of Judgment",
-            "alternative-title": null,
-            "wiki-id": 2587,
-            "status": "Ingame",
-            "date": "2025-04-11",
-            "thread": 190685,
-            "commit": "fcb6bc70f82f907d56aacb11c57055ef3f8cfedd",
-            "pr": 17033,
             "network": 0
         },
         "NPEB00849": {
@@ -66188,6 +66958,17 @@
             "pr": 10752,
             "network": 0
         },
+        "BLES01025": {
+            "title": "The X Factor",
+            "alternative-title": null,
+            "wiki-id": 2650,
+            "status": "Ingame",
+            "date": "2026-01-13",
+            "thread": 200197,
+            "commit": "d656420cc4db15fd9def2fccd0beb87de48e102d",
+            "pr": 18042,
+            "network": 0
+        },
         "BLES01253": {
             "title": "The X Factor",
             "alternative-title": null,
@@ -66197,17 +66978,6 @@
             "thread": 209372,
             "commit": "d656420cc4db15fd9def2fccd0beb87de48e102d",
             "pr": 18042,
-            "network": 0
-        },
-        "BLES01025": {
-            "title": "The X Factor",
-            "alternative-title": null,
-            "wiki-id": 2650,
-            "status": "Ingame",
-            "date": "2020-03-08",
-            "thread": 200197,
-            "commit": "9dca2887d8f60ffba21cf768112830017d8bffb7",
-            "pr": 7734,
             "network": 0
         },
         "BLES00012": {
@@ -66248,10 +67018,10 @@
             "alternative-title": null,
             "wiki-id": 2657,
             "status": "Ingame",
-            "date": "2023-01-06",
+            "date": "2026-01-25",
             "thread": 205385,
-            "commit": "310fa7127d4e6aeaac85f9d4f9efb3635b5d9861",
-            "pr": 13150,
+            "commit": "f883718b238e6897635201a67ca11537ce197510",
+            "pr": 18104,
             "network": 0
         },
         "NPUB90050": {
@@ -66259,10 +67029,10 @@
             "alternative-title": null,
             "wiki-id": 2657,
             "status": "Ingame",
-            "date": "2023-01-06",
+            "date": "2026-01-25",
             "thread": 205255,
-            "commit": "310fa7127d4e6aeaac85f9d4f9efb3635b5d9861",
-            "pr": 13150,
+            "commit": "f883718b238e6897635201a67ca11537ce197510",
+            "pr": 18104,
             "network": 0
         },
         "BLUS30159": {
@@ -66402,10 +67172,10 @@
             "alternative-title": null,
             "wiki-id": 2663,
             "status": "Ingame",
-            "date": "2024-04-29",
+            "date": "2026-01-25",
             "thread": 207433,
-            "commit": "430b57833d86da2a85c2ed3a66c41e7723551aee",
-            "pr": 15523,
+            "commit": "f883718b238e6897635201a67ca11537ce197510",
+            "pr": 18104,
             "network": 0
         },
         "NPUB90850": {
@@ -66413,10 +67183,10 @@
             "alternative-title": null,
             "wiki-id": 2663,
             "status": "Ingame",
-            "date": "2024-04-29",
+            "date": "2026-01-25",
             "thread": 204550,
-            "commit": "430b57833d86da2a85c2ed3a66c41e7723551aee",
-            "pr": 15523,
+            "commit": "f883718b238e6897635201a67ca11537ce197510",
+            "pr": 18104,
             "network": 0
         },
         "BLUS31075": {
@@ -66644,10 +67414,10 @@
             "alternative-title": null,
             "wiki-id": 2691,
             "status": "Ingame",
-            "date": "2021-01-13",
+            "date": "2026-01-23",
             "thread": 163260,
-            "commit": "6cf73fad13bc82254b692dcb5496c7172a4c99fe",
-            "pr": 9593,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
             "network": 0
         },
         "BLUS30761": {
@@ -66655,10 +67425,10 @@
             "alternative-title": null,
             "wiki-id": 2691,
             "status": "Ingame",
-            "date": "2021-01-13",
+            "date": "2026-01-23",
             "thread": 201199,
-            "commit": "6cf73fad13bc82254b692dcb5496c7172a4c99fe",
-            "pr": 9593,
+            "commit": "3e49c32c9c59b2bdf6bb29ec7d1e44074ffad4e5",
+            "pr": 18069,
             "network": 0
         },
         "NPEB01379": {
@@ -66848,28 +67618,6 @@
             "pr": 13122,
             "network": 0
         },
-        "BLES00409": {
-            "title": "Tomb Raider: Underworld",
-            "alternative-title": null,
-            "wiki-id": 2695,
-            "status": "Ingame",
-            "date": "2018-01-21",
-            "thread": 197824,
-            "commit": "49e64b9e82c4926c1d1d48ea7cc4ff11523de5cc",
-            "pr": 4078,
-            "network": 0
-        },
-        "BLUS30224": {
-            "title": "Tomb Raider: Underworld",
-            "alternative-title": null,
-            "wiki-id": 2695,
-            "status": "Ingame",
-            "date": "2018-01-21",
-            "thread": 177955,
-            "commit": "49e64b9e82c4926c1d1d48ea7cc4ff11523de5cc",
-            "pr": 4078,
-            "network": 0
-        },
         "BLUS30858": {
             "title": "Top Gun Hard Lock",
             "alternative-title": null,
@@ -66980,17 +67728,6 @@
             "pr": 5790,
             "network": 0
         },
-        "NPJB90295": {
-            "title": "Trinity: Souls of Zill O'll TGS Trial Version",
-            "alternative-title": "Trinity: Zill O'll Zero TGS Trial Version",
-            "wiki-id": 2725,
-            "status": "Ingame",
-            "date": "2023-01-31",
-            "thread": 205771,
-            "commit": "c471120a80ec6f12cd4489e1a9be073d7d9c96f2",
-            "pr": 13311,
-            "network": 0
-        },
         "BLES01798": {
             "title": "Truck Racer",
             "alternative-title": null,
@@ -67022,28 +67759,6 @@
             "thread": 202822,
             "commit": "44ab50553dd03a5429b10beb643d83386f804375",
             "pr": 9737,
-            "network": 0
-        },
-        "NPEB00570": {
-            "title": "Twisted Land: Shadow Town",
-            "alternative-title": null,
-            "wiki-id": 2737,
-            "status": "Ingame",
-            "date": "2022-06-07",
-            "thread": 197523,
-            "commit": "8e667e69f67c701d0f660d3f55454a5cc488e958",
-            "pr": 12188,
-            "network": 0
-        },
-        "NPUB30480": {
-            "title": "Twisted Land: Shadow Town",
-            "alternative-title": null,
-            "wiki-id": 2737,
-            "status": "Ingame",
-            "date": "2022-06-07",
-            "thread": 198942,
-            "commit": "8e667e69f67c701d0f660d3f55454a5cc488e958",
-            "pr": 12188,
             "network": 0
         },
         "NPEA00362": {
@@ -67717,28 +68432,6 @@
             "pr": 16985,
             "network": 0
         },
-        "NPEB90211": {
-            "title": "Vancouver 2010 Demo",
-            "alternative-title": null,
-            "wiki-id": 3443,
-            "status": "Ingame",
-            "date": "2023-01-17",
-            "thread": 205534,
-            "commit": "b3a9c8d83f82a4add89b58fe70bdf439fc429dbe",
-            "pr": 13243,
-            "network": 0
-        },
-        "NPUB90276": {
-            "title": "Vancouver 2010 Demo",
-            "alternative-title": null,
-            "wiki-id": 3443,
-            "status": "Ingame",
-            "date": "2023-01-17",
-            "thread": 205072,
-            "commit": "b3a9c8d83f82a4add89b58fe70bdf439fc429dbe",
-            "pr": 13243,
-            "network": 0
-        },
         "BLES00927": {
             "title": "Vanquish",
             "alternative-title": null,
@@ -67770,61 +68463,6 @@
             "thread": 198476,
             "commit": "7303f04bc5a76f42c6f27747457bd087fc1ea85e",
             "pr": 4424,
-            "network": 0
-        },
-        "NPEB90270": {
-            "title": "Vanquish Challenge Mode Demo",
-            "alternative-title": null,
-            "wiki-id": 3381,
-            "status": "Ingame",
-            "date": "2023-01-20",
-            "thread": 205594,
-            "commit": "6c3b2b938abdd2750d2ca464e651667221ce7658",
-            "pr": 13261,
-            "network": 0
-        },
-        "NPUB90478": {
-            "title": "Vanquish Challenge Mode Demo",
-            "alternative-title": null,
-            "wiki-id": 3381,
-            "status": "Ingame",
-            "date": "2023-01-20",
-            "thread": 180334,
-            "commit": "6c3b2b938abdd2750d2ca464e651667221ce7658",
-            "pr": 13261,
-            "network": 0
-        },
-        "NPEB90269": {
-            "title": "Vanquish Velocity Attack Demo",
-            "alternative-title": null,
-            "wiki-id": 3381,
-            "status": "Ingame",
-            "date": "2022-12-18",
-            "thread": 205270,
-            "commit": "1a60fb3c96a96b8817d809f91094a56f4aee49c7",
-            "pr": 13064,
-            "network": 0
-        },
-        "NPUB90441": {
-            "title": "Vanquish Velocity Attack Demo",
-            "alternative-title": null,
-            "wiki-id": 3381,
-            "status": "Ingame",
-            "date": "2022-12-18",
-            "thread": 205269,
-            "commit": "1a60fb3c96a96b8817d809f91094a56f4aee49c7",
-            "pr": 13064,
-            "network": 0
-        },
-        "BLED01094": {
-            "title": "Vanquish Velocity Attack Demo",
-            "alternative-title": null,
-            "wiki-id": 3381,
-            "status": "Ingame",
-            "date": "2023-01-08",
-            "thread": 205405,
-            "commit": "df718bcb0f2b7be809bf48b6059be7322fc17202",
-            "pr": 13183,
             "network": 0
         },
         "NPEB01864": {
@@ -68771,17 +69409,6 @@
             "thread": 201507,
             "commit": "c5748983f6ce0fa83424a56486624ab9381e726d",
             "pr": 11378,
-            "network": 0
-        },
-        "NPEB01394": {
-            "title": "Zombeer",
-            "alternative-title": null,
-            "wiki-id": 3392,
-            "status": "Ingame",
-            "date": "2023-08-11",
-            "thread": 206592,
-            "commit": "eae1c5afdd414d9afbab2bccca35137cefddffc2",
-            "pr": 14461,
             "network": 0
         },
         "BLES01756": {
@@ -70830,39 +71457,6 @@
             "pr": 13514,
             "network": 1
         },
-        "BCES00345": {
-            "title": "SingStar A Tutto Pop",
-            "alternative-title": null,
-            "wiki-id": 3461,
-            "status": "Intro",
-            "date": "2025-04-03",
-            "thread": 208841,
-            "commit": "37dbd77628f44cdef3228bdfc03127365ec7383b",
-            "pr": 16986,
-            "network": 0
-        },
-        "BCES01083": {
-            "title": "SingStar Afrikaanse Treffers",
-            "alternative-title": null,
-            "wiki-id": 4710,
-            "status": "Intro",
-            "date": "2025-04-01",
-            "thread": 208824,
-            "commit": "c86a25079518032d73395a79979970acb2581a91",
-            "pr": 16978,
-            "network": 0
-        },
-        "BCES01024": {
-            "title": "SingStar Après-Ski Party 2",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-04-03",
-            "thread": 208842,
-            "commit": "37dbd77628f44cdef3228bdfc03127365ec7383b",
-            "pr": 16986,
-            "network": 0
-        },
         "BCET70021": {
             "title": "SingStar Beta",
             "alternative-title": null,
@@ -70873,468 +71467,6 @@
             "commit": "6511e0f3e6f72a3bf46057f9fee0957edc333d34",
             "pr": 16967,
             "network": 1
-        },
-        "BCES01023": {
-            "title": "SingStar Cantautori Italiani",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-04-03",
-            "thread": 208843,
-            "commit": "37dbd77628f44cdef3228bdfc03127365ec7383b",
-            "pr": 16986,
-            "network": 0
-        },
-        "BCES00846": {
-            "title": "SingStar Chart Hits",
-            "alternative-title": null,
-            "wiki-id": 4256,
-            "status": "Intro",
-            "date": "2025-04-03",
-            "thread": 208844,
-            "commit": "37dbd77628f44cdef3228bdfc03127365ec7383b",
-            "pr": 16986,
-            "network": 0
-        },
-        "BCES00894": {
-            "title": "SingStar Dance",
-            "alternative-title": null,
-            "wiki-id": 2363,
-            "status": "Intro",
-            "date": "2025-04-03",
-            "thread": 187279,
-            "commit": "37dbd77628f44cdef3228bdfc03127365ec7383b",
-            "pr": 16986,
-            "network": 0
-        },
-        "BCES01049": {
-            "title": "SingStar Dance",
-            "alternative-title": null,
-            "wiki-id": 2363,
-            "status": "Intro",
-            "date": "2025-04-03",
-            "thread": 208845,
-            "commit": "37dbd77628f44cdef3228bdfc03127365ec7383b",
-            "pr": 16986,
-            "network": 0
-        },
-        "BCUS98266": {
-            "title": "SingStar Dance",
-            "alternative-title": null,
-            "wiki-id": 2363,
-            "status": "Intro",
-            "date": "2025-04-03",
-            "thread": 208848,
-            "commit": "37dbd77628f44cdef3228bdfc03127365ec7383b",
-            "pr": 16986,
-            "network": 0
-        },
-        "BCES01103": {
-            "title": "SingStar Danske Hits",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-05-03",
-            "thread": 208919,
-            "commit": "487c58558edd37b10e8a79c1ccd3873593185923",
-            "pr": 17151,
-            "network": 0
-        },
-        "BCES00869": {
-            "title": "SingStar Fussballhits",
-            "alternative-title": null,
-            "wiki-id": 4317,
-            "status": "Intro",
-            "date": "2025-04-02",
-            "thread": 206048,
-            "commit": "847f92956faa47fa9f7400bee8ef59864e62c615",
-            "pr": 16984,
-            "network": 0
-        },
-        "BCES01258": {
-            "title": "SingStar Grandes Exitos",
-            "alternative-title": null,
-            "wiki-id": 2365,
-            "status": "Intro",
-            "date": "2025-03-31",
-            "thread": 193791,
-            "commit": "2f8ed1a6bd7a6424e05c4425a647c9eecca13a91",
-            "pr": 16965,
-            "network": 0
-        },
-        "BCES00835": {
-            "title": "SingStar Guitar",
-            "alternative-title": null,
-            "wiki-id": 2366,
-            "status": "Intro",
-            "date": "2025-04-02",
-            "thread": 186543,
-            "commit": "847f92956faa47fa9f7400bee8ef59864e62c615",
-            "pr": 16984,
-            "network": 0
-        },
-        "BCES00979": {
-            "title": "SingStar Guitar",
-            "alternative-title": null,
-            "wiki-id": 2366,
-            "status": "Intro",
-            "date": "2025-04-02",
-            "thread": 208836,
-            "commit": "847f92956faa47fa9f7400bee8ef59864e62c615",
-            "pr": 16984,
-            "network": 0
-        },
-        "BCES00980": {
-            "title": "SingStar Guitar",
-            "alternative-title": null,
-            "wiki-id": 2366,
-            "status": "Intro",
-            "date": "2025-04-02",
-            "thread": 208835,
-            "commit": "847f92956faa47fa9f7400bee8ef59864e62c615",
-            "pr": 16984,
-            "network": 0
-        },
-        "BCES00981": {
-            "title": "SingStar Guitar",
-            "alternative-title": null,
-            "wiki-id": 2366,
-            "status": "Intro",
-            "date": "2025-04-02",
-            "thread": 208834,
-            "commit": "847f92956faa47fa9f7400bee8ef59864e62c615",
-            "pr": 16984,
-            "network": 0
-        },
-        "BCES00346": {
-            "title": "SingStar Hits 2",
-            "alternative-title": null,
-            "wiki-id": 4258,
-            "status": "Intro",
-            "date": "2025-04-03",
-            "thread": 208850,
-            "commit": "37dbd77628f44cdef3228bdfc03127365ec7383b",
-            "pr": 16986,
-            "network": 0
-        },
-        "BCES00622": {
-            "title": "SingStar Intro",
-            "alternative-title": null,
-            "wiki-id": 2367,
-            "status": "Intro",
-            "date": "2025-04-01",
-            "thread": 192882,
-            "commit": "c86a25079518032d73395a79979970acb2581a91",
-            "pr": 16978,
-            "network": 0
-        },
-        "BCES00852": {
-            "title": "SingStar Kent",
-            "alternative-title": null,
-            "wiki-id": 4715,
-            "status": "Intro",
-            "date": "2025-04-03",
-            "thread": 208851,
-            "commit": "37dbd77628f44cdef3228bdfc03127365ec7383b",
-            "pr": 16986,
-            "network": 0
-        },
-        "BCUS94344": {
-            "title": "SingStar Latino",
-            "alternative-title": null,
-            "wiki-id": 2368,
-            "status": "Intro",
-            "date": "2025-04-02",
-            "thread": 196823,
-            "commit": "847f92956faa47fa9f7400bee8ef59864e62c615",
-            "pr": 16984,
-            "network": 0
-        },
-        "BCES00614": {
-            "title": "SingStar Made In Germany",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-04-04",
-            "thread": 208855,
-            "commit": "2ac2439c3355822bdea37e665998f6f2d8772f4f",
-            "pr": 16990,
-            "network": 0
-        },
-        "BCES00583": {
-            "title": "SingStar Mecano",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-04-02",
-            "thread": 208837,
-            "commit": "847f92956faa47fa9f7400bee8ef59864e62c615",
-            "pr": 16984,
-            "network": 0
-        },
-        "BCES00518": {
-            "title": "SingStar Morangos Com Açúcar",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-03-31",
-            "thread": 208810,
-            "commit": "2f8ed1a6bd7a6424e05c4425a647c9eecca13a91",
-            "pr": 16965,
-            "network": 0
-        },
-        "BCES00873": {
-            "title": "SingStar Patito Feo",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-04-04",
-            "thread": 208856,
-            "commit": "2ac2439c3355822bdea37e665998f6f2d8772f4f",
-            "pr": 16990,
-            "network": 0
-        },
-        "BCES00531": {
-            "title": "SingStar Polskie Hity",
-            "alternative-title": null,
-            "wiki-id": 4254,
-            "status": "Intro",
-            "date": "2025-03-31",
-            "thread": 208816,
-            "commit": "6511e0f3e6f72a3bf46057f9fee0957edc333d34",
-            "pr": 16967,
-            "network": 0
-        },
-        "BCES00856": {
-            "title": "SingStar Polskie Hity 2",
-            "alternative-title": null,
-            "wiki-id": 4255,
-            "status": "Intro",
-            "date": "2025-03-31",
-            "thread": 208814,
-            "commit": "6511e0f3e6f72a3bf46057f9fee0957edc333d34",
-            "pr": 16967,
-            "network": 0
-        },
-        "BCES00342": {
-            "title": "SingStar Pop 2009",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-04-02",
-            "thread": 208838,
-            "commit": "847f92956faa47fa9f7400bee8ef59864e62c615",
-            "pr": 16984,
-            "network": 0
-        },
-        "BCES00293": {
-            "title": "SingStar Pop Edition",
-            "alternative-title": null,
-            "wiki-id": 3461,
-            "status": "Intro",
-            "date": "2025-04-04",
-            "thread": 198420,
-            "commit": "2ac2439c3355822bdea37e665998f6f2d8772f4f",
-            "pr": 16990,
-            "network": 0
-        },
-        "BCES00341": {
-            "title": "SingStar Pop Edition",
-            "alternative-title": null,
-            "wiki-id": 3461,
-            "status": "Intro",
-            "date": "2025-04-04",
-            "thread": 208857,
-            "commit": "2ac2439c3355822bdea37e665998f6f2d8772f4f",
-            "pr": 16990,
-            "network": 0
-        },
-        "BCES00871": {
-            "title": "SingStar Portugal Hits",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-03-31",
-            "thread": 208806,
-            "commit": "2f8ed1a6bd7a6424e05c4425a647c9eecca13a91",
-            "pr": 16965,
-            "network": 0
-        },
-        "BCES00494": {
-            "title": "SingStar Queen",
-            "alternative-title": null,
-            "wiki-id": 2370,
-            "status": "Intro",
-            "date": "2025-04-04",
-            "thread": 186546,
-            "commit": "2ac2439c3355822bdea37e665998f6f2d8772f4f",
-            "pr": 16990,
-            "network": 0
-        },
-        "BCUS98206": {
-            "title": "SingStar Queen",
-            "alternative-title": null,
-            "wiki-id": 2370,
-            "status": "Intro",
-            "date": "2025-04-04",
-            "thread": 208858,
-            "commit": "2ac2439c3355822bdea37e665998f6f2d8772f4f",
-            "pr": 16990,
-            "network": 0
-        },
-        "BCES01441": {
-            "title": "SingStar Return To The 80s",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-04-04",
-            "thread": 208859,
-            "commit": "2ac2439c3355822bdea37e665998f6f2d8772f4f",
-            "pr": 16990,
-            "network": 0
-        },
-        "BCES00617": {
-            "title": "SingStar Starter Pack",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-04-01",
-            "thread": 208827,
-            "commit": "c86a25079518032d73395a79979970acb2581a91",
-            "pr": 16978,
-            "network": 0
-        },
-        "BCES00621": {
-            "title": "SingStar Starter Pack",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-04-01",
-            "thread": 208826,
-            "commit": "c86a25079518032d73395a79979970acb2581a91",
-            "pr": 16978,
-            "network": 0
-        },
-        "BCES00624": {
-            "title": "SingStar Starter Pack",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-04-01",
-            "thread": 208829,
-            "commit": "c86a25079518032d73395a79979970acb2581a91",
-            "pr": 16978,
-            "network": 0
-        },
-        "BCES00625": {
-            "title": "SingStar Starter Pack",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-04-01",
-            "thread": 208828,
-            "commit": "c86a25079518032d73395a79979970acb2581a91",
-            "pr": 16978,
-            "network": 0
-        },
-        "BCES00520": {
-            "title": "SingStar Studio 100",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-04-01",
-            "thread": 208831,
-            "commit": "73f2aaf9d8ca10e97f5f730c03c1db1cd3d83767",
-            "pr": 16980,
-            "network": 0
-        },
-        "BCES01915": {
-            "title": "SingStar SuomiHelmet",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-04-04",
-            "thread": 208860,
-            "commit": "2ac2439c3355822bdea37e665998f6f2d8772f4f",
-            "pr": 16990,
-            "network": 0
-        },
-        "BCES00847": {
-            "title": "SingStar SuomiHitit",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-04-04",
-            "thread": 208861,
-            "commit": "2ac2439c3355822bdea37e665998f6f2d8772f4f",
-            "pr": 16990,
-            "network": 0
-        },
-        "BCES01735": {
-            "title": "SingStar SuomiHuiput",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-04-04",
-            "thread": 208862,
-            "commit": "2ac2439c3355822bdea37e665998f6f2d8772f4f",
-            "pr": 16990,
-            "network": 0
-        },
-        "BCES01255": {
-            "title": "SingStar SuomiSuosikit",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-04-04",
-            "thread": 208863,
-            "commit": "2ac2439c3355822bdea37e665998f6f2d8772f4f",
-            "pr": 16990,
-            "network": 0
-        },
-        "BCES00343": {
-            "title": "SingStar Svenska Stjärnor",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Intro",
-            "date": "2025-05-10",
-            "thread": 208935,
-            "commit": "3894c903bc6ee7b1fe267a45f8727b725f2eabb7",
-            "pr": 17194,
-            "network": 0
-        },
-        "BCES00607": {
-            "title": "SingStar Take That",
-            "alternative-title": null,
-            "wiki-id": 2371,
-            "status": "Intro",
-            "date": "2025-04-01",
-            "thread": 197980,
-            "commit": "c86a25079518032d73395a79979970acb2581a91",
-            "pr": 16978,
-            "network": 0
-        },
-        "BCES00634": {
-            "title": "SingStar The Wiggles",
-            "alternative-title": null,
-            "wiki-id": 3954,
-            "status": "Intro",
-            "date": "2025-04-01",
-            "thread": 208825,
-            "commit": "c86a25079518032d73395a79979970acb2581a91",
-            "pr": 16978,
-            "network": 0
-        },
-        "BCES00722": {
-            "title": "SingStar Vasco",
-            "alternative-title": null,
-            "wiki-id": 2372,
-            "status": "Intro",
-            "date": "2025-04-01",
-            "thread": 196881,
-            "commit": "c86a25079518032d73395a79979970acb2581a91",
-            "pr": 16978,
-            "network": 0
         },
         "NPEA00140": {
             "title": "SingStar Viewer",
@@ -71357,50 +71489,6 @@
             "commit": "629eddfb9fd5fc5740b08deaf77965c1ec731044",
             "pr": 7409,
             "network": 1
-        },
-        "BCES01257": {
-            "title": "SingStar: Back to the 80s",
-            "alternative-title": null,
-            "wiki-id": 2376,
-            "status": "Intro",
-            "date": "2025-04-02",
-            "thread": 186971,
-            "commit": "847f92956faa47fa9f7400bee8ef59864e62c615",
-            "pr": 16984,
-            "network": 0
-        },
-        "BCES00640": {
-            "title": "SingStar: Chartbreaker",
-            "alternative-title": null,
-            "wiki-id": 2377,
-            "status": "Intro",
-            "date": "2025-04-02",
-            "thread": 200191,
-            "commit": "847f92956faa47fa9f7400bee8ef59864e62c615",
-            "pr": 16984,
-            "network": 0
-        },
-        "BCES00519": {
-            "title": "SingStar: Mallorca Party",
-            "alternative-title": null,
-            "wiki-id": 2378,
-            "status": "Intro",
-            "date": "2025-04-02",
-            "thread": 197659,
-            "commit": "847f92956faa47fa9f7400bee8ef59864e62c615",
-            "pr": 16984,
-            "network": 0
-        },
-        "BCES00596": {
-            "title": "SingStar: Motown",
-            "alternative-title": null,
-            "wiki-id": 2379,
-            "status": "Intro",
-            "date": "2025-04-01",
-            "thread": 191829,
-            "commit": "c86a25079518032d73395a79979970acb2581a91",
-            "pr": 16978,
-            "network": 0
         },
         "NPEB90499": {
             "title": "Sniper: Ghost Warrior 2 Demo",
@@ -72193,6 +72281,39 @@
             "commit": "6c3b2b938abdd2750d2ca464e651667221ce7658",
             "pr": 13261,
             "network": 1
+        },
+        "NPEB00473": {
+            "title": "Mercury HG",
+            "alternative-title": null,
+            "wiki-id": 1889,
+            "status": "Loadable",
+            "date": "2026-01-25",
+            "thread": 166452,
+            "commit": "f883718b238e6897635201a67ca11537ce197510",
+            "pr": 18104,
+            "network": 0
+        },
+        "NPUB30419": {
+            "title": "Mercury HG",
+            "alternative-title": null,
+            "wiki-id": 1889,
+            "status": "Loadable",
+            "date": "2026-01-25",
+            "thread": 179103,
+            "commit": "f883718b238e6897635201a67ca11537ce197510",
+            "pr": 18104,
+            "network": 0
+        },
+        "NPUB90125": {
+            "title": "NFL Head Coach 09 Demo",
+            "alternative-title": null,
+            "wiki-id": 2043,
+            "status": "Loadable",
+            "date": "2026-01-25",
+            "thread": 200024,
+            "commit": "f883718b238e6897635201a67ca11537ce197510",
+            "pr": 18104,
+            "network": 0
         },
         "NPJB00572": {
             "title": "Shin Sangoku Musou Online Z",
