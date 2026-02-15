@@ -87,7 +87,7 @@ async function initPicker() {
         label.className = 'status-item';
         label.innerHTML = `
             <input type="checkbox" data-region="${region}" checked/>
-            <img src="https://rpcs3.net/img/icons/compat/${region}.png" class="region-flag"/>
+            <img src="https://raw.githubusercontent.com/DAGINATSUKO/www-rpcs3/master/public_html/img/icons/compat/${region}.png" class="region-flag"/>
             ${regionFullNames[region]}
         `;
         regionsEl.appendChild(label);
