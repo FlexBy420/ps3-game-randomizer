@@ -245,7 +245,7 @@ async function initPicker() {
                     <div class="picked-game">${game.title||'No title'}</div>
                     <div class="meta">
                         ID: ${game.id} · Status: ${colorStatus(game.status)}
-                         · Region: <img src="https://rpcs3.net/img/icons/compat/${getRegionFromId(game.id)}.png" alt="${getRegionFromId(game.id)}" class="region-flag">
+                         · Region: <img src="https://raw.githubusercontent.com/DAGINATSUKO/www-rpcs3/master/public_html/img/icons/compat/${getRegionFromId(game.id)}.png" alt="${getRegionFromId(game.id)}" class="region-flag">
                          · Type: ${getTypeFromId(game.id)}
                          · Date: ${game.date||'—'}
                     </div>
