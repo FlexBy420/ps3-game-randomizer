@@ -2674,17 +2674,6 @@
             "pr": 3665,
             "network": 0
         },
-        "NPUB30401": {
-            "title": "Back to the Future - Episode 1: It's About Time",
-            "alternative-title": null,
-            "wiki-id": 623,
-            "status": "Playable",
-            "date": "2018-11-06",
-            "thread": 173848,
-            "commit": "11681f02cc29139a13fb6ff985714c22cc50e497",
-            "pr": 5300,
-            "network": 0
-        },
         "NPEB00447": {
             "title": "Back to the Future - Episode 1: It's About Time",
             "alternative-title": null,
@@ -2692,6 +2681,17 @@
             "status": "Playable",
             "date": "2026-02-07",
             "thread": 209404,
+            "commit": "93dbdead24e1474a94c59fffc1f6cfb25abe488b",
+            "pr": 18153,
+            "network": 0
+        },
+        "NPUB30401": {
+            "title": "Back to the Future - Episode 1: It's About Time",
+            "alternative-title": null,
+            "wiki-id": 623,
+            "status": "Playable",
+            "date": "2026-02-07",
+            "thread": 173848,
             "commit": "93dbdead24e1474a94c59fffc1f6cfb25abe488b",
             "pr": 18153,
             "network": 0
@@ -4615,7 +4615,7 @@
             "alternative-title": null,
             "wiki-id": 1329,
             "status": "Playable",
-            "date": "2026-01-18",
+            "date": "2026-01-19",
             "thread": 200475,
             "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
             "pr": 18057,
@@ -4626,7 +4626,7 @@
             "alternative-title": null,
             "wiki-id": 1329,
             "status": "Playable",
-            "date": "2026-01-18",
+            "date": "2026-01-19",
             "thread": 179725,
             "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
             "pr": 18057,
@@ -5004,6 +5004,50 @@
             "thread": 206801,
             "commit": "bd41774960342f4e7838da7de00f38feff50988e",
             "pr": 16769,
+            "network": 0
+        },
+        "BLES02058": {
+            "title": "Borderlands: The Pre-Sequel",
+            "alternative-title": null,
+            "wiki-id": 1141,
+            "status": "Playable",
+            "date": "2026-02-21",
+            "thread": 203201,
+            "commit": "6bfb33279f6989f3ff9ea2dc40ef45d6aeb57ef8",
+            "pr": 18210,
+            "network": 0
+        },
+        "BLES02997": {
+            "title": "Borderlands: The Pre-Sequel",
+            "alternative-title": null,
+            "wiki-id": 1141,
+            "status": "Playable",
+            "date": "2026-02-21",
+            "thread": 179226,
+            "commit": "6bfb33279f6989f3ff9ea2dc40ef45d6aeb57ef8",
+            "pr": 18210,
+            "network": 0
+        },
+        "BLJS10281": {
+            "title": "Borderlands: The Pre-Sequel",
+            "alternative-title": null,
+            "wiki-id": 1141,
+            "status": "Playable",
+            "date": "2026-02-21",
+            "thread": 199651,
+            "commit": "6bfb33279f6989f3ff9ea2dc40ef45d6aeb57ef8",
+            "pr": 18210,
+            "network": 0
+        },
+        "BLUS31445": {
+            "title": "Borderlands: The Pre-Sequel",
+            "alternative-title": null,
+            "wiki-id": 1141,
+            "status": "Playable",
+            "date": "2026-02-21",
+            "thread": 188245,
+            "commit": "6bfb33279f6989f3ff9ea2dc40ef45d6aeb57ef8",
+            "pr": 18210,
             "network": 0
         },
         "NPEB02061": {
@@ -10242,6 +10286,17 @@
             "pr": 6299,
             "network": 0
         },
+        "BLES01928": {
+            "title": "Deus Ex: Human Revolution - Director's Cut",
+            "alternative-title": null,
+            "wiki-id": 1464,
+            "status": "Playable",
+            "date": "2026-02-19",
+            "thread": 182788,
+            "commit": "2064bd87e37da1d0946f7c5b62f2d38003abff8e",
+            "pr": 18202,
+            "network": 0
+        },
         "BLES00186": {
             "title": "Devil May Cry 4",
             "alternative-title": null,
@@ -13729,6 +13784,28 @@
             "pr": 13226,
             "network": 0
         },
+        "BLES00963": {
+            "title": "F.E.A.R. 3",
+            "alternative-title": null,
+            "wiki-id": 1541,
+            "status": "Playable",
+            "date": "2026-02-19",
+            "thread": 196686,
+            "commit": "2064bd87e37da1d0946f7c5b62f2d38003abff8e",
+            "pr": 18202,
+            "network": 0
+        },
+        "BLUS30511": {
+            "title": "F.E.A.R. 3",
+            "alternative-title": null,
+            "wiki-id": 1541,
+            "status": "Playable",
+            "date": "2026-02-19",
+            "thread": 181050,
+            "commit": "2064bd87e37da1d0946f7c5b62f2d38003abff8e",
+            "pr": 18202,
+            "network": 0
+        },
         "BLES00035": {
             "title": "F.E.A.R.: First Encounter Assault Recon",
             "alternative-title": null,
@@ -14156,6 +14233,17 @@
             "thread": 203165,
             "commit": "cd97d74f0f0fbde8be9bbe6248b4fee8daa1c15a",
             "pr": 10579,
+            "network": 0
+        },
+        "BLES01887": {
+            "title": "Far Cry Classic Beta",
+            "alternative-title": null,
+            "wiki-id": 1554,
+            "status": "Playable",
+            "date": "2026-02-17",
+            "thread": 207305,
+            "commit": "b30a44c1367635af0675f61504e1ca45263655c6",
+            "pr": 18192,
             "network": 0
         },
         "BLES02108": {
@@ -19073,6 +19161,50 @@
             "thread": 162331,
             "commit": null,
             "pr": null,
+            "network": 0
+        },
+        "BLES01403": {
+            "title": "Hitman: Absolution",
+            "alternative-title": null,
+            "wiki-id": 1675,
+            "status": "Playable",
+            "date": "2026-02-21",
+            "thread": 191293,
+            "commit": "6bfb33279f6989f3ff9ea2dc40ef45d6aeb57ef8",
+            "pr": 18210,
+            "network": 0
+        },
+        "BLES01641": {
+            "title": "Hitman: Absolution",
+            "alternative-title": null,
+            "wiki-id": 1675,
+            "status": "Playable",
+            "date": "2026-02-21",
+            "thread": 180359,
+            "commit": "6bfb33279f6989f3ff9ea2dc40ef45d6aeb57ef8",
+            "pr": 18210,
+            "network": 0
+        },
+        "BLJM61003": {
+            "title": "Hitman: Absolution",
+            "alternative-title": null,
+            "wiki-id": 1675,
+            "status": "Playable",
+            "date": "2026-02-21",
+            "thread": 201126,
+            "commit": "6bfb33279f6989f3ff9ea2dc40ef45d6aeb57ef8",
+            "pr": 18210,
+            "network": 0
+        },
+        "BLUS31142": {
+            "title": "Hitman: Absolution",
+            "alternative-title": null,
+            "wiki-id": 1675,
+            "status": "Playable",
+            "date": "2026-02-21",
+            "thread": 199621,
+            "commit": "6bfb33279f6989f3ff9ea2dc40ef45d6aeb57ef8",
+            "pr": 18210,
             "network": 0
         },
         "NPEB00839": {
@@ -26588,6 +26720,17 @@
             "pr": 5951,
             "network": 0
         },
+        "BLES02103": {
+            "title": "Motorcycle Club",
+            "alternative-title": null,
+            "wiki-id": 1955,
+            "status": "Playable",
+            "date": "2026-02-21",
+            "thread": 178055,
+            "commit": "6bfb33279f6989f3ff9ea2dc40ef45d6aeb57ef8",
+            "pr": 18210,
+            "network": 0
+        },
         "NPEB90557": {
             "title": "Motorcycle Club Demo",
             "alternative-title": null,
@@ -32825,28 +32968,6 @@
             "pr": 18057,
             "network": 0
         },
-        "NPEB90092": {
-            "title": "Pure Demo",
-            "alternative-title": null,
-            "wiki-id": 296,
-            "status": "Playable",
-            "date": "2026-01-25",
-            "thread": 205518,
-            "commit": "d854ff03febb59d7f37b98ae05d0ffb50d2dca93",
-            "pr": 18039,
-            "network": 0
-        },
-        "NPUB90096": {
-            "title": "Pure Demo",
-            "alternative-title": null,
-            "wiki-id": 296,
-            "status": "Playable",
-            "date": "2026-01-25",
-            "thread": 205095,
-            "commit": "d854ff03febb59d7f37b98ae05d0ffb50d2dca93",
-            "pr": 18039,
-            "network": 0
-        },
         "BLES00725": {
             "title": "Pure Football",
             "alternative-title": null,
@@ -33633,10 +33754,21 @@
             "alternative-title": "Ratchet & Clank: Tools of Destruction Demo",
             "wiki-id": 881,
             "status": "Playable",
-            "date": "2022-11-16",
+            "date": "2026-02-03",
             "thread": 201919,
-            "commit": "3f8421fc17b8508339be745eb66e585b6b17b4cf",
-            "pr": 12945,
+            "commit": "43b2ce65773d2edc00a4499b40607cbdc7e70c81",
+            "pr": 18144,
+            "network": 0
+        },
+        "NPHA20002": {
+            "title": "Ratchet & Clank Future: Tools of Destruction Demo",
+            "alternative-title": "Ratchet & Clank: Tools of Destruction Demo",
+            "wiki-id": 881,
+            "status": "Playable",
+            "date": "2026-02-03",
+            "thread": 209394,
+            "commit": "43b2ce65773d2edc00a4499b40607cbdc7e70c81",
+            "pr": 18144,
             "network": 0
         },
         "NPJA90035": {
@@ -33644,10 +33776,10 @@
             "alternative-title": "Ratchet & Clank: Tools of Destruction Demo",
             "wiki-id": 881,
             "status": "Playable",
-            "date": "2022-11-16",
+            "date": "2026-02-03",
             "thread": 205099,
-            "commit": "3f8421fc17b8508339be745eb66e585b6b17b4cf",
-            "pr": 12945,
+            "commit": "43b2ce65773d2edc00a4499b40607cbdc7e70c81",
+            "pr": 18144,
             "network": 0
         },
         "NPUA98153": {
@@ -33655,19 +33787,8 @@
             "alternative-title": "Ratchet & Clank: Tools of Destruction Demo",
             "wiki-id": 881,
             "status": "Playable",
-            "date": "2022-11-16",
-            "thread": 198012,
-            "commit": "3f8421fc17b8508339be745eb66e585b6b17b4cf",
-            "pr": 12945,
-            "network": 0
-        },
-        "NPHA20002": {
-            "title": "Ratchet & Clank Future: Tools of Destruction Demo",
-            "alternative-title": null,
-            "wiki-id": 881,
-            "status": "Playable",
             "date": "2026-02-03",
-            "thread": 209394,
+            "thread": 198012,
             "commit": "43b2ce65773d2edc00a4499b40607cbdc7e70c81",
             "pr": 18144,
             "network": 0
@@ -34077,6 +34198,39 @@
             "thread": 180865,
             "commit": "25d73f5a706b9ae31eecb03cba9d61e3f7fba206",
             "pr": 8649,
+            "network": 0
+        },
+        "NPEB02226": {
+            "title": "Resident Evil 0",
+            "alternative-title": "Biohazard 0 HD REMASTER",
+            "wiki-id": 2201,
+            "status": "Playable",
+            "date": "2026-02-21",
+            "thread": 179244,
+            "commit": "6bfb33279f6989f3ff9ea2dc40ef45d6aeb57ef8",
+            "pr": 18210,
+            "network": 0
+        },
+        "NPJB00726": {
+            "title": "Resident Evil 0",
+            "alternative-title": "Biohazard 0 HD REMASTER",
+            "wiki-id": 2201,
+            "status": "Playable",
+            "date": "2026-02-21",
+            "thread": 202174,
+            "commit": "6bfb33279f6989f3ff9ea2dc40ef45d6aeb57ef8",
+            "pr": 18210,
+            "network": 0
+        },
+        "NPUB31689": {
+            "title": "Resident Evil 0",
+            "alternative-title": "Biohazard 0 HD REMASTER",
+            "wiki-id": 2201,
+            "status": "Playable",
+            "date": "2026-02-21",
+            "thread": 198067,
+            "commit": "6bfb33279f6989f3ff9ea2dc40ef45d6aeb57ef8",
+            "pr": 18210,
             "network": 0
         },
         "NPEB00342": {
@@ -38979,7 +39133,7 @@
             "alternative-title": null,
             "wiki-id": 1062,
             "status": "Playable",
-            "date": "2026-02-13",
+            "date": "2026-02-14",
             "thread": 173722,
             "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
             "pr": 18146,
@@ -38990,7 +39144,7 @@
             "alternative-title": null,
             "wiki-id": 1062,
             "status": "Playable",
-            "date": "2026-02-13",
+            "date": "2026-02-14",
             "thread": 202799,
             "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
             "pr": 18146,
@@ -39001,7 +39155,7 @@
             "alternative-title": null,
             "wiki-id": 1062,
             "status": "Playable",
-            "date": "2026-02-13",
+            "date": "2026-02-14",
             "thread": 191712,
             "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
             "pr": 18146,
@@ -44347,7 +44501,7 @@
             "alternative-title": "The Sly Collection",
             "wiki-id": 1228,
             "status": "Playable",
-            "date": "2026-02-13",
+            "date": "2026-02-14",
             "thread": 188602,
             "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
             "pr": 18146,
@@ -44358,7 +44512,7 @@
             "alternative-title": "The Sly Collection",
             "wiki-id": 1228,
             "status": "Playable",
-            "date": "2026-02-13",
+            "date": "2026-02-14",
             "thread": 203186,
             "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
             "pr": 18146,
@@ -44369,7 +44523,7 @@
             "alternative-title": "The Sly Collection",
             "wiki-id": 1228,
             "status": "Playable",
-            "date": "2026-02-13",
+            "date": "2026-02-14",
             "thread": 189235,
             "commit": "ebf9374ccdfe9bc1d8a9535d6b3c5335e03e9ac6",
             "pr": 18146,
@@ -49369,6 +49523,17 @@
             "pr": 5782,
             "network": 0
         },
+        "BLES00290": {
+            "title": "WSC Real 09: World Snooker Championship",
+            "alternative-title": null,
+            "wiki-id": 4597,
+            "status": "Playable",
+            "date": "2026-02-19",
+            "thread": 199836,
+            "commit": "2064bd87e37da1d0946f7c5b62f2d38003abff8e",
+            "pr": 18202,
+            "network": 0
+        },
         "BLES01148": {
             "title": "WSC Real 11: World Snooker Championship",
             "alternative-title": null,
@@ -52152,50 +52317,6 @@
             "pr": 4565,
             "network": 0
         },
-        "BLES02058": {
-            "title": "Borderlands: The Pre-Sequel",
-            "alternative-title": null,
-            "wiki-id": 1141,
-            "status": "Ingame",
-            "date": "2021-06-27",
-            "thread": 203201,
-            "commit": "571bdfc82863a4afa35b4730fc1145ddddd3cf2e",
-            "pr": 10500,
-            "network": 0
-        },
-        "BLES02997": {
-            "title": "Borderlands: The Pre-Sequel",
-            "alternative-title": null,
-            "wiki-id": 1141,
-            "status": "Ingame",
-            "date": "2021-06-27",
-            "thread": 179226,
-            "commit": "571bdfc82863a4afa35b4730fc1145ddddd3cf2e",
-            "pr": 10500,
-            "network": 0
-        },
-        "BLJS10281": {
-            "title": "Borderlands: The Pre-Sequel",
-            "alternative-title": null,
-            "wiki-id": 1141,
-            "status": "Ingame",
-            "date": "2021-06-27",
-            "thread": 199651,
-            "commit": "571bdfc82863a4afa35b4730fc1145ddddd3cf2e",
-            "pr": 10500,
-            "network": 0
-        },
-        "BLUS31445": {
-            "title": "Borderlands: The Pre-Sequel",
-            "alternative-title": null,
-            "wiki-id": 1141,
-            "status": "Ingame",
-            "date": "2021-06-27",
-            "thread": 188245,
-            "commit": "571bdfc82863a4afa35b4730fc1145ddddd3cf2e",
-            "pr": 10500,
-            "network": 0
-        },
         "BLES00817": {
             "title": "Brink",
             "alternative-title": null,
@@ -53703,17 +53824,6 @@
             "pr": 13880,
             "network": 1
         },
-        "BLES01928": {
-            "title": "Deus Ex: Human Revolution - Director's Cut",
-            "alternative-title": null,
-            "wiki-id": 1464,
-            "status": "Ingame",
-            "date": "2017-09-11",
-            "thread": 182788,
-            "commit": "f0358f85fc00017acfca58dc31f49cad75835676",
-            "pr": 3413,
-            "network": 0
-        },
         "NPEB01805": {
             "title": "Deus Ex: Human Revolution - Director's Cut",
             "alternative-title": null,
@@ -54891,28 +55001,6 @@
             "pr": 13069,
             "network": 0
         },
-        "BLES00963": {
-            "title": "F.E.A.R. 3",
-            "alternative-title": null,
-            "wiki-id": 1541,
-            "status": "Ingame",
-            "date": "2018-11-15",
-            "thread": 196686,
-            "commit": "0044eb44e2f86c9511baea5337a756230808376e",
-            "pr": 5336,
-            "network": 0
-        },
-        "BLUS30511": {
-            "title": "F.E.A.R. 3",
-            "alternative-title": null,
-            "wiki-id": 1541,
-            "status": "Ingame",
-            "date": "2018-11-15",
-            "thread": 181050,
-            "commit": "0044eb44e2f86c9511baea5337a756230808376e",
-            "pr": 5336,
-            "network": 0
-        },
         "BLES01311": {
             "title": "F1 2011",
             "alternative-title": null,
@@ -55446,10 +55534,10 @@
             "alternative-title": null,
             "wiki-id": 1554,
             "status": "Ingame",
-            "date": "2019-12-22",
+            "date": "2026-02-18",
             "thread": 197519,
-            "commit": "e9c5c6e6bf08a3f4bfdc59474bbaa9edea8d1da3",
-            "pr": 7126,
+            "commit": "b30a44c1367635af0675f61504e1ca45263655c6",
+            "pr": 18192,
             "network": 0
         },
         "NPUB30737": {
@@ -55457,21 +55545,10 @@
             "alternative-title": null,
             "wiki-id": 1554,
             "status": "Ingame",
-            "date": "2019-12-22",
+            "date": "2026-02-18",
             "thread": 180920,
-            "commit": "e9c5c6e6bf08a3f4bfdc59474bbaa9edea8d1da3",
-            "pr": 7126,
-            "network": 0
-        },
-        "BLES01887": {
-            "title": "Far Cry Classic Beta",
-            "alternative-title": null,
-            "wiki-id": 1554,
-            "status": "Ingame",
-            "date": "2024-04-06",
-            "thread": 207305,
-            "commit": "9a4c8233664e2a5f96109acdfbb4ce2e01c42941",
-            "pr": 15405,
+            "commit": "b30a44c1367635af0675f61504e1ca45263655c6",
+            "pr": 18192,
             "network": 0
         },
         "BLES01796": {
@@ -55688,7 +55765,7 @@
             "alternative-title": null,
             "wiki-id": 1575,
             "status": "Ingame",
-            "date": "2026-01-16",
+            "date": "2026-01-17",
             "thread": 205371,
             "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
             "pr": 18057,
@@ -55699,7 +55776,7 @@
             "alternative-title": null,
             "wiki-id": 1575,
             "status": "Ingame",
-            "date": "2026-01-16",
+            "date": "2026-01-17",
             "thread": 205027,
             "commit": "eaebd3426e7050c35beb8f24952d6da4d6a75360",
             "pr": 18057,
@@ -57003,50 +57080,6 @@
             "pr": 17427,
             "network": 0
         },
-        "BLES01403": {
-            "title": "Hitman: Absolution",
-            "alternative-title": null,
-            "wiki-id": 1675,
-            "status": "Ingame",
-            "date": "2020-01-02",
-            "thread": 191293,
-            "commit": "02ca8f0002a07bf5f77b0760020ddeb251a0eb82",
-            "pr": 7173,
-            "network": 0
-        },
-        "BLES01641": {
-            "title": "Hitman: Absolution",
-            "alternative-title": null,
-            "wiki-id": 1675,
-            "status": "Ingame",
-            "date": "2020-01-02",
-            "thread": 180359,
-            "commit": "02ca8f0002a07bf5f77b0760020ddeb251a0eb82",
-            "pr": 7173,
-            "network": 0
-        },
-        "BLJM61003": {
-            "title": "Hitman: Absolution",
-            "alternative-title": null,
-            "wiki-id": 1675,
-            "status": "Ingame",
-            "date": "2020-01-02",
-            "thread": 201126,
-            "commit": "02ca8f0002a07bf5f77b0760020ddeb251a0eb82",
-            "pr": 7173,
-            "network": 0
-        },
-        "BLUS31142": {
-            "title": "Hitman: Absolution",
-            "alternative-title": null,
-            "wiki-id": 1675,
-            "status": "Ingame",
-            "date": "2020-01-02",
-            "thread": 199621,
-            "commit": "02ca8f0002a07bf5f77b0760020ddeb251a0eb82",
-            "pr": 7173,
-            "network": 0
-        },
         "BLES01778": {
             "title": "Hitman: Absolution - Complete Edition",
             "alternative-title": null,
@@ -57267,28 +57300,6 @@
             "pr": 4328,
             "network": 0
         },
-        "NPHA80157": {
-            "title": "inFamous 2",
-            "alternative-title": null,
-            "wiki-id": 1050,
-            "status": "Ingame",
-            "date": "2022-12-20",
-            "thread": 205302,
-            "commit": "8ac99680962fc4c01dd561716f0b927d386bc7e8",
-            "pr": 13100,
-            "network": 0
-        },
-        "NPUA80638": {
-            "title": "inFamous 2",
-            "alternative-title": null,
-            "wiki-id": 1050,
-            "status": "Ingame",
-            "date": "2022-12-20",
-            "thread": 179864,
-            "commit": "8ac99680962fc4c01dd561716f0b927d386bc7e8",
-            "pr": 13100,
-            "network": 0
-        },
         "NPEA00318": {
             "title": "inFamous 2",
             "alternative-title": null,
@@ -57296,6 +57307,28 @@
             "status": "Ingame",
             "date": "2026-02-15",
             "thread": 209415,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "NPHA80157": {
+            "title": "inFamous 2",
+            "alternative-title": null,
+            "wiki-id": 1050,
+            "status": "Ingame",
+            "date": "2026-02-15",
+            "thread": 205302,
+            "commit": "9f928247218337313af5b1c2354dc77c49111399",
+            "pr": 18182,
+            "network": 0
+        },
+        "NPUA80638": {
+            "title": "inFamous 2",
+            "alternative-title": null,
+            "wiki-id": 1050,
+            "status": "Ingame",
+            "date": "2026-02-15",
+            "thread": 179864,
             "commit": "9f928247218337313af5b1c2354dc77c49111399",
             "pr": 18182,
             "network": 0
@@ -60281,17 +60314,6 @@
             "pr": 14934,
             "network": 0
         },
-        "BLES02103": {
-            "title": "Motorcycle Club",
-            "alternative-title": null,
-            "wiki-id": 1955,
-            "status": "Ingame",
-            "date": "2018-01-10",
-            "thread": 178055,
-            "commit": "4231ea2eb6c8130d38e8d36533c300a6b3c6b43e",
-            "pr": 4034,
-            "network": 0
-        },
         "NPUB31596": {
             "title": "Motorcycle Club",
             "alternative-title": null,
@@ -62316,6 +62338,28 @@
             "pr": 5568,
             "network": 0
         },
+        "NPEB90092": {
+            "title": "Pure Demo",
+            "alternative-title": null,
+            "wiki-id": 296,
+            "status": "Ingame",
+            "date": "2026-01-26",
+            "thread": 205518,
+            "commit": "d854ff03febb59d7f37b98ae05d0ffb50d2dca93",
+            "pr": 18039,
+            "network": 0
+        },
+        "NPUB90096": {
+            "title": "Pure Demo",
+            "alternative-title": null,
+            "wiki-id": 296,
+            "status": "Ingame",
+            "date": "2026-01-26",
+            "thread": 205095,
+            "commit": "d854ff03febb59d7f37b98ae05d0ffb50d2dca93",
+            "pr": 18039,
+            "network": 0
+        },
         "BLUS30731": {
             "title": "Puss In Boots",
             "alternative-title": null,
@@ -63350,39 +63394,6 @@
             "pr": 3931,
             "network": 0
         },
-        "NPEB02226": {
-            "title": "Resident Evil 0",
-            "alternative-title": "Biohazard 0 HD REMASTER",
-            "wiki-id": 2201,
-            "status": "Ingame",
-            "date": "2020-08-05",
-            "thread": 179244,
-            "commit": "17557df9f4d2d0727fc6f5593e625d555208960c",
-            "pr": 8688,
-            "network": 0
-        },
-        "NPJB00726": {
-            "title": "Resident Evil 0",
-            "alternative-title": "Biohazard 0 HD REMASTER",
-            "wiki-id": 2201,
-            "status": "Ingame",
-            "date": "2020-08-05",
-            "thread": 202174,
-            "commit": "17557df9f4d2d0727fc6f5593e625d555208960c",
-            "pr": 8688,
-            "network": 0
-        },
-        "NPUB31689": {
-            "title": "Resident Evil 0",
-            "alternative-title": "Biohazard 0 HD REMASTER",
-            "wiki-id": 2201,
-            "status": "Ingame",
-            "date": "2020-08-05",
-            "thread": 198067,
-            "commit": "17557df9f4d2d0727fc6f5593e625d555208960c",
-            "pr": 8688,
-            "network": 0
-        },
         "BLJM61272": {
             "title": "Resident Evil 0",
             "alternative-title": "Biohazard 0 HD REMASTER",
@@ -63410,10 +63421,10 @@
             "alternative-title": "Biohazard 5: Gold Edition",
             "wiki-id": 2203,
             "status": "Ingame",
-            "date": "2019-08-18",
+            "date": "2026-02-21",
             "thread": 189156,
-            "commit": "0d88f037ffa245a4bea57d2dc1f8c5fc513b54c4",
-            "pr": 6076,
+            "commit": "6bfb33279f6989f3ff9ea2dc40ef45d6aeb57ef8",
+            "pr": 18210,
             "network": 0
         },
         "BLUS30491": {
@@ -63421,10 +63432,10 @@
             "alternative-title": "Biohazard 5: Gold Edition",
             "wiki-id": 2203,
             "status": "Ingame",
-            "date": "2019-08-18",
+            "date": "2026-02-21",
             "thread": 177973,
-            "commit": "0d88f037ffa245a4bea57d2dc1f8c5fc513b54c4",
-            "pr": 6076,
+            "commit": "6bfb33279f6989f3ff9ea2dc40ef45d6aeb57ef8",
+            "pr": 18210,
             "network": 0
         },
         "NPEB01150": {
@@ -66050,10 +66061,10 @@
             "alternative-title": null,
             "wiki-id": 2543,
             "status": "Ingame",
-            "date": "2023-12-13",
+            "date": "2026-02-16",
             "thread": 206912,
-            "commit": "f709a5747a39bbcd271e223f21fb8dbc33fe986c",
-            "pr": 14891,
+            "commit": "b30a44c1367635af0675f61504e1ca45263655c6",
+            "pr": 18192,
             "network": 0
         },
         "BLJM60081": {
@@ -68859,17 +68870,6 @@
             "thread": 199441,
             "commit": "d1d1b2effd1e94d474811f7bb540f6affb9dc433",
             "pr": 5018,
-            "network": 0
-        },
-        "BLES00290": {
-            "title": "WSC Real 09: World Snooker Championship",
-            "alternative-title": null,
-            "wiki-id": 4597,
-            "status": "Ingame",
-            "date": "2019-01-31",
-            "thread": 199836,
-            "commit": "09a8f7ae5355e13c1f638dab0d361147f195b5f9",
-            "pr": 5612,
             "network": 0
         },
         "BLES01439": {
