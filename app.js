@@ -171,8 +171,10 @@ async function initPicker() {
         }catch(err){console.warn('Failed to fetch game icon:',err); return null;}
     }
 
+    let isProcessing = false;
     // rng
     async function pick() {
+        if (isProcessing) return;
         const selectedStatuses = getSelectedStatuses();
         const selectedRegions = getSelectedRegions();
         const onlineOnly = document.getElementById('onlineOnly').checked;
@@ -188,6 +190,10 @@ async function initPicker() {
         );
 
         if (pool.length === 0) { alert('No games to randomize from.'); return; }
+        isProcessing = true;
+        randomBtn.disabled = true; 
+        randomBtn.style.opacity = "0.5";
+        randomBtn.style.cursor = "not-allowed";
         resultBox.style.display = 'block';
 
         // animation: show random titles
@@ -204,6 +210,11 @@ async function initPicker() {
         }
         const chosen = pool[Math.floor(Math.random() * pool.length)];
         await show(chosen);
+
+        isProcessing = false;
+        randomBtn.disabled = false;
+        randomBtn.style.opacity = "1";
+        randomBtn.style.cursor = "pointer";
     }
 
     // display result
