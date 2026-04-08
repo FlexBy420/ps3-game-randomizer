@@ -705,6 +705,28 @@
             "pr": 13094,
             "network": 0
         },
+        "NPEB02234": {
+            "title": "Adventure Time: Finn and Jake Investigations Demo",
+            "alternative-title": null,
+            "wiki-id": 1018,
+            "status": "Playable",
+            "date": "2026-04-06",
+            "thread": 205386,
+            "commit": "ce12c29441a3c1755610d427bb23edbbaa169641",
+            "pr": 18519,
+            "network": 0
+        },
+        "NPUB31664": {
+            "title": "Adventure Time: Finn and Jake Investigations Demo",
+            "alternative-title": null,
+            "wiki-id": 1018,
+            "status": "Playable",
+            "date": "2026-04-06",
+            "thread": 197850,
+            "commit": "ce12c29441a3c1755610d427bb23edbbaa169641",
+            "pr": 18519,
+            "network": 0
+        },
         "NPUB31523": {
             "title": "Adventure Time: The Secret of the Nameless Kingdom",
             "alternative-title": null,
@@ -4863,6 +4885,17 @@
             "pr": 13283,
             "network": 0
         },
+        "BCJS30010": {
+            "title": "Boku no Natsuyasumi 3",
+            "alternative-title": null,
+            "wiki-id": 1339,
+            "status": "Playable",
+            "date": "2026-03-24",
+            "thread": 179927,
+            "commit": "2bcc27d581875025610f6f0ad4b34053cd5a470b",
+            "pr": 18447,
+            "network": 0
+        },
         "NPUB30556": {
             "title": "Bolt",
             "alternative-title": null,
@@ -7107,6 +7140,28 @@
             "pr": 4469,
             "network": 0
         },
+        "NPEB01934": {
+            "title": "Child of Light",
+            "alternative-title": null,
+            "wiki-id": 653,
+            "status": "Playable",
+            "date": "2026-03-28",
+            "thread": 197800,
+            "commit": "976cd1ce6640daf6d19a9618c40b100f89fe9434",
+            "pr": 18459,
+            "network": 0
+        },
+        "NPUB31430": {
+            "title": "Child of Light",
+            "alternative-title": null,
+            "wiki-id": 653,
+            "status": "Playable",
+            "date": "2026-03-28",
+            "thread": 179199,
+            "commit": "976cd1ce6640daf6d19a9618c40b100f89fe9434",
+            "pr": 18459,
+            "network": 0
+        },
         "NPEB00374": {
             "title": "Chime Super Deluxe",
             "alternative-title": null,
@@ -7182,6 +7237,28 @@
             "thread": 181706,
             "commit": "94dd6c2007971080a3d0030f123fee0c3aa8e3ab",
             "pr": 6206,
+            "network": 0
+        },
+        "NPUB31541": {
+            "title": "Class of Heroes 2G",
+            "alternative-title": null,
+            "wiki-id": 1394,
+            "status": "Playable",
+            "date": "2026-03-22",
+            "thread": 195309,
+            "commit": "67f69bb4b3243a3e89c7fb0a89e5da8dc1c41d4c",
+            "pr": 18416,
+            "network": 0
+        },
+        "BLUS31461": {
+            "title": "Class of Heroes 2G",
+            "alternative-title": null,
+            "wiki-id": 1394,
+            "status": "Playable",
+            "date": "2026-03-22",
+            "thread": 209463,
+            "commit": "67f69bb4b3243a3e89c7fb0a89e5da8dc1c41d4c",
+            "pr": 18416,
             "network": 0
         },
         "BLES00120": {
@@ -7910,24 +7987,24 @@
             "pr": 5882,
             "network": 0
         },
+        "NPEB00110": {
+            "title": "Crystal Defenders",
+            "alternative-title": null,
+            "wiki-id": 669,
+            "status": "Playable",
+            "date": "2026-03-08",
+            "thread": 209447,
+            "commit": "2573cc5fd08a2d5e4b38768ae1c69779397d70b4",
+            "pr": 18218,
+            "network": 0
+        },
         "NPUB30092": {
             "title": "Crystal Defenders",
             "alternative-title": null,
             "wiki-id": 669,
             "status": "Playable",
-            "date": "2017-07-22",
-            "thread": 173868,
-            "commit": null,
-            "pr": null,
-            "network": 0
-        },
-        "NPEB00110": {
-            "title": "Crystal Defenders",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Playable",
             "date": "2026-03-08",
-            "thread": 209447,
+            "thread": 173868,
             "commit": "2573cc5fd08a2d5e4b38768ae1c69779397d70b4",
             "pr": 18218,
             "network": 0
@@ -12231,6 +12308,28 @@
             "thread": 198874,
             "commit": "5454f57dd048001a0f3c8caddd502caf6089effb",
             "pr": 4709,
+            "network": 0
+        },
+        "NPEB00828": {
+            "title": "Duke Nukem Forever",
+            "alternative-title": null,
+            "wiki-id": 1505,
+            "status": "Playable",
+            "date": "2026-03-25",
+            "thread": 178678,
+            "commit": "a03d4f69f8a57e44e20adb6f0e33a38dd5479326",
+            "pr": 18445,
+            "network": 0
+        },
+        "NPUB30655": {
+            "title": "Duke Nukem Forever",
+            "alternative-title": null,
+            "wiki-id": 1505,
+            "status": "Playable",
+            "date": "2026-03-25",
+            "thread": 201902,
+            "commit": "a03d4f69f8a57e44e20adb6f0e33a38dd5479326",
+            "pr": 18445,
             "network": 0
         },
         "BLES01147": {
@@ -16979,10 +17078,10 @@
             "alternative-title": null,
             "wiki-id": 1609,
             "status": "Playable",
-            "date": "2020-02-26",
+            "date": "2026-03-16",
             "thread": 178002,
-            "commit": "cd40bc8c612d4e483f661fc5cdc10ed0fddd166a",
-            "pr": 7580,
+            "commit": "ca2b7f9b9fe92644f94ba079861a2168a77a72ef",
+            "pr": 18358,
             "network": 0
         },
         "BLUS30209": {
@@ -16990,10 +17089,10 @@
             "alternative-title": null,
             "wiki-id": 1609,
             "status": "Playable",
-            "date": "2020-02-26",
+            "date": "2026-03-16",
             "thread": 197629,
-            "commit": "cd40bc8c612d4e483f661fc5cdc10ed0fddd166a",
-            "pr": 7580,
+            "commit": "ca2b7f9b9fe92644f94ba079861a2168a77a72ef",
+            "pr": 18358,
             "network": 0
         },
         "BLES01292": {
@@ -19615,14 +19714,25 @@
             "network": 0
         },
         "NPEB01309": {
-            "title": "Hunter's Trophy 2: America Demo",
+            "title": "Hunter's Trophy 2: America",
             "alternative-title": null,
             "wiki-id": 1691,
             "status": "Playable",
-            "date": "2020-06-20",
+            "date": "2026-04-05",
             "thread": 197869,
-            "commit": "5c1ce6350b8d6cfe6d799aa49d327c526cc0967b",
-            "pr": 8468,
+            "commit": "f42b09d1fcf9adde7a20fc621644afbc22595abd",
+            "pr": 18425,
+            "network": 0
+        },
+        "NPUB31191": {
+            "title": "Hunter's Trophy 2: America",
+            "alternative-title": null,
+            "wiki-id": 1691,
+            "status": "Playable",
+            "date": "2026-04-05",
+            "thread": 199463,
+            "commit": "f42b09d1fcf9adde7a20fc621644afbc22595abd",
+            "pr": 18425,
             "network": 0
         },
         "NPEA00123": {
@@ -20549,6 +20659,17 @@
             "pr": 13813,
             "network": 0
         },
+        "BLJM60469": {
+            "title": "Jikkyou Powerful Pro Yakyuu 2012",
+            "alternative-title": null,
+            "wiki-id": 1730,
+            "status": "Playable",
+            "date": "2026-04-05",
+            "thread": 199536,
+            "commit": "ce12c29441a3c1755610d427bb23edbbaa169641",
+            "pr": 18519,
+            "network": 0
+        },
         "BLJM60564": {
             "title": "Jikkyou Powerful Pro Yakyuu 2012: Ketteiban",
             "alternative-title": null,
@@ -20558,6 +20679,17 @@
             "thread": 208594,
             "commit": "385710672ff18fad7dd4cea787ebe2aa696b7a81",
             "pr": 16409,
+            "network": 0
+        },
+        "BLJM61083": {
+            "title": "Jikkyou Powerful Pro Yakyuu 2013",
+            "alternative-title": null,
+            "wiki-id": 1731,
+            "status": "Playable",
+            "date": "2026-03-26",
+            "thread": 199519,
+            "commit": "9b6bc7c1b441a19000925ba79886dddaf6cb0cb7",
+            "pr": 18453,
             "network": 0
         },
         "BLJM61215": {
@@ -21078,12 +21210,23 @@
             "network": 0
         },
         "BLES01506": {
-            "title": "Just Dance 3 Special Edition",
+            "title": "Just Dance 3",
             "alternative-title": null,
             "wiki-id": 1748,
             "status": "Playable",
             "date": "2026-03-01",
             "thread": 209439,
+            "commit": "00a1c7278a90d85e5b2e1eb551b9ff80d858b21c",
+            "pr": 18222,
+            "network": 0
+        },
+        "BLES01522": {
+            "title": "Just Dance 3",
+            "alternative-title": null,
+            "wiki-id": 1748,
+            "status": "Playable",
+            "date": "2026-03-01",
+            "thread": 187428,
             "commit": "00a1c7278a90d85e5b2e1eb551b9ff80d858b21c",
             "pr": 18222,
             "network": 0
@@ -25306,10 +25449,10 @@
             "alternative-title": null,
             "wiki-id": 1891,
             "status": "Playable",
-            "date": "2025-10-03",
+            "date": "2026-04-05",
             "thread": 177964,
-            "commit": "e8aa1caa4ea8a3734085a70b1ec9507631b734d0",
-            "pr": 17548,
+            "commit": "110ef818b3fbeb50b09f851c9aa80e2fa280a873",
+            "pr": 18508,
             "network": 0
         },
         "BLJM60554": {
@@ -25317,10 +25460,10 @@
             "alternative-title": null,
             "wiki-id": 1891,
             "status": "Playable",
-            "date": "2025-10-03",
+            "date": "2026-04-05",
             "thread": 199846,
-            "commit": "e8aa1caa4ea8a3734085a70b1ec9507631b734d0",
-            "pr": 17548,
+            "commit": "110ef818b3fbeb50b09f851c9aa80e2fa280a873",
+            "pr": 18508,
             "network": 0
         },
         "BLUS31045": {
@@ -25328,10 +25471,10 @@
             "alternative-title": null,
             "wiki-id": 1891,
             "status": "Playable",
-            "date": "2025-10-03",
+            "date": "2026-04-05",
             "thread": 198586,
-            "commit": "e8aa1caa4ea8a3734085a70b1ec9507631b734d0",
-            "pr": 17548,
+            "commit": "110ef818b3fbeb50b09f851c9aa80e2fa280a873",
+            "pr": 18508,
             "network": 0
         },
         "NPEB90462": {
@@ -26234,6 +26377,17 @@
             "thread": 201225,
             "commit": "d3183708e81ba2707d39829cc1c0cb226dd9e50e",
             "pr": 13226,
+            "network": 0
+        },
+        "BLJS10163": {
+            "title": "Moe Moe Daisensou Gendaiban Plus Plus",
+            "alternative-title": null,
+            "wiki-id": 1928,
+            "status": "Playable",
+            "date": "2026-03-25",
+            "thread": 163196,
+            "commit": "a03d4f69f8a57e44e20adb6f0e33a38dd5479326",
+            "pr": 18445,
             "network": 0
         },
         "NPEB00253": {
@@ -27488,6 +27642,17 @@
             "thread": 178341,
             "commit": "7303f04bc5a76f42c6f27747457bd087fc1ea85e",
             "pr": 4424,
+            "network": 0
+        },
+        "NPJA00020": {
+            "title": "My Summer Vacation 3 (T-Shirt Actor)",
+            "alternative-title": null,
+            "wiki-id": 1984,
+            "status": "Playable",
+            "date": "2026-03-25",
+            "thread": 190671,
+            "commit": "a03d4f69f8a57e44e20adb6f0e33a38dd5479326",
+            "pr": 18445,
             "network": 0
         },
         "BLES01088": {
@@ -30174,6 +30339,17 @@
             "pr": 7753,
             "network": 0
         },
+        "NPJB00681": {
+            "title": "Odin Sphere Leifthrasir",
+            "alternative-title": null,
+            "wiki-id": 192,
+            "status": "Playable",
+            "date": "2026-03-12",
+            "thread": 207951,
+            "commit": "6f07e8453a8cb84ac400bd96f825751c9cf661c8",
+            "pr": 18336,
+            "network": 0
+        },
         "NPUB31840": {
             "title": "Odin Sphere Leifthrasir",
             "alternative-title": null,
@@ -30219,7 +30395,7 @@
             "network": 0
         },
         "NPJB90858": {
-            "title": "Odin Sphere Leifthrasir Trial",
+            "title": "Odin Sphere Leifthrasir Demo",
             "alternative-title": null,
             "wiki-id": 192,
             "status": "Playable",
@@ -30238,6 +30414,17 @@
             "thread": 173721,
             "commit": "258df80bf61ca1a27b3ae2fd92b8dbbf5d8d2354",
             "pr": 5789,
+            "network": 0
+        },
+        "BCED00084": {
+            "title": "Official PlayStation Magazine Issue 08: August 2007",
+            "alternative-title": null,
+            "wiki-id": 4749,
+            "status": "Playable",
+            "date": "2026-03-25",
+            "thread": 209191,
+            "commit": "9b6bc7c1b441a19000925ba79886dddaf6cb0cb7",
+            "pr": 18453,
             "network": 0
         },
         "NPEB00621": {
@@ -35641,6 +35828,17 @@
             "pr": 7464,
             "network": 0
         },
+        "BLES01472": {
+            "title": "Rugby League Live 2",
+            "alternative-title": null,
+            "wiki-id": 2260,
+            "status": "Playable",
+            "date": "2026-03-25",
+            "thread": 199196,
+            "commit": "a03d4f69f8a57e44e20adb6f0e33a38dd5479326",
+            "pr": 18445,
+            "network": 0
+        },
         "NPUB30559": {
             "title": "Rugby World Cup 2011",
             "alternative-title": null,
@@ -36321,6 +36519,17 @@
             "thread": 167219,
             "commit": "67f69bb4b3243a3e89c7fb0a89e5da8dc1c41d4c",
             "pr": 18416,
+            "network": 0
+        },
+        "BLJS10179": {
+            "title": "Sangoku Hime: Senkou no Taika - Akatsuki no Haryuu",
+            "alternative-title": null,
+            "wiki-id": 2283,
+            "status": "Playable",
+            "date": "2026-03-24",
+            "thread": 200047,
+            "commit": "2bcc27d581875025610f6f0ad4b34053cd5a470b",
+            "pr": 18447,
             "network": 0
         },
         "BLJM61078": {
@@ -39676,6 +39885,28 @@
             "thread": 200085,
             "commit": "3c747b377f8e7112cfe85ed3b2a8147a9946ca39",
             "pr": 17795,
+            "network": 0
+        },
+        "NPEB90229": {
+            "title": "Sonic & SEGA All-Stars Racing Demo",
+            "alternative-title": null,
+            "wiki-id": 1244,
+            "status": "Playable",
+            "date": "2026-03-22",
+            "thread": 176309,
+            "commit": "bc6e01c42280896a639932bb94e3f3eca9c11a04",
+            "pr": 18436,
+            "network": 0
+        },
+        "NPUB90275": {
+            "title": "Sonic & SEGA All-Stars Racing Demo",
+            "alternative-title": null,
+            "wiki-id": 1244,
+            "status": "Playable",
+            "date": "2026-03-22",
+            "thread": 205083,
+            "commit": "bc6e01c42280896a639932bb94e3f3eca9c11a04",
+            "pr": 18436,
             "network": 0
         },
         "NPEB00304": {
@@ -44551,39 +44782,6 @@
             "pr": 2196,
             "network": 0
         },
-        "BLES00142": {
-            "title": "The Simpsons Game",
-            "alternative-title": null,
-            "wiki-id": 2630,
-            "status": "Playable",
-            "date": "2022-04-25",
-            "thread": 177492,
-            "commit": "43d26fa6b6e10a93bc2a81d617ec761e278799c7",
-            "pr": 11864,
-            "network": 0
-        },
-        "BLES00146": {
-            "title": "The Simpsons Game",
-            "alternative-title": null,
-            "wiki-id": 2630,
-            "status": "Playable",
-            "date": "2022-04-25",
-            "thread": 203919,
-            "commit": "43d26fa6b6e10a93bc2a81d617ec761e278799c7",
-            "pr": 11864,
-            "network": 0
-        },
-        "BLUS30065": {
-            "title": "The Simpsons Game",
-            "alternative-title": null,
-            "wiki-id": 2630,
-            "status": "Playable",
-            "date": "2022-04-25",
-            "thread": 199300,
-            "commit": "43d26fa6b6e10a93bc2a81d617ec761e278799c7",
-            "pr": 11864,
-            "network": 0
-        },
         "NPEB90029": {
             "title": "The Simpsons Game Demo",
             "alternative-title": null,
@@ -45044,6 +45242,17 @@
             "thread": 179993,
             "commit": "df4fc947ecd37915cedc2a17ace5cc7c3962f423",
             "pr": 15258,
+            "network": 0
+        },
+        "NPUB31422": {
+            "title": "The Witch and the Hundred Knight",
+            "alternative-title": null,
+            "wiki-id": 2648,
+            "status": "Playable",
+            "date": "2026-03-25",
+            "thread": 203356,
+            "commit": "a03d4f69f8a57e44e20adb6f0e33a38dd5479326",
+            "pr": 18445,
             "network": 0
         },
         "NPEB01881": {
@@ -46311,6 +46520,28 @@
             "pr": 13374,
             "network": 0
         },
+        "BLES00695": {
+            "title": "Tornado Outbreak",
+            "alternative-title": null,
+            "wiki-id": 1184,
+            "status": "Playable",
+            "date": "2026-03-29",
+            "thread": 181404,
+            "commit": "51ea735cb5fab5f3ab0dda756f19a753aaa07451",
+            "pr": 18461,
+            "network": 0
+        },
+        "BLUS30371": {
+            "title": "Tornado Outbreak",
+            "alternative-title": null,
+            "wiki-id": 1184,
+            "status": "Playable",
+            "date": "2026-03-29",
+            "thread": 202958,
+            "commit": "51ea735cb5fab5f3ab0dda756f19a753aaa07451",
+            "pr": 18461,
+            "network": 0
+        },
         "BLJM61344": {
             "title": "Toukiden 2",
             "alternative-title": null,
@@ -46969,6 +47200,17 @@
             "thread": 197587,
             "commit": "3942a464fe6f09bd964b37f98e49f1d5af826886",
             "pr": 11401,
+            "network": 0
+        },
+        "BLUS30553": {
+            "title": "Truth or Lies",
+            "alternative-title": null,
+            "wiki-id": null,
+            "status": "Playable",
+            "date": "2026-03-31",
+            "thread": 209474,
+            "commit": "1c37f64a58583b2f80ad9bd12f928b49176b60fd",
+            "pr": 18486,
             "network": 0
         },
         "BLUS31171": {
@@ -48289,6 +48531,28 @@
             "thread": 165767,
             "commit": "92466165f60ea894253d9d6b7be834d84f496c78",
             "pr": 7331,
+            "network": 0
+        },
+        "NPEB00122": {
+            "title": "Wakeboarding HD",
+            "alternative-title": null,
+            "wiki-id": 3830,
+            "status": "Playable",
+            "date": "2026-03-23",
+            "thread": 198946,
+            "commit": "07f5b0aa5b8f0fc4e85522d5eb047e9c747a8b74",
+            "pr": 18444,
+            "network": 0
+        },
+        "NPUB30098": {
+            "title": "Wakeboarding HD",
+            "alternative-title": null,
+            "wiki-id": 3830,
+            "status": "Playable",
+            "date": "2026-03-23",
+            "thread": 184238,
+            "commit": "07f5b0aa5b8f0fc4e85522d5eb047e9c747a8b74",
+            "pr": 18444,
             "network": 0
         },
         "NPEB90234": {
@@ -50601,28 +50865,6 @@
             "pr": 11058,
             "network": 0
         },
-        "NPEB02234": {
-            "title": "Adventure Time: Finn and Jake Investigations Demo",
-            "alternative-title": null,
-            "wiki-id": 1018,
-            "status": "Ingame",
-            "date": "2023-01-06",
-            "thread": 205386,
-            "commit": "310fa7127d4e6aeaac85f9d4f9efb3635b5d9861",
-            "pr": 13150,
-            "network": 0
-        },
-        "NPUB31664": {
-            "title": "Adventure Time: Finn and Jake Investigations Demo",
-            "alternative-title": null,
-            "wiki-id": 1018,
-            "status": "Ingame",
-            "date": "2023-01-06",
-            "thread": 197850,
-            "commit": "310fa7127d4e6aeaac85f9d4f9efb3635b5d9861",
-            "pr": 13150,
-            "network": 0
-        },
         "BCES01335": {
             "title": "After Hours Atheletes",
             "alternative-title": null,
@@ -52449,17 +52691,6 @@
             "pr": 5682,
             "network": 0
         },
-        "BCJS30010": {
-            "title": "Boku no Natsuyasumi 3",
-            "alternative-title": null,
-            "wiki-id": 1339,
-            "status": "Ingame",
-            "date": "2018-05-14",
-            "thread": 179927,
-            "commit": "a46ef4f29ae3857747b2708d7d24a895701a6d50",
-            "pr": 4565,
-            "network": 0
-        },
         "BLES00817": {
             "title": "Brink",
             "alternative-title": null,
@@ -53527,28 +53758,6 @@
             "pr": 6407,
             "network": 0
         },
-        "NPEB01934": {
-            "title": "Child of Light",
-            "alternative-title": null,
-            "wiki-id": 653,
-            "status": "Ingame",
-            "date": "2022-03-17",
-            "thread": 197800,
-            "commit": "f3a325fe1af75aed7758b0ba8db9f4b032b3f044",
-            "pr": 11601,
-            "network": 0
-        },
-        "NPUB31430": {
-            "title": "Child of Light",
-            "alternative-title": null,
-            "wiki-id": 653,
-            "status": "Ingame",
-            "date": "2022-03-17",
-            "thread": 179199,
-            "commit": "f3a325fe1af75aed7758b0ba8db9f4b032b3f044",
-            "pr": 11601,
-            "network": 0
-        },
         "NPUB31526": {
             "title": "Chivalry: Medieval Warfare",
             "alternative-title": null,
@@ -53558,17 +53767,6 @@
             "thread": 200135,
             "commit": "127ad508b43e88a29d59072d385e83df89bc4d0c",
             "pr": 11757,
-            "network": 0
-        },
-        "NPUB31541": {
-            "title": "Class of Heroes 2G",
-            "alternative-title": null,
-            "wiki-id": 1394,
-            "status": "Ingame",
-            "date": "2018-05-06",
-            "thread": 195309,
-            "commit": "dca6f1f8634cbc5784b81c372964ea1afa4a844f",
-            "pr": 4490,
             "network": 0
         },
         "NPEB90067": {
@@ -54704,28 +54902,6 @@
             "pr": 15394,
             "network": 0
         },
-        "NPEB00828": {
-            "title": "Duke Nukem Forever",
-            "alternative-title": null,
-            "wiki-id": 1505,
-            "status": "Ingame",
-            "date": "2020-06-01",
-            "thread": 178678,
-            "commit": "66d13da2acfa288d2413d179fcb56a1a0adcf2c8",
-            "pr": 8320,
-            "network": 0
-        },
-        "NPUB30655": {
-            "title": "Duke Nukem Forever",
-            "alternative-title": null,
-            "wiki-id": 1505,
-            "status": "Ingame",
-            "date": "2020-06-01",
-            "thread": 201902,
-            "commit": "66d13da2acfa288d2413d179fcb56a1a0adcf2c8",
-            "pr": 8320,
-            "network": 0
-        },
         "NPEB90326": {
             "title": "Dungeon Siege III Demo",
             "alternative-title": null,
@@ -54847,17 +55023,6 @@
             "pr": 12230,
             "network": 0
         },
-        "NPEB01970": {
-            "title": "DYNASTY WARRIORS 8 Xtreme Legends",
-            "alternative-title": null,
-            "wiki-id": null,
-            "status": "Ingame",
-            "date": "2026-03-08",
-            "thread": 209448,
-            "commit": "928856567670d123b88b458f450bae0051deecb7",
-            "pr": 18261,
-            "network": 0
-        },
         "BLUS31402": {
             "title": "Dynasty Warriors 8: Xtreme Legends",
             "alternative-title": "Shin Sangoku Musou 7 with Moushouden",
@@ -54869,15 +55034,26 @@
             "pr": 3728,
             "network": 0
         },
+        "NPEB01970": {
+            "title": "Dynasty Warriors 8: Xtreme Legends",
+            "alternative-title": "Shin Sangoku Musou 7 with Moushouden",
+            "wiki-id": 680,
+            "status": "Ingame",
+            "date": "2026-03-08",
+            "thread": 209448,
+            "commit": "928856567670d123b88b458f450bae0051deecb7",
+            "pr": 18261,
+            "network": 0
+        },
         "NPJB00511": {
             "title": "Dynasty Warriors 8: Xtreme Legends",
             "alternative-title": "Shin Sangoku Musou 7 with Moushouden",
             "wiki-id": 680,
             "status": "Ingame",
-            "date": "2024-01-29",
+            "date": "2026-03-08",
             "thread": 207071,
-            "commit": "af8d308a69950137da756415e7fa83dc70da5d6c",
-            "pr": 15121,
+            "commit": "928856567670d123b88b458f450bae0051deecb7",
+            "pr": 18261,
             "network": 0
         },
         "BLES00965": {
@@ -57212,17 +57388,6 @@
             "pr": null,
             "network": 0
         },
-        "NPUB31191": {
-            "title": "Hunter's Trophy 2: America",
-            "alternative-title": null,
-            "wiki-id": 1691,
-            "status": "Ingame",
-            "date": "2018-08-24",
-            "thread": 199463,
-            "commit": "f3d3a1a4a5d7d32f4fbcf2057d7272ea40beeb2b",
-            "pr": 5013,
-            "network": 0
-        },
         "NPEB01308": {
             "title": "Hunter's Trophy 2: Australia",
             "alternative-title": null,
@@ -57828,28 +57993,6 @@
             "pr": 11358,
             "network": 0
         },
-        "BLJM60469": {
-            "title": "Jikkyou Powerful Pro Yakyuu 2012",
-            "alternative-title": null,
-            "wiki-id": 1730,
-            "status": "Ingame",
-            "date": "2018-09-13",
-            "thread": 199536,
-            "commit": "d24f9194f7fe7866575898684ec4b1bed60e1075",
-            "pr": 5123,
-            "network": 0
-        },
-        "BLJM61083": {
-            "title": "Jikkyou Powerful Pro Yakyuu 2013",
-            "alternative-title": null,
-            "wiki-id": 1731,
-            "status": "Ingame",
-            "date": "2018-09-09",
-            "thread": 199519,
-            "commit": "5237779136c2e7ee5ce0f94e2351d3b9ddc37c0e",
-            "pr": 5102,
-            "network": 0
-        },
         "BLES01210": {
             "title": "Jonah Lomu Rugby Challenge",
             "alternative-title": null,
@@ -58035,17 +58178,6 @@
             "thread": 197427,
             "commit": "e54438d3a7f07fed2366c1de7eeb286443787fe3",
             "pr": 7119,
-            "network": 0
-        },
-        "BLES01522": {
-            "title": "Just Dance 3",
-            "alternative-title": null,
-            "wiki-id": 1748,
-            "status": "Ingame",
-            "date": "2022-12-28",
-            "thread": 187428,
-            "commit": "9d432187aab3d22ba25c825267279e36ded0b259",
-            "pr": 13136,
             "network": 0
         },
         "NPUB30687": {
@@ -59643,6 +59775,28 @@
             "pr": 13966,
             "network": 0
         },
+        "NPEB00473": {
+            "title": "Mercury HG",
+            "alternative-title": null,
+            "wiki-id": 1889,
+            "status": "Ingame",
+            "date": "2026-04-05",
+            "thread": 166452,
+            "commit": "ce12c29441a3c1755610d427bb23edbbaa169641",
+            "pr": 18519,
+            "network": 0
+        },
+        "NPUB30419": {
+            "title": "Mercury HG",
+            "alternative-title": null,
+            "wiki-id": 1889,
+            "status": "Ingame",
+            "date": "2026-04-05",
+            "thread": 179103,
+            "commit": "ce12c29441a3c1755610d427bb23edbbaa169641",
+            "pr": 18519,
+            "network": 0
+        },
         "NPEA00030": {
             "title": "Mesmerize",
             "alternative-title": null,
@@ -60110,10 +60264,10 @@
             "alternative-title": null,
             "wiki-id": 1910,
             "status": "Ingame",
-            "date": "2019-07-08",
+            "date": "2026-04-08",
             "thread": 179874,
-            "commit": "6d65d3424f5a58fa5bdfa21a0ba7cb9f7ba8a36b",
-            "pr": 6167,
+            "commit": "beac01d5d1bb4ccc67d8f3ab3c86e9cd374c4acf",
+            "pr": 18529,
             "network": 0
         },
         "BCUS98180": {
@@ -60290,17 +60444,6 @@
             "thread": 206696,
             "commit": "7144e92ce2ca8aea17f8661ff7c33e920c5697fd",
             "pr": 14578,
-            "network": 0
-        },
-        "BLJS10163": {
-            "title": "Moe Moe Daisensou Gendaiban Plus Plus",
-            "alternative-title": null,
-            "wiki-id": 1928,
-            "status": "Ingame",
-            "date": "2022-06-10",
-            "thread": 163196,
-            "commit": "2a1e3b2b774231424ecd32f30599a338772ec515",
-            "pr": 12186,
             "network": 0
         },
         "BLES00255": {
@@ -60611,17 +60754,6 @@
             "pr": 13311,
             "network": 0
         },
-        "BLUS30321": {
-            "title": "MX vs ATV Reflex",
-            "alternative-title": null,
-            "wiki-id": 1977,
-            "status": "Ingame",
-            "date": "2026-03-13",
-            "thread": 209456,
-            "commit": "6f07e8453a8cb84ac400bd96f825751c9cf661c8",
-            "pr": 18336,
-            "network": 0
-        },
         "BLES01192": {
             "title": "MX vs. ATV Alive",
             "alternative-title": null,
@@ -60649,10 +60781,21 @@
             "alternative-title": null,
             "wiki-id": 1977,
             "status": "Ingame",
-            "date": "2018-05-21",
+            "date": "2026-03-13",
             "thread": 197842,
-            "commit": "6fd402bcf82903a210d5e5da22d5fc0b03464ba4",
-            "pr": 4622,
+            "commit": "6f07e8453a8cb84ac400bd96f825751c9cf661c8",
+            "pr": 18336,
+            "network": 0
+        },
+        "BLUS30321": {
+            "title": "MX vs. ATV Reflex",
+            "alternative-title": null,
+            "wiki-id": 1977,
+            "status": "Ingame",
+            "date": "2026-03-13",
+            "thread": 209456,
+            "commit": "6f07e8453a8cb84ac400bd96f825751c9cf661c8",
+            "pr": 18336,
             "network": 0
         },
         "NPUB31530": {
@@ -60719,17 +60862,6 @@
             "thread": 199471,
             "commit": "c5026f7109d0a34391e4327539acc7b8247ff07a",
             "pr": 5453,
-            "network": 0
-        },
-        "NPJA00020": {
-            "title": "My Summer Vacation 3 (T-Shirt Actor)",
-            "alternative-title": null,
-            "wiki-id": 1984,
-            "status": "Ingame",
-            "date": "2019-02-15",
-            "thread": 190671,
-            "commit": "d4888a49738d055122294eed44d8bc6a98bdb30c",
-            "pr": 5542,
             "network": 0
         },
         "NPEB90305": {
@@ -61707,17 +61839,6 @@
             "status": "Ingame",
             "date": "2025-09-30",
             "thread": 209190,
-            "commit": "5b3c70fb18028007cd58433339039033de50b2ac",
-            "pr": 17537,
-            "network": 0
-        },
-        "BCED00084": {
-            "title": "Official PlayStation Magazine Issue 08: August 2007",
-            "alternative-title": null,
-            "wiki-id": 4749,
-            "status": "Ingame",
-            "date": "2025-09-30",
-            "thread": 209191,
             "commit": "5b3c70fb18028007cd58433339039033de50b2ac",
             "pr": 17537,
             "network": 0
@@ -64109,17 +64230,6 @@
             "pr": 7758,
             "network": 0
         },
-        "BLES01472": {
-            "title": "Rugby League Live 2",
-            "alternative-title": null,
-            "wiki-id": 2260,
-            "status": "Ingame",
-            "date": "2019-08-01",
-            "thread": 199196,
-            "commit": "f0bd0b5a7c25cd33194c996f2a5b9c1cb2f687dd",
-            "pr": 6285,
-            "network": 0
-        },
         "NPEB90344": {
             "title": "Rugby World Cup 2011 Demo",
             "alternative-title": null,
@@ -64492,17 +64602,6 @@
             "thread": 202342,
             "commit": "264df11132f222ba7c2dcdada79909ece21f1316",
             "pr": 8980,
-            "network": 0
-        },
-        "BLJS10179": {
-            "title": "Sangoku Hime: Senkou no Taika - Akatsuki no Haryuu",
-            "alternative-title": null,
-            "wiki-id": 2283,
-            "status": "Ingame",
-            "date": "2019-10-01",
-            "thread": 200047,
-            "commit": "f83385926b6448de8c240255d2e4d38b85116d96",
-            "pr": 6666,
             "network": 0
         },
         "BLJM60389": {
@@ -65042,28 +65141,6 @@
             "thread": 188342,
             "commit": "3c747b377f8e7112cfe85ed3b2a8147a9946ca39",
             "pr": 17795,
-            "network": 0
-        },
-        "NPEB90229": {
-            "title": "Sonic & SEGA All-Stars Racing Demo",
-            "alternative-title": null,
-            "wiki-id": 1244,
-            "status": "Ingame",
-            "date": "2022-11-14",
-            "thread": 176309,
-            "commit": "324b1039cf18828910521c813352e0ecacad8b96",
-            "pr": 12932,
-            "network": 0
-        },
-        "NPUB90275": {
-            "title": "Sonic & SEGA All-Stars Racing Demo",
-            "alternative-title": null,
-            "wiki-id": 1244,
-            "status": "Ingame",
-            "date": "2022-11-14",
-            "thread": 205083,
-            "commit": "324b1039cf18828910521c813352e0ecacad8b96",
-            "pr": 12932,
             "network": 0
         },
         "BLES01236": {
@@ -66980,6 +67057,39 @@
             "pr": 16811,
             "network": 0
         },
+        "BLES00142": {
+            "title": "The Simpsons Game",
+            "alternative-title": null,
+            "wiki-id": 2630,
+            "status": "Ingame",
+            "date": "2026-03-24",
+            "thread": 177492,
+            "commit": "2bcc27d581875025610f6f0ad4b34053cd5a470b",
+            "pr": 18447,
+            "network": 0
+        },
+        "BLES00146": {
+            "title": "The Simpsons Game",
+            "alternative-title": null,
+            "wiki-id": 2630,
+            "status": "Ingame",
+            "date": "2026-03-24",
+            "thread": 203919,
+            "commit": "2bcc27d581875025610f6f0ad4b34053cd5a470b",
+            "pr": 18447,
+            "network": 0
+        },
+        "BLUS30065": {
+            "title": "The Simpsons Game",
+            "alternative-title": null,
+            "wiki-id": 2630,
+            "status": "Ingame",
+            "date": "2026-03-24",
+            "thread": 199300,
+            "commit": "2bcc27d581875025610f6f0ad4b34053cd5a470b",
+            "pr": 18447,
+            "network": 0
+        },
         "BLES01368": {
             "title": "The Sims 3: Pets",
             "alternative-title": null,
@@ -67044,17 +67154,6 @@
             "thread": 201393,
             "commit": "c5748983f6ce0fa83424a56486624ab9381e726d",
             "pr": 11378,
-            "network": 0
-        },
-        "NPUB31422": {
-            "title": "The Witch and the Hundred Knight",
-            "alternative-title": null,
-            "wiki-id": 2648,
-            "status": "Ingame",
-            "date": "2021-08-23",
-            "thread": 203356,
-            "commit": "f44e50b9cd8689067dd309599d7ee90a780cfd56",
-            "pr": 10752,
             "network": 0
         },
         "BLES01025": {
@@ -67759,28 +67858,6 @@
             "thread": 173969,
             "commit": "a09fd80905a55c39ead8ff1c64d9761a313e5ef7",
             "pr": 11232,
-            "network": 0
-        },
-        "BLES00695": {
-            "title": "Tornado Outbreak",
-            "alternative-title": null,
-            "wiki-id": 1184,
-            "status": "Ingame",
-            "date": "2021-10-17",
-            "thread": 181404,
-            "commit": "12efd29121173ab305e1cc578079860faf8fb6b2",
-            "pr": 11020,
-            "network": 0
-        },
-        "BLUS30371": {
-            "title": "Tornado Outbreak",
-            "alternative-title": null,
-            "wiki-id": 1184,
-            "status": "Ingame",
-            "date": "2021-10-17",
-            "thread": 202958,
-            "commit": "12efd29121173ab305e1cc578079860faf8fb6b2",
-            "pr": 11020,
             "network": 0
         },
         "BCAS20087": {
@@ -68584,28 +68661,6 @@
             "thread": 204620,
             "commit": "42627946689d20869cbd195a716d4070eb57d166",
             "pr": 10522,
-            "network": 0
-        },
-        "NPEB00122": {
-            "title": "Wakeboarding HD",
-            "alternative-title": null,
-            "wiki-id": 3830,
-            "status": "Ingame",
-            "date": "2018-06-22",
-            "thread": 198946,
-            "commit": "3e433ef05c12a9b3917d9e6d68d79b21fc3c6386",
-            "pr": 4791,
-            "network": 0
-        },
-        "NPUB30098": {
-            "title": "Wakeboarding HD",
-            "alternative-title": null,
-            "wiki-id": 3830,
-            "status": "Ingame",
-            "date": "2018-06-22",
-            "thread": 184238,
-            "commit": "3e433ef05c12a9b3917d9e6d68d79b21fc3c6386",
-            "pr": 4791,
             "network": 0
         },
         "NPEB00648": {
@@ -69471,10 +69526,10 @@
             "alternative-title": null,
             "wiki-id": 4475,
             "status": "Ingame",
-            "date": "2018-09-01",
+            "date": "2026-03-26",
             "thread": 197922,
-            "commit": "bf89b709cb14991f0287ba6e0c5393350cda8f28",
-            "pr": 5045,
+            "commit": "9b6bc7c1b441a19000925ba79886dddaf6cb0cb7",
+            "pr": 18453,
             "network": 0
         },
         "BLES01080": {
@@ -71259,6 +71314,17 @@
             "pr": 18415,
             "network": 0
         },
+        "NPUB90125": {
+            "title": "NFL Head Coach 09 Demo",
+            "alternative-title": null,
+            "wiki-id": 2043,
+            "status": "Intro",
+            "date": "2026-04-03",
+            "thread": 200024,
+            "commit": "02eb5492088564cb5f4ba01f422b40bb1978ab36",
+            "pr": 18500,
+            "network": 0
+        },
         "NPEB90482": {
             "title": "Oddworld: Stranger's Wrath Demo",
             "alternative-title": null,
@@ -71279,17 +71345,6 @@
             "thread": 198513,
             "commit": "9524211b9adc7459fa3d770623615bb3503bbff9",
             "pr": 17522,
-            "network": 0
-        },
-        "NPJB00681": {
-            "title": "Odin Sphere Leifthrasir",
-            "alternative-title": null,
-            "wiki-id": 192,
-            "status": "Intro",
-            "date": "2024-05-23",
-            "thread": 207951,
-            "commit": "e94928318e4ea0909df4956b4bc8f4d47740c717",
-            "pr": 15618,
             "network": 0
         },
         "NPJB00304": {
@@ -72183,6 +72238,17 @@
             "pr": 13150,
             "network": 0
         },
+        "BLES00600": {
+            "title": "Winter Sports 2010",
+            "alternative-title": null,
+            "wiki-id": 3808,
+            "status": "Intro",
+            "date": "2026-04-07",
+            "thread": 182648,
+            "commit": "beac01d5d1bb4ccc67d8f3ab3c86e9cd374c4acf",
+            "pr": 18529,
+            "network": 0
+        },
         "BCES01866": {
             "title": "Wonderbook: Book of Potions",
             "alternative-title": null,
@@ -72337,39 +72403,6 @@
             "pr": 13261,
             "network": 1
         },
-        "NPEB00473": {
-            "title": "Mercury HG",
-            "alternative-title": null,
-            "wiki-id": 1889,
-            "status": "Loadable",
-            "date": "2026-01-25",
-            "thread": 166452,
-            "commit": "f883718b238e6897635201a67ca11537ce197510",
-            "pr": 18104,
-            "network": 0
-        },
-        "NPUB30419": {
-            "title": "Mercury HG",
-            "alternative-title": null,
-            "wiki-id": 1889,
-            "status": "Loadable",
-            "date": "2026-01-25",
-            "thread": 179103,
-            "commit": "f883718b238e6897635201a67ca11537ce197510",
-            "pr": 18104,
-            "network": 0
-        },
-        "NPUB90125": {
-            "title": "NFL Head Coach 09 Demo",
-            "alternative-title": null,
-            "wiki-id": 2043,
-            "status": "Loadable",
-            "date": "2026-01-25",
-            "thread": 200024,
-            "commit": "f883718b238e6897635201a67ca11537ce197510",
-            "pr": 18104,
-            "network": 0
-        },
         "NPJB00572": {
             "title": "Shin Sangoku Musou Online Z",
             "alternative-title": null,
@@ -72402,17 +72435,6 @@
             "commit": "de5379a69f8a4b0ff2be995dc118b63cc6bcbfed",
             "pr": 5285,
             "network": 1
-        },
-        "BLES00600": {
-            "title": "Winter Sports 2010",
-            "alternative-title": null,
-            "wiki-id": 3808,
-            "status": "Loadable",
-            "date": "2025-04-07",
-            "thread": 182648,
-            "commit": "6f98b8c5aea54b3ad3bab303fb1559882a269661",
-            "pr": 16988,
-            "network": 0
         }
     }
 }
