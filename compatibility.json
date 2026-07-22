@@ -22001,6 +22001,17 @@
             "pr": 7888,
             "network": 0
         },
+        "BCES01743": {
+            "title": "Killzone",
+            "alternative-title": null,
+            "wiki-id": 1053,
+            "status": "Playable",
+            "date": "2021-08-06",
+            "thread": 178574,
+            "commit": "e2e1cf02f4329c78b885c359777bf4de46139da6",
+            "pr": 17934,
+            "network": 0
+        },
         "NPEA00418": {
             "title": "Killzone",
             "alternative-title": null,
@@ -34244,6 +34255,17 @@
             "pr": null,
             "network": 0
         },
+        "BLJS10012": {
+            "title": "Railfan: Taiwan High Speed Rail",
+            "alternative-title": null,
+            "wiki-id": 2165,
+            "status": "Playable",
+            "date": "2026-07-17",
+            "thread": 209598,
+            "commit": "cdbc43712bac68cd174f4c7305bfcd41d04db51c",
+            "pr": 19034,
+            "network": 0
+        },
         "NPEA00394": {
             "title": "Rain",
             "alternative-title": "Lost in the Rain",
@@ -45429,6 +45451,39 @@
             "thread": 206380,
             "commit": "e2bced978e21d4278cdf709fed35b8923a97ef90",
             "pr": 14006,
+            "network": 0
+        },
+        "BLES00153": {
+            "title": "The Orange Box",
+            "alternative-title": null,
+            "wiki-id": 2622,
+            "status": "Playable",
+            "date": "2026-07-16",
+            "thread": 196916,
+            "commit": "cdbc43712bac68cd174f4c7305bfcd41d04db51c",
+            "pr": 19034,
+            "network": 0
+        },
+        "BLES00172": {
+            "title": "The Orange Box",
+            "alternative-title": null,
+            "wiki-id": 2622,
+            "status": "Playable",
+            "date": "2026-07-16",
+            "thread": 200540,
+            "commit": "cdbc43712bac68cd174f4c7305bfcd41d04db51c",
+            "pr": 19034,
+            "network": 0
+        },
+        "BLUS30055": {
+            "title": "The Orange Box",
+            "alternative-title": null,
+            "wiki-id": 2622,
+            "status": "Playable",
+            "date": "2026-07-16",
+            "thread": 181310,
+            "commit": "cdbc43712bac68cd174f4c7305bfcd41d04db51c",
+            "pr": 19034,
             "network": 0
         },
         "NPUB30167": {
@@ -58884,17 +58939,6 @@
             "pr": 4354,
             "network": 0
         },
-        "BCES01743": {
-            "title": "Killzone",
-            "alternative-title": null,
-            "wiki-id": 1053,
-            "status": "Ingame",
-            "date": "2026-05-08",
-            "thread": 178574,
-            "commit": "e2e1cf02f4329c78b885c359777bf4de46139da6",
-            "pr": 17934,
-            "network": 0
-        },
         "BCAS20066": {
             "title": "Killzone 2",
             "alternative-title": null,
@@ -67209,39 +67253,6 @@
             "thread": 203543,
             "commit": "9f35c3f52dec6c36eaf4aec6b5b9736e607f7074",
             "pr": 11165,
-            "network": 0
-        },
-        "BLES00153": {
-            "title": "The Orange Box",
-            "alternative-title": null,
-            "wiki-id": 2622,
-            "status": "Ingame",
-            "date": "2025-03-08",
-            "thread": 196916,
-            "commit": "26495a845593b211bd2159e202f566dc249a56fa",
-            "pr": 16797,
-            "network": 0
-        },
-        "BLES00172": {
-            "title": "The Orange Box",
-            "alternative-title": null,
-            "wiki-id": 2622,
-            "status": "Ingame",
-            "date": "2025-03-08",
-            "thread": 200540,
-            "commit": "26495a845593b211bd2159e202f566dc249a56fa",
-            "pr": 16797,
-            "network": 0
-        },
-        "BLUS30055": {
-            "title": "The Orange Box",
-            "alternative-title": null,
-            "wiki-id": 2622,
-            "status": "Ingame",
-            "date": "2025-03-08",
-            "thread": 181310,
-            "commit": "26495a845593b211bd2159e202f566dc249a56fa",
-            "pr": 16797,
             "network": 0
         },
         "BLES00743": {
