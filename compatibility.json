@@ -914,6 +914,17 @@
             "pr": null,
             "network": 0
         },
+        "BCET00026": {
+            "title": "After Hours Athletes Beta",
+            "alternative-title": null,
+            "wiki-id": 3422,
+            "status": "Playable",
+            "date": "2026-08-04",
+            "thread": 207239,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
         "BLES00594": {
             "title": "Agarest: Generations of War",
             "alternative-title": "Record of Agarest War",
@@ -2023,6 +2034,28 @@
             "thread": 177133,
             "commit": "45c865ede831007438c32de9d4da9fc0ae5e64e6",
             "pr": 14938,
+            "network": 0
+        },
+        "BLES01102": {
+            "title": "Ar Tonelico Qoga: Knell of Ar Ciel",
+            "alternative-title": null,
+            "wiki-id": 1273,
+            "status": "Playable",
+            "date": "2026-07-19",
+            "thread": 156933,
+            "commit": "357b7d4462c2e663868188add57f0d9cbff3d5e0",
+            "pr": 19055,
+            "network": 0
+        },
+        "BLUS30639": {
+            "title": "Ar Tonelico Qoga: Knell of Ar Ciel",
+            "alternative-title": null,
+            "wiki-id": 1273,
+            "status": "Playable",
+            "date": "2026-07-19",
+            "thread": 177360,
+            "commit": "357b7d4462c2e663868188add57f0d9cbff3d5e0",
+            "pr": 19055,
             "network": 0
         },
         "BLJS10224": {
@@ -3662,6 +3695,28 @@
             "thread": 163778,
             "commit": "d238791b7d909cf13efff905ed8e7872fe9dbeac",
             "pr": 4081,
+            "network": 0
+        },
+        "NPEA00282": {
+            "title": "Beat Sketcher",
+            "alternative-title": null,
+            "wiki-id": 1306,
+            "status": "Playable",
+            "date": "2026-08-03",
+            "thread": 197828,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
+        "BCAS20144": {
+            "title": "Beat Sketcher",
+            "alternative-title": null,
+            "wiki-id": 1306,
+            "status": "Playable",
+            "date": "2026-08-04",
+            "thread": 206530,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
             "network": 0
         },
         "NPUB31227": {
@@ -8427,6 +8482,28 @@
             "pr": 4424,
             "network": 0
         },
+        "BLES01233": {
+            "title": "Dance on Broadway",
+            "alternative-title": null,
+            "wiki-id": 1424,
+            "status": "Playable",
+            "date": "2026-08-04",
+            "thread": 185774,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
+        "BLUS30734": {
+            "title": "Dance on Broadway",
+            "alternative-title": null,
+            "wiki-id": 1424,
+            "status": "Playable",
+            "date": "2026-08-04",
+            "thread": 173877,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
         "BLES01266": {
             "title": "Dance! It's Your Stage",
             "alternative-title": null,
@@ -12123,6 +12200,39 @@
             "pr": 11728,
             "network": 0
         },
+        "NPEB90439": {
+            "title": "Dragon's Dogma Adventure Demo",
+            "alternative-title": null,
+            "wiki-id": 1495,
+            "status": "Playable",
+            "date": "2026-07-30",
+            "thread": 205655,
+            "commit": "cf9133abedd619efb16715f38a0efe1f92fb92b6",
+            "pr": 19091,
+            "network": 0
+        },
+        "NPJB90524": {
+            "title": "Dragon's Dogma Adventure Demo",
+            "alternative-title": null,
+            "wiki-id": 1495,
+            "status": "Playable",
+            "date": "2026-07-30",
+            "thread": 205654,
+            "commit": "cf9133abedd619efb16715f38a0efe1f92fb92b6",
+            "pr": 19091,
+            "network": 0
+        },
+        "NPUB90813": {
+            "title": "Dragon's Dogma Adventure Demo",
+            "alternative-title": null,
+            "wiki-id": 1495,
+            "status": "Playable",
+            "date": "2026-07-30",
+            "thread": 205647,
+            "commit": "cf9133abedd619efb16715f38a0efe1f92fb92b6",
+            "pr": 19091,
+            "network": 0
+        },
         "NPEB90366": {
             "title": "Dragon's Dogma Demo",
             "alternative-title": null,
@@ -12172,10 +12282,10 @@
             "alternative-title": null,
             "wiki-id": 1495,
             "status": "Playable",
-            "date": "2022-02-24",
+            "date": "2026-08-01",
             "thread": 199049,
-            "commit": "fd6c33980b14adf8379d29e5393731ecda02c9c9",
-            "pr": 11502,
+            "commit": "5295f3ac18667050f59b0faa34f4d319f3c86413",
+            "pr": 19122,
             "network": 0
         },
         "NPUB31117": {
@@ -12183,10 +12293,21 @@
             "alternative-title": null,
             "wiki-id": 1495,
             "status": "Playable",
-            "date": "2022-02-24",
+            "date": "2026-08-01",
             "thread": 198794,
-            "commit": "fd6c33980b14adf8379d29e5393731ecda02c9c9",
-            "pr": 11502,
+            "commit": "5295f3ac18667050f59b0faa34f4d319f3c86413",
+            "pr": 19122,
+            "network": 0
+        },
+        "NPJB90581": {
+            "title": "Dragon's Dogma: Dark Arisen Adventure Demo",
+            "alternative-title": null,
+            "wiki-id": 1495,
+            "status": "Playable",
+            "date": "2026-07-30",
+            "thread": 205838,
+            "commit": "cf9133abedd619efb16715f38a0efe1f92fb92b6",
+            "pr": 19091,
             "network": 0
         },
         "NPUB30217": {
@@ -14587,6 +14708,28 @@
             "pr": 18192,
             "network": 0
         },
+        "BLES01796": {
+            "title": "Farming Simulator",
+            "alternative-title": null,
+            "wiki-id": 1555,
+            "status": "Playable",
+            "date": "2026-07-28",
+            "thread": 167245,
+            "commit": "0d999c08c410357cfc8df30f46f853d39d915b0b",
+            "pr": 19099,
+            "network": 0
+        },
+        "NPEB01332": {
+            "title": "Farming Simulator",
+            "alternative-title": null,
+            "wiki-id": 1555,
+            "status": "Playable",
+            "date": "2026-07-29",
+            "thread": 205437,
+            "commit": "cf9133abedd619efb16715f38a0efe1f92fb92b6",
+            "pr": 19091,
+            "network": 0
+        },
         "BLES02108": {
             "title": "Farming Simulator 15",
             "alternative-title": null,
@@ -14970,6 +15113,50 @@
             "thread": 198143,
             "commit": "bcbe324534067eff05a462115cfd5ae518133e4d",
             "pr": 7464,
+            "network": 0
+        },
+        "NPEB90178": {
+            "title": "FIFA 10 Demo",
+            "alternative-title": null,
+            "wiki-id": 1564,
+            "status": "Playable",
+            "date": "2026-07-28",
+            "thread": 205504,
+            "commit": "0d999c08c410357cfc8df30f46f853d39d915b0b",
+            "pr": 19099,
+            "network": 0
+        },
+        "NPHB00131": {
+            "title": "FIFA 10 Demo",
+            "alternative-title": null,
+            "wiki-id": 1564,
+            "status": "Playable",
+            "date": "2026-07-28",
+            "thread": 205896,
+            "commit": "0d999c08c410357cfc8df30f46f853d39d915b0b",
+            "pr": 19099,
+            "network": 0
+        },
+        "NPJB90205": {
+            "title": "FIFA 10 Demo",
+            "alternative-title": null,
+            "wiki-id": 1564,
+            "status": "Playable",
+            "date": "2026-07-28",
+            "thread": 205790,
+            "commit": "0d999c08c410357cfc8df30f46f853d39d915b0b",
+            "pr": 19099,
+            "network": 0
+        },
+        "NPUB90288": {
+            "title": "FIFA 10 Demo",
+            "alternative-title": null,
+            "wiki-id": 1564,
+            "status": "Playable",
+            "date": "2026-07-28",
+            "thread": 199902,
+            "commit": "0d999c08c410357cfc8df30f46f853d39d915b0b",
+            "pr": 19099,
             "network": 0
         },
         "BLES01059": {
@@ -15542,6 +15729,28 @@
             "thread": 197290,
             "commit": "c860aa2107dd1c4753cd1f56e77446f209833482",
             "pr": 18735,
+            "network": 0
+        },
+        "NPEB01391": {
+            "title": "Final Fantasy X/X-2 HD Remaster",
+            "alternative-title": null,
+            "wiki-id": 1174,
+            "status": "Playable",
+            "date": "2026-07-27",
+            "thread": 176694,
+            "commit": "24fbafdb1dab445926e15db4667f33c04ea9bc45",
+            "pr": 16807,
+            "network": 0
+        },
+        "NPUB31247": {
+            "title": "Final Fantasy X/X-2 HD Remaster",
+            "alternative-title": null,
+            "wiki-id": 1174,
+            "status": "Playable",
+            "date": "2026-07-27",
+            "thread": 185041,
+            "commit": "24fbafdb1dab445926e15db4667f33c04ea9bc45",
+            "pr": 16807,
             "network": 0
         },
         "NPEB90359": {
@@ -22166,6 +22375,17 @@
             "pr": 14086,
             "network": 0
         },
+        "NPEA00368": {
+            "title": "Kite Fight",
+            "alternative-title": null,
+            "wiki-id": 1766,
+            "status": "Playable",
+            "date": "2026-08-04",
+            "thread": 177123,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
         "BLES01001": {
             "title": "Knights Contract",
             "alternative-title": null,
@@ -22384,6 +22604,61 @@
             "thread": 197623,
             "commit": "f2820b75db9be2f267e41fe957e718728f732721",
             "pr": 18988,
+            "network": 0
+        },
+        "NPEA90064": {
+            "title": "Kung Fu Rider Demo",
+            "alternative-title": null,
+            "wiki-id": 1773,
+            "status": "Playable",
+            "date": "2026-08-03",
+            "thread": 198502,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
+        "NPJA90140": {
+            "title": "Kung Fu Rider Demo",
+            "alternative-title": null,
+            "wiki-id": 1773,
+            "status": "Playable",
+            "date": "2026-08-03",
+            "thread": 205562,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
+        "NPUA70102": {
+            "title": "Kung Fu Rider Demo",
+            "alternative-title": null,
+            "wiki-id": 1773,
+            "status": "Playable",
+            "date": "2026-08-03",
+            "thread": 198503,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
+        "NPEB90307": {
+            "title": "Kung-Fu Live Demo",
+            "alternative-title": null,
+            "wiki-id": 3784,
+            "status": "Playable",
+            "date": "2026-08-03",
+            "thread": 205373,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
+        "NPUB90527": {
+            "title": "Kung-Fu Live Demo",
+            "alternative-title": null,
+            "wiki-id": 3784,
+            "status": "Playable",
+            "date": "2026-08-03",
+            "thread": 208977,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
             "network": 0
         },
         "BLJM60322": {
@@ -23616,6 +23891,39 @@
             "thread": 202819,
             "commit": "dc2a1e270ad72af4c0852183d08d342d2fc96dc0",
             "pr": 9739,
+            "network": 0
+        },
+        "NPEB02197": {
+            "title": "Life Is Strange",
+            "alternative-title": null,
+            "wiki-id": 1078,
+            "status": "Playable",
+            "date": "2026-07-20",
+            "thread": 176245,
+            "commit": "357b7d4462c2e663868188add57f0d9cbff3d5e0",
+            "pr": 19055,
+            "network": 0
+        },
+        "NPJB00789": {
+            "title": "Life Is Strange",
+            "alternative-title": null,
+            "wiki-id": 1078,
+            "status": "Playable",
+            "date": "2026-07-20",
+            "thread": 200525,
+            "commit": "357b7d4462c2e663868188add57f0d9cbff3d5e0",
+            "pr": 19055,
+            "network": 0
+        },
+        "NPUB31636": {
+            "title": "Life Is Strange",
+            "alternative-title": null,
+            "wiki-id": 1078,
+            "status": "Playable",
+            "date": "2026-07-20",
+            "thread": 198335,
+            "commit": "357b7d4462c2e663868188add57f0d9cbff3d5e0",
+            "pr": 19055,
             "network": 0
         },
         "NPEB00564": {
@@ -27600,6 +27908,28 @@
             "pr": 14461,
             "network": 0
         },
+        "NPEA90107": {
+            "title": "Move Fitness Demo",
+            "alternative-title": null,
+            "wiki-id": 1961,
+            "status": "Playable",
+            "date": "2026-08-04",
+            "thread": 205422,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
+        "NPHA80186": {
+            "title": "Move Fitness Demo",
+            "alternative-title": null,
+            "wiki-id": 1961,
+            "status": "Playable",
+            "date": "2026-08-04",
+            "thread": 206400,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
         "BCES01498": {
             "title": "Move Street Cricket",
             "alternative-title": null,
@@ -30405,6 +30735,39 @@
             "pr": 4364,
             "network": 0
         },
+        "BLAS50160": {
+            "title": "Ninja Gaiden Sigma 2",
+            "alternative-title": null,
+            "wiki-id": 2060,
+            "status": "Playable",
+            "date": "2026-07-20",
+            "thread": 163234,
+            "commit": "357b7d4462c2e663868188add57f0d9cbff3d5e0",
+            "pr": 19055,
+            "network": 0
+        },
+        "BLES00736": {
+            "title": "Ninja Gaiden Sigma 2",
+            "alternative-title": null,
+            "wiki-id": 2060,
+            "status": "Playable",
+            "date": "2026-07-20",
+            "thread": 185920,
+            "commit": "357b7d4462c2e663868188add57f0d9cbff3d5e0",
+            "pr": 19055,
+            "network": 0
+        },
+        "BLUS30380": {
+            "title": "Ninja Gaiden Sigma 2",
+            "alternative-title": null,
+            "wiki-id": 2060,
+            "status": "Playable",
+            "date": "2026-07-20",
+            "thread": 185877,
+            "commit": "357b7d4462c2e663868188add57f0d9cbff3d5e0",
+            "pr": 19055,
+            "network": 0
+        },
         "NPEB90187": {
             "title": "Ninja Gaiden Sigma 2 Demo",
             "alternative-title": null,
@@ -32548,6 +32911,28 @@
             "thread": 206324,
             "commit": "cbe1628cf2bb6afa749324470847466d2b70ddc5",
             "pr": 13908,
+            "network": 0
+        },
+        "NPEA90088": {
+            "title": "PlayStation Move Ape Escape Demo",
+            "alternative-title": null,
+            "wiki-id": 1271,
+            "status": "Playable",
+            "date": "2026-08-04",
+            "thread": 207430,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
+        "NPJA90173": {
+            "title": "PlayStation Move Ape Escape Demo",
+            "alternative-title": null,
+            "wiki-id": 1271,
+            "status": "Playable",
+            "date": "2026-08-04",
+            "thread": 199827,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
             "network": 0
         },
         "NPEB01357": {
@@ -41691,6 +42076,72 @@
             "pr": 11427,
             "network": 0
         },
+        "BCES00969": {
+            "title": "Start the Party!",
+            "alternative-title": null,
+            "wiki-id": 2465,
+            "status": "Playable",
+            "date": "2026-08-04",
+            "thread": 189052,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
+        "NPEA90072": {
+            "title": "Start the Party! Demo",
+            "alternative-title": null,
+            "wiki-id": 2465,
+            "status": "Playable",
+            "date": "2026-08-04",
+            "thread": 205445,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
+        "NPHA80112": {
+            "title": "Start the Party! Demo",
+            "alternative-title": null,
+            "wiki-id": 2465,
+            "status": "Playable",
+            "date": "2026-08-04",
+            "thread": 206459,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
+        "NPUA70111": {
+            "title": "Start the Party! Demo",
+            "alternative-title": null,
+            "wiki-id": 2465,
+            "status": "Playable",
+            "date": "2026-08-04",
+            "thread": 205844,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
+        "NPEA90104": {
+            "title": "Start the Party! Save the World Demo",
+            "alternative-title": null,
+            "wiki-id": 2466,
+            "status": "Playable",
+            "date": "2026-08-04",
+            "thread": 198725,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
+        "NPUA70195": {
+            "title": "Start the Party! Save the World Demo",
+            "alternative-title": null,
+            "wiki-id": 2466,
+            "status": "Playable",
+            "date": "2026-08-04",
+            "thread": 205845,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
         "NPEB02251": {
             "title": "Starwhal",
             "alternative-title": null,
@@ -44373,6 +44824,17 @@
             "thread": 173900,
             "commit": "3922f76ab57c8f471dd15151fe208fb525bb060b",
             "pr": 13409,
+            "network": 0
+        },
+        "NPEA90092": {
+            "title": "The Fight - Stressbuster Demo",
+            "alternative-title": null,
+            "wiki-id": 2589,
+            "status": "Playable",
+            "date": "2026-08-04",
+            "thread": 205481,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
             "network": 0
         },
         "BLES00477": {
@@ -48071,6 +48533,50 @@
             "pr": 18486,
             "network": 0
         },
+        "NPEA00239": {
+            "title": "Tumble",
+            "alternative-title": "Tsumiki BLOQ",
+            "wiki-id": 2731,
+            "status": "Playable",
+            "date": "2026-08-03",
+            "thread": 174300,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
+        "NPHA80114": {
+            "title": "Tumble",
+            "alternative-title": "Tsumiki BLOQ",
+            "wiki-id": 2731,
+            "status": "Playable",
+            "date": "2026-08-03",
+            "thread": 206458,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
+        "NPJA00064": {
+            "title": "Tumble",
+            "alternative-title": "Tsumiki BLOQ",
+            "wiki-id": 2731,
+            "status": "Playable",
+            "date": "2026-08-03",
+            "thread": 206905,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
+        "NPUA80470": {
+            "title": "Tumble",
+            "alternative-title": "Tsumiki BLOQ",
+            "wiki-id": 2731,
+            "status": "Playable",
+            "date": "2026-08-03",
+            "thread": 180018,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
         "BLUS31171": {
             "title": "Turbo: Super Stunt Squad",
             "alternative-title": null,
@@ -49840,6 +50346,17 @@
             "thread": 199271,
             "commit": "c325534f0791ad4bf8372d7dced3202b76c9f87f",
             "pr": 5682,
+            "network": 0
+        },
+        "BLES01215": {
+            "title": "We Dare",
+            "alternative-title": null,
+            "wiki-id": 3452,
+            "status": "Playable",
+            "date": "2026-08-03",
+            "thread": 178595,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
             "network": 0
         },
         "NPEB02245": {
@@ -51646,6 +52163,17 @@
             "pr": 4991,
             "network": 0
         },
+        "BLUS30587": {
+            "title": "Zumba Fitness",
+            "alternative-title": null,
+            "wiki-id": 3344,
+            "status": "Playable",
+            "date": "2026-08-03",
+            "thread": 183252,
+            "commit": "f1a858f351043d88fcbdbc9d30cf8b42d817b505",
+            "pr": 19116,
+            "network": 0
+        },
         "BLES00875": {
             "title": "3D Dot Game Heroes",
             "alternative-title": null,
@@ -51897,28 +52425,6 @@
             "thread": 188890,
             "commit": "21f744e21868ca2d91047bc732ef742a3eb8be58",
             "pr": 11817,
-            "network": 0
-        },
-        "BLES01102": {
-            "title": "Ar Tonelico Qoga: Knell of Ar Ciel",
-            "alternative-title": null,
-            "wiki-id": 1273,
-            "status": "Ingame",
-            "date": "2017-03-29",
-            "thread": 156933,
-            "commit": null,
-            "pr": null,
-            "network": 0
-        },
-        "BLUS30639": {
-            "title": "Ar Tonelico Qoga: Knell of Ar Ciel",
-            "alternative-title": null,
-            "wiki-id": 1273,
-            "status": "Ingame",
-            "date": "2017-03-29",
-            "thread": 177360,
-            "commit": null,
-            "pr": null,
             "network": 0
         },
         "BLES01440": {
@@ -55562,50 +56068,6 @@
             "pr": 5525,
             "network": 0
         },
-        "NPEB90439": {
-            "title": "Dragon's Dogma Adventure Demo",
-            "alternative-title": null,
-            "wiki-id": 1495,
-            "status": "Ingame",
-            "date": "2023-01-23",
-            "thread": 205655,
-            "commit": "d3183708e81ba2707d39829cc1c0cb226dd9e50e",
-            "pr": 13226,
-            "network": 0
-        },
-        "NPJB90524": {
-            "title": "Dragon's Dogma Adventure Demo",
-            "alternative-title": null,
-            "wiki-id": 1495,
-            "status": "Ingame",
-            "date": "2023-01-23",
-            "thread": 205654,
-            "commit": "d3183708e81ba2707d39829cc1c0cb226dd9e50e",
-            "pr": 13226,
-            "network": 0
-        },
-        "NPUB90813": {
-            "title": "Dragon's Dogma Adventure Demo",
-            "alternative-title": null,
-            "wiki-id": 1495,
-            "status": "Ingame",
-            "date": "2023-01-23",
-            "thread": 205647,
-            "commit": "d3183708e81ba2707d39829cc1c0cb226dd9e50e",
-            "pr": 13226,
-            "network": 0
-        },
-        "NPJB90581": {
-            "title": "Dragon's Dogma: Dark Arisen Adventure Demo",
-            "alternative-title": null,
-            "wiki-id": 1495,
-            "status": "Ingame",
-            "date": "2023-02-02",
-            "thread": 205838,
-            "commit": "c471120a80ec6f12cd4489e1a9be073d7d9c96f2",
-            "pr": 13311,
-            "network": 0
-        },
         "NPEB00777": {
             "title": "Dust 514",
             "alternative-title": null,
@@ -55842,10 +56304,10 @@
             "alternative-title": "Trusty Bell Chopin no Yume Reprise",
             "wiki-id": 1528,
             "status": "Ingame",
-            "date": "2019-07-03",
+            "date": "2026-07-19",
             "thread": 173627,
-            "commit": "ad10eb391e905ce2f818216c2359bb7c4488f293",
-            "pr": 6155,
+            "commit": "a7d90852dd02efcceb539968667201dbc9799cb0",
+            "pr": 19054,
             "network": 0
         },
         "BLJS10017": {
@@ -55853,10 +56315,10 @@
             "alternative-title": "Trusty Bell Chopin no Yume Reprise",
             "wiki-id": 1528,
             "status": "Ingame",
-            "date": "2019-07-03",
+            "date": "2026-07-19",
             "thread": 177841,
-            "commit": "ad10eb391e905ce2f818216c2359bb7c4488f293",
-            "pr": 6155,
+            "commit": "a7d90852dd02efcceb539968667201dbc9799cb0",
+            "pr": 19054,
             "network": 0
         },
         "BLUS30161": {
@@ -55864,10 +56326,10 @@
             "alternative-title": "Trusty Bell Chopin no Yume Reprise",
             "wiki-id": 1528,
             "status": "Ingame",
-            "date": "2019-07-03",
+            "date": "2026-07-19",
             "thread": 198253,
-            "commit": "ad10eb391e905ce2f818216c2359bb7c4488f293",
-            "pr": 6155,
+            "commit": "a7d90852dd02efcceb539968667201dbc9799cb0",
+            "pr": 19054,
             "network": 0
         },
         "NPHB00056": {
@@ -56563,28 +57025,6 @@
             "pr": 18192,
             "network": 0
         },
-        "BLES01796": {
-            "title": "Farming Simulator",
-            "alternative-title": null,
-            "wiki-id": 1555,
-            "status": "Ingame",
-            "date": "2018-02-28",
-            "thread": 167245,
-            "commit": "b61a69c877d9202d8d930cbaf8282b9a2a21dcb8",
-            "pr": 4200,
-            "network": 0
-        },
-        "NPEB01332": {
-            "title": "Farming Simulator",
-            "alternative-title": null,
-            "wiki-id": 1555,
-            "status": "Ingame",
-            "date": "2023-03-27",
-            "thread": 205437,
-            "commit": "4d4a70ad0e5f875309c8e6aea8448a23f06857cf",
-            "pr": 13574,
-            "network": 0
-        },
         "NPEB00437": {
             "title": "Fast Draw Showdown",
             "alternative-title": null,
@@ -56594,50 +57034,6 @@
             "thread": 178729,
             "commit": "a146aabcaf608f16bc015e516790c32bfd350e68",
             "pr": 10660,
-            "network": 0
-        },
-        "NPEB90178": {
-            "title": "FIFA 10 Demo",
-            "alternative-title": null,
-            "wiki-id": 1564,
-            "status": "Ingame",
-            "date": "2023-02-06",
-            "thread": 205504,
-            "commit": "37b46df7385deb1f8cd720fe466330ad13a53ee1",
-            "pr": 13346,
-            "network": 0
-        },
-        "NPHB00131": {
-            "title": "FIFA 10 Demo",
-            "alternative-title": null,
-            "wiki-id": 1564,
-            "status": "Ingame",
-            "date": "2023-02-06",
-            "thread": 205896,
-            "commit": "37b46df7385deb1f8cd720fe466330ad13a53ee1",
-            "pr": 13346,
-            "network": 0
-        },
-        "NPJB90205": {
-            "title": "FIFA 10 Demo",
-            "alternative-title": null,
-            "wiki-id": 1564,
-            "status": "Ingame",
-            "date": "2023-02-06",
-            "thread": 205790,
-            "commit": "37b46df7385deb1f8cd720fe466330ad13a53ee1",
-            "pr": 13346,
-            "network": 0
-        },
-        "NPUB90288": {
-            "title": "FIFA 10 Demo",
-            "alternative-title": null,
-            "wiki-id": 1564,
-            "status": "Ingame",
-            "date": "2023-02-06",
-            "thread": 199902,
-            "commit": "37b46df7385deb1f8cd720fe466330ad13a53ee1",
-            "pr": 13346,
             "network": 0
         },
         "NPEB00822": {
@@ -56891,28 +57287,6 @@
             "thread": 205056,
             "commit": "2f7a2d5134e94abd75b81639d33fdb6fdbc78033",
             "pr": 13379,
-            "network": 0
-        },
-        "NPEB01391": {
-            "title": "Final Fantasy X/X-2 HD Remaster",
-            "alternative-title": null,
-            "wiki-id": 1174,
-            "status": "Ingame",
-            "date": "2017-06-24",
-            "thread": 176694,
-            "commit": null,
-            "pr": null,
-            "network": 0
-        },
-        "NPUB31247": {
-            "title": "Final Fantasy X/X-2 HD Remaster",
-            "alternative-title": null,
-            "wiki-id": 1174,
-            "status": "Ingame",
-            "date": "2017-06-24",
-            "thread": 185041,
-            "commit": null,
-            "pr": null,
             "network": 0
         },
         "BCAS25005": {
@@ -59203,28 +59577,6 @@
             "pr": 13150,
             "network": 0
         },
-        "NPEB90307": {
-            "title": "Kung-Fu Live Demo",
-            "alternative-title": null,
-            "wiki-id": 3784,
-            "status": "Ingame",
-            "date": "2025-05-31",
-            "thread": 205373,
-            "commit": "38289f3bc1d711aa8b9d801668f8c9b8059d35df",
-            "pr": 17247,
-            "network": 0
-        },
-        "NPUB90527": {
-            "title": "Kung-Fu Live Demo",
-            "alternative-title": null,
-            "wiki-id": 3784,
-            "status": "Ingame",
-            "date": "2025-05-31",
-            "thread": 208977,
-            "commit": "38289f3bc1d711aa8b9d801668f8c9b8059d35df",
-            "pr": 17247,
-            "network": 0
-        },
         "BLES00933": {
             "title": "L.A. Noire",
             "alternative-title": null,
@@ -59366,39 +59718,6 @@
             "thread": 183424,
             "commit": "ac347148373ce3123d1f7e7f199657734e861b61",
             "pr": 12164,
-            "network": 0
-        },
-        "NPEB02197": {
-            "title": "Life Is Strange",
-            "alternative-title": null,
-            "wiki-id": 1078,
-            "status": "Ingame",
-            "date": "2020-04-11",
-            "thread": 176245,
-            "commit": "d451a0b7b76ef2ee001dd62bed847ee6f33ac9ff",
-            "pr": 7930,
-            "network": 0
-        },
-        "NPJB00789": {
-            "title": "Life Is Strange",
-            "alternative-title": null,
-            "wiki-id": 1078,
-            "status": "Ingame",
-            "date": "2020-04-11",
-            "thread": 200525,
-            "commit": "d451a0b7b76ef2ee001dd62bed847ee6f33ac9ff",
-            "pr": 7930,
-            "network": 0
-        },
-        "NPUB31636": {
-            "title": "Life Is Strange",
-            "alternative-title": null,
-            "wiki-id": 1078,
-            "status": "Ingame",
-            "date": "2020-04-11",
-            "thread": 198335,
-            "commit": "d451a0b7b76ef2ee001dd62bed847ee6f33ac9ff",
-            "pr": 7930,
             "network": 0
         },
         "BLES01811": {
@@ -59564,7 +59883,7 @@
             "thread": 207300,
             "commit": "9e7b7592364f6ca009631983e423c76aa078bf1c",
             "pr": 15401,
-            "network": 0
+            "network": 1
         },
         "BCES01663": {
             "title": "LittleBigPlanet 3",
@@ -62204,39 +62523,6 @@
             "thread": 205158,
             "commit": "8199f97e7a4f20475732bc7390ee9345a4502bd2",
             "pr": 12960,
-            "network": 0
-        },
-        "BLAS50160": {
-            "title": "Ninja Gaiden Sigma 2",
-            "alternative-title": null,
-            "wiki-id": 2060,
-            "status": "Ingame",
-            "date": "2017-12-13",
-            "thread": 163234,
-            "commit": "a1fa10ac70446ff5f4e0ba77068752bdbd0549f8",
-            "pr": 3904,
-            "network": 0
-        },
-        "BLES00736": {
-            "title": "Ninja Gaiden Sigma 2",
-            "alternative-title": null,
-            "wiki-id": 2060,
-            "status": "Ingame",
-            "date": "2017-12-13",
-            "thread": 185920,
-            "commit": "a1fa10ac70446ff5f4e0ba77068752bdbd0549f8",
-            "pr": 3904,
-            "network": 0
-        },
-        "BLUS30380": {
-            "title": "Ninja Gaiden Sigma 2",
-            "alternative-title": null,
-            "wiki-id": 2060,
-            "status": "Ingame",
-            "date": "2017-12-13",
-            "thread": 185877,
-            "commit": "a1fa10ac70446ff5f4e0ba77068752bdbd0549f8",
-            "pr": 3904,
             "network": 0
         },
         "NPEB00645": {
@@ -69741,17 +70027,6 @@
             "pr": 5611,
             "network": 0
         },
-        "BLUS30587": {
-            "title": "Zumba Fitness",
-            "alternative-title": null,
-            "wiki-id": 3344,
-            "status": "Ingame",
-            "date": "2019-12-17",
-            "thread": 183252,
-            "commit": "3efd5f360c269914c3f6f2bff2bff62eb91ebbf7",
-            "pr": 7098,
-            "network": 0
-        },
         "NPJA00044": {
             "title": "100 Yen Trash Panic",
             "alternative-title": null,
@@ -69816,17 +70091,6 @@
             "thread": 197875,
             "commit": "c951601fa4a45502c561850cbfdf927cc1c23276",
             "pr": 4052,
-            "network": 0
-        },
-        "BCET00026": {
-            "title": "After Hours Athletes Beta",
-            "alternative-title": null,
-            "wiki-id": 3422,
-            "status": "Intro",
-            "date": "2024-03-11",
-            "thread": 207239,
-            "commit": "bb809c865fc6830ad877abae30126a5879c610cd",
-            "pr": 15307,
             "network": 0
         },
         "NPEB90216": {
@@ -70049,28 +70313,6 @@
             "pr": 13374,
             "network": 1
         },
-        "NPEA00282": {
-            "title": "Beat Sketcher",
-            "alternative-title": null,
-            "wiki-id": 1306,
-            "status": "Intro",
-            "date": "2018-03-31",
-            "thread": 197828,
-            "commit": "bca46e92d453909a57aef3c9527f22b672d6a58a",
-            "pr": 4285,
-            "network": 0
-        },
-        "BCAS20144": {
-            "title": "Beat Sketcher",
-            "alternative-title": null,
-            "wiki-id": 1306,
-            "status": "Intro",
-            "date": "2023-07-20",
-            "thread": 206530,
-            "commit": "a0297933cef41adf85cbb9b2abe8d481d50cccef",
-            "pr": 14221,
-            "network": 0
-        },
         "BLES00397": {
             "title": "Blitz: The League II",
             "alternative-title": null,
@@ -70169,28 +70411,6 @@
             "commit": "6c3b2b938abdd2750d2ca464e651667221ce7658",
             "pr": 13261,
             "network": 1
-        },
-        "BLES01233": {
-            "title": "Dance on Broadway",
-            "alternative-title": null,
-            "wiki-id": 1424,
-            "status": "Intro",
-            "date": "2019-12-24",
-            "thread": 185774,
-            "commit": "e54438d3a7f07fed2366c1de7eeb286443787fe3",
-            "pr": 7119,
-            "network": 0
-        },
-        "BLUS30734": {
-            "title": "Dance on Broadway",
-            "alternative-title": null,
-            "wiki-id": 1424,
-            "status": "Intro",
-            "date": "2019-12-24",
-            "thread": 173877,
-            "commit": "e54438d3a7f07fed2366c1de7eeb286443787fe3",
-            "pr": 7119,
-            "network": 0
         },
         "NPEA00420": {
             "title": "Dance Star Digital",
@@ -70830,50 +71050,6 @@
             "pr": 13338,
             "network": 1
         },
-        "NPEA00368": {
-            "title": "Kite Fight",
-            "alternative-title": null,
-            "wiki-id": 1766,
-            "status": "Intro",
-            "date": "2025-04-07",
-            "thread": 177123,
-            "commit": "6f98b8c5aea54b3ad3bab303fb1559882a269661",
-            "pr": 16988,
-            "network": 0
-        },
-        "NPEA90064": {
-            "title": "Kung Fu Rider Demo",
-            "alternative-title": null,
-            "wiki-id": 1773,
-            "status": "Intro",
-            "date": "2023-01-19",
-            "thread": 198502,
-            "commit": "c3c2bb7ad81f6b38fe072683d430d64d163c521e",
-            "pr": 13214,
-            "network": 0
-        },
-        "NPJA90140": {
-            "title": "Kung Fu Rider Demo",
-            "alternative-title": null,
-            "wiki-id": 1773,
-            "status": "Intro",
-            "date": "2023-01-19",
-            "thread": 205562,
-            "commit": "c3c2bb7ad81f6b38fe072683d430d64d163c521e",
-            "pr": 13214,
-            "network": 0
-        },
-        "NPUA70102": {
-            "title": "Kung Fu Rider Demo",
-            "alternative-title": null,
-            "wiki-id": 1773,
-            "status": "Intro",
-            "date": "2023-01-19",
-            "thread": 198503,
-            "commit": "c3c2bb7ad81f6b38fe072683d430d64d163c521e",
-            "pr": 13214,
-            "network": 0
-        },
         "BLES00553": {
             "title": "Leisure Suit Larry Box Office Bust",
             "alternative-title": null,
@@ -71358,28 +71534,6 @@
             "pr": 7117,
             "network": 0
         },
-        "NPEA90107": {
-            "title": "Move Fitness Demo",
-            "alternative-title": null,
-            "wiki-id": 1961,
-            "status": "Intro",
-            "date": "2023-06-21",
-            "thread": 205422,
-            "commit": "00cca7be698432c2f380c1cf74edbed5533d8123",
-            "pr": 14051,
-            "network": 0
-        },
-        "NPHA80186": {
-            "title": "Move Fitness Demo",
-            "alternative-title": null,
-            "wiki-id": 1961,
-            "status": "Intro",
-            "date": "2023-06-21",
-            "thread": 206400,
-            "commit": "00cca7be698432c2f380c1cf74edbed5533d8123",
-            "pr": 14051,
-            "network": 0
-        },
         "BLES01298": {
             "title": "Need for Speed: The Run",
             "alternative-title": null,
@@ -71566,28 +71720,6 @@
             "commit": "d69e345bc07fcb13389498cf56bc83bae8195272",
             "pr": 13338,
             "network": 1
-        },
-        "NPEA90088": {
-            "title": "PlayStation Move Ape Escape Demo",
-            "alternative-title": null,
-            "wiki-id": 1271,
-            "status": "Intro",
-            "date": "2024-04-28",
-            "thread": 207430,
-            "commit": "430b57833d86da2a85c2ed3a66c41e7723551aee",
-            "pr": 15523,
-            "network": 0
-        },
-        "NPJA90173": {
-            "title": "PlayStation Move Ape Escape Demo",
-            "alternative-title": null,
-            "wiki-id": 1271,
-            "status": "Intro",
-            "date": "2024-04-28",
-            "thread": 199827,
-            "commit": "430b57833d86da2a85c2ed3a66c41e7723551aee",
-            "pr": 15523,
-            "network": 0
         },
         "BCAS20018": {
             "title": "Railfan Taiwan High Speed Rail",
@@ -71809,50 +71941,6 @@
             "pr": 10447,
             "network": 1
         },
-        "BCES00969": {
-            "title": "Start the Party!",
-            "alternative-title": null,
-            "wiki-id": 2465,
-            "status": "Intro",
-            "date": "2017-06-13",
-            "thread": 189052,
-            "commit": null,
-            "pr": null,
-            "network": 0
-        },
-        "NPEA90072": {
-            "title": "Start the Party! Demo",
-            "alternative-title": null,
-            "wiki-id": 2465,
-            "status": "Intro",
-            "date": "2023-06-27",
-            "thread": 205445,
-            "commit": "9ecfecb83ee94c33381658da0a56d3a20b640f01",
-            "pr": 14101,
-            "network": 0
-        },
-        "NPHA80112": {
-            "title": "Start the Party! Demo",
-            "alternative-title": null,
-            "wiki-id": 2465,
-            "status": "Intro",
-            "date": "2023-06-27",
-            "thread": 206459,
-            "commit": "9ecfecb83ee94c33381658da0a56d3a20b640f01",
-            "pr": 14101,
-            "network": 0
-        },
-        "NPUA70111": {
-            "title": "Start the Party! Demo",
-            "alternative-title": null,
-            "wiki-id": 2465,
-            "status": "Intro",
-            "date": "2023-06-27",
-            "thread": 205844,
-            "commit": "9ecfecb83ee94c33381658da0a56d3a20b640f01",
-            "pr": 14101,
-            "network": 0
-        },
         "BCES01273": {
             "title": "Start the Party! Save the World",
             "alternative-title": null,
@@ -71862,28 +71950,6 @@
             "thread": 188246,
             "commit": "753d8170d18d87c2ff09cfd304cb6564dbd7705d",
             "pr": 4526,
-            "network": 0
-        },
-        "NPEA90104": {
-            "title": "Start the Party! Save the World Demo",
-            "alternative-title": null,
-            "wiki-id": 2466,
-            "status": "Intro",
-            "date": "2023-02-03",
-            "thread": 198725,
-            "commit": "d69e345bc07fcb13389498cf56bc83bae8195272",
-            "pr": 13338,
-            "network": 0
-        },
-        "NPUA70195": {
-            "title": "Start the Party! Save the World Demo",
-            "alternative-title": null,
-            "wiki-id": 2466,
-            "status": "Intro",
-            "date": "2023-02-03",
-            "thread": 205845,
-            "commit": "d69e345bc07fcb13389498cf56bc83bae8195272",
-            "pr": 13338,
             "network": 0
         },
         "BCET00022": {
@@ -71950,17 +72016,6 @@
             "thread": 196872,
             "commit": "847f92956faa47fa9f7400bee8ef59864e62c615",
             "pr": 16984,
-            "network": 0
-        },
-        "NPEA90092": {
-            "title": "The Fight - Stressbuster Demo",
-            "alternative-title": null,
-            "wiki-id": 2589,
-            "status": "Intro",
-            "date": "2023-01-14",
-            "thread": 205481,
-            "commit": "1852b370d7a8310de092ca4132464c84192671cb",
-            "pr": 13205,
             "network": 0
         },
         "BCES00874": {
@@ -72093,50 +72148,6 @@
             "thread": 173961,
             "commit": "6f98b8c5aea54b3ad3bab303fb1559882a269661",
             "pr": 16988,
-            "network": 0
-        },
-        "NPEA00239": {
-            "title": "Tumble",
-            "alternative-title": "Tsumiki BLOQ",
-            "wiki-id": 2731,
-            "status": "Intro",
-            "date": "2023-12-12",
-            "thread": 174300,
-            "commit": "8ebb7b4952b291dfd9e75a21f1ac65c873f4f6a2",
-            "pr": 14870,
-            "network": 0
-        },
-        "NPHA80114": {
-            "title": "Tumble",
-            "alternative-title": "Tsumiki BLOQ",
-            "wiki-id": 2731,
-            "status": "Intro",
-            "date": "2023-12-12",
-            "thread": 206458,
-            "commit": "8ebb7b4952b291dfd9e75a21f1ac65c873f4f6a2",
-            "pr": 14870,
-            "network": 0
-        },
-        "NPJA00064": {
-            "title": "Tumble",
-            "alternative-title": "Tsumiki BLOQ",
-            "wiki-id": 2731,
-            "status": "Intro",
-            "date": "2023-12-12",
-            "thread": 206905,
-            "commit": "8ebb7b4952b291dfd9e75a21f1ac65c873f4f6a2",
-            "pr": 14870,
-            "network": 0
-        },
-        "NPUA80470": {
-            "title": "Tumble",
-            "alternative-title": "Tsumiki BLOQ",
-            "wiki-id": 2731,
-            "status": "Intro",
-            "date": "2023-12-12",
-            "thread": 180018,
-            "commit": "8ebb7b4952b291dfd9e75a21f1ac65c873f4f6a2",
-            "pr": 14870,
             "network": 0
         },
         "BCES00598": {
@@ -72292,17 +72303,6 @@
             "commit": "966aec7ad766b9793ce707a2a8004ea896ce6b71",
             "pr": 10447,
             "network": 1
-        },
-        "BLES01215": {
-            "title": "We Dare",
-            "alternative-title": null,
-            "wiki-id": 3452,
-            "status": "Intro",
-            "date": "2023-01-06",
-            "thread": 178595,
-            "commit": "310fa7127d4e6aeaac85f9d4f9efb3635b5d9861",
-            "pr": 13150,
-            "network": 0
         },
         "BLES00600": {
             "title": "Winter Sports 2010",
